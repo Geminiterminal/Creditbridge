@@ -1,0 +1,3409 @@
+Equivalent Courses from Henry Ford College
+Course Gen Ed Requirements
+Filter by course:
+ACC
+General Education requirement:
+
+Viewing all
+ Order and filter by WSU courses
+Course	Course name	WSU equivalent	Effective term
+ACC031	Accounting I	ACC3010	
+ACC032	Accounting Ii	ACC3020	
+ACC051	Business Law	BLW2510	
+ACT101	Fndmtls Of Architecture	ET1XXX	
+ACT103	Wood Deck/Patio Construct	ET1XXX	
+ACT104	Community Construction Apps.	ET1XXX	
+ACT108	Deconstruction	ET1XXX	
+ACT109	Resident Energy Efficiency.	CMT1XXX	
+ACT110	Intro To Architecture	AIA1610	
+ACT110	Intro To Architecture	ET1XXX	
+ACT112	Computer Architect	AIA1XXX	
+ACT112	Computer Architect	ET1XXX	
+ACT115	Basic Architectural Drafting.	AIA1XXX	
+ACT116	Basic Arch Cad.	AIA2600	
+ACT116	Basic Arch Cad.	ET2140	
+ACT120	Residential Construction	ET1XXX	
+ACT121	Residential Construction Matl.	AIA5620	
+ACT121	Residential Construction Matl.	ET1XXX	
+ACT124	Construction Systems 1.	CMT2X20	
+ACT128	Visual Communication	AIA1XXX	
+ACT130	Architectural Graphics	AIA1XXX	
+ACT130	Architectural Graphics	ET1XXX	
+ACT135	Intermediate Architecture.	AIA1XXX	
+ACT136	Intermediate Architectural Cad	AIA1XXX	
+ACT136	Intermediate Architectural Cad	ET1XXX	
+ACT140	Residential Construction	ET1XXX	
+ACT141	Residential Construction.	ET1XXX	
+ACT145	Adv Residential Construct	ET1XXX	
+ACT150	Residential Detailing	AIA1XXX	
+ACT150	Residential Detailing	ET1XXX	
+ACT175	Environmental Building Systems	ET1XXX	
+ACT190	Arch/Construction Co-Op	Does not transfer	
+ACT205	Advanced Arch Cad	ET2XXX	
+ACT210	Commercial Construction	ET1XXX	
+ACT211	Commercial Construction System	ET1XXX	
+ACT220	Residentail Design.	AIA2XXX	
+ACT222	Sustain Energy Design	ET2XXX	
+ACT224	Construction Systems 2	ET1XXX	
+ACT228	Visual Comms 2	ET2XXX	
+ACT232	Commercial Detailing	ET1XXX	
+ACT233	Commercial Detailing.	ET1XXX	
+ACT235	Basic Surveying	ET1XXX	
+ACT241	Adv Residential Construct	GEN2XXX	
+ACT245	Construction Estimating	ET1XXX	
+ACT246	Construction Estimating.	ET1XXX	
+ACT255	Adv Architectural Graphic	ET1XXX	
+ACT256	Adv Architectural Graphic	GEN2XXX	
+ACT258	Comp Architectural Rend.	AIA3XXX	
+ACT260	Commercial Design Development	ET1XXX	
+ACT290	Arch/Construction Co-Op	Does not transfer	
+ACT297	Spec Topics In Arch Con	GEN2XXX	
+ACT298	Spec Topics In Arch Con	GEN2XXX	
+AD10	Basic Architectural Draft.	AIA1610	
+AD10	Basic Architectural Draft.	ET1XXX	
+AD11	Graphics-Letter Presentn.	ET1XXX	
+AD12	Architectural Design Detail.	ET1XXX	
+AD13	Mech & Elect Design.	ET1XXX	
+AD14	Residential Design.	ET1XXX	
+AD15	Structural Drafting I.	ET1XXX	
+AD16	Commercial Design.	ET1XXX	
+AD17	Structural Drafting Ii.	ET1XXX	
+AERO110	Private Pilot Ground	Does not transfer	
+AH090	Calc Med Dosage I	GEN1XXX	
+AH091	Calc Med Dosage Ii	GEN1XXX	
+AH092	Calc Pedmed Dosage	GEN1XXX	
+AH10	Medical Terminology	GEN1XXX	
+AH100	Medical Terminology	MLS3330	
+AH1000	Medical Terminology	MLS3330	
+AH101	Intro To Health Careers	IHS2XXX	
+AH105	Basic Life Support	GEN1XXX	
+AH111	Interpretation Of Ekg's	GEN1XXX	
+AH116	Interpreting Med Lab Rpts	GEN1XXX	
+AH120	Pharmacology-Allied Healt	GEN1XXX	
+AH121	Basic Lact Concepts	GEN1XXX	
+AH122	Appl Principles Of Breastfeed	GEN1XXX	
+AH123	Lact Consult Pract Path 2	GEN1XXX	
+AH124	Lact Consult Pract Path 3	GEN1XXX	
+AH125	Computer Medical Info Sys	GEN1XXX	
+AH128	Dynamics Of Dementia	GEN1XXX	
+AH130	Medico Legal Principles	GEN1XXX	
+AH131	Medico Legal Princ	GEN1XXX	
+AH135	Fndmntl Cncpts-Cancer/Care	GEN1XXX	
+AH141	Intro Public Health.	PH2100	
+AH145	Culture-Sensitive Healthcare	PH1XXX	
+AH150	Pathophysiology	GEN1XXX	
+AH151	Intro To Cmmty Hlth	HE1XXX	
+AH203	Intro Critical Care I	GEN1XXX	
+AH204	Intro Critical Care Ii	GEN1XXX	
+AH250	Adv Cardiac Life Support	GEN1XXX	
+AH270	Pps Coding-Practioners	GEN1XXX	
+AH271	Cpt-4 Coding-Practioners	GEN1XXX	
+AM13	Estimate/Office Practice	GEN1XXX	
+AN31	Intro Anthropology	ANT1100	
+ANT154	Food, Culture & Economy	ANT1XXX	
+ANTH090	Supplement-Anthropology	Does not transfer	
+ANTH131	Intro Anthropology	ANT1100	
+ANTH131H	Honors Intro Anthr0	ANT1100	
+ANTH151	Cultures Of North America	ANT1XXX	
+ANTH152	Mid East People/Cult	ANT3550	
+ANTH152	Mid East People/Cult	NE3550	
+ANTH153	Intro To Archaeology	ANT3020	
+ANTH154	Food, Culture, And Economy	ANT2400	
+ARA130	Pre-Elementary Arabic	ARB1XXX	
+ARA131	Elem Modern Arabic I	ARB1010	
+ARA132	Elem Modern Arabic Ii	ARB1020	
+ARA141	Arabic Elemen Conversation.	ARB1XXX	
+ARA231	Second Year Arabic	ARB2010	
+ARA232	Second Year Arabic, Cont.	ARB2020	
+ARA290	Study Abroad Arabic Lang	ARB2XXX	
+ARA295	Directed Study In Arabic	ARB2XXX	
+ARA296	Directed Study In Arabic	ARB2XXX	
+ARA297	Directed Study In Arabic	ARB2XXX	
+ARD296	Clinical Education	GEN2XXX	
+ART10	Intro To Drawing	ADR1XXX	
+ART100	Intro To Calligraphy	ACO1XXX	
+ART101	Two-Dimensional Design.	ACO1200	
+ART102	Drawing I.	ADR1050	
+ART102H	Basic Drawing	ADR1050	
+ART104	Color Theory	ACO12XX	
+ART105	Three-Dimensional Desgn.	ACO1230	
+ART106	Computer Art I	AIN1XXX	
+ART107	Photoshop	APH2420	
+ART108	Intro To Animation	ADA2XXX	
+ART108	Intro To Animation.	ADA2210	Fall 2015
+ART109	Quarkxpress.	AGD2XXX	
+ART110	In Design.	AGD2XXX	
+ART111	Digital Media	ACO1270	
+ART112	Drawing Ii.	ADR1060	
+ART113	Life Drawing I.	ADR2070	
+ART114	Grphc Dsgn Studio 1.	AGD2240	
+ART115	Intermediate Perspective	ADR1XXX	
+ART116	Painting I.	APA2000	
+ART117	Concept Animat Techniq	ADA1XXX	
+ART118	Watercolor I	APA2110	
+ART119	Art Education-Elem Teach	AED1XXX	
+ART12	Painting.	APA1XXX	
+ART120	Art Appreciation	AH1000	
+ART121	Art Hist Survey I	AH1110	
+ART122	Art Hist Survey Ii.	AH1120	
+ART123	Hist Of Modern Art	AH3700	
+ART123H	Hist Of Modern Art	AH3700	
+ART124	20Th Century American Art	AH1XXX	
+ART125	Oriental Art	AH1XXX	
+ART126	Hist Arch & Inter	AH1XXX	
+ART127	History Of Furniture	AIA1XXX	
+ART128	History Of Photography	APH3400	
+ART129	Role Of Women In Art	AH1XXX	
+ART130	History Of Graphic Dsgn.	AGD3700	
+ART131	Sculpture I	ASL2150	
+ART132	Sculpture Ii	ASL3160	
+ART133	American Art	AH1XXX	
+ART134	Figurative Sculpture	ASL3170	
+ART135	Art Appreciation.	AH1000	
+ART138	Jewelry I.	AME2600	
+ART141	Ceramics I.	ACR2550	
+ART142	Ceramics Ii.	ACR2560	
+ART143	History Of Ceramics	ACR1XXX	
+ART150	Intro Digital Photography.	APH2400	
+ART151	Intro To Printmaking.	APR2300	
+ART152	Lithography	APR3490	
+ART153	Silkscreen	APR3500	
+ART154	Etching	APR3480	
+ART155	Relief Printing	APR3510	
+ART156	Printmaking Ii	APR3510	
+ART161	Black & White Photography	APH2XXX	Fall 2014
+ART161	Photography I.	APH2410	
+ART162	Basic Color Photography	APH4430	
+ART163	Color Photography.	APH3XXX	
+ART165	Typography	AGD2230	
+ART165	Typography.	AGD2XXX	Fall 2010
+ART166	Desktop Publishing I	AGD1XXX	
+ART171	Princ-Interior Design I	AIA2600	
+ART172	Color Theory.	ACO1200	
+ART173	Materials/Construction	AIA2610	
+ART174	Lighting-Interior Design	AIA1XXX	
+ART175	Textiles/Floor Covering	AFA2410	
+ART176	Hist-Architct/Interior I	AIA1XXX	
+ART177	Hist-Architct/Interior Ii	AIA1XXX	
+ART180	Design And User Needs	AGD2XXX	
+ART181	Interior Design-Studio I	AIA2610	
+ART182	Interior Des Materials	AIA5610	
+ART183	Interior Des Studio Ii	AIA2XXX	
+ART183	Perspective Draw/Rend.	AIA2XXX	Fall 2010
+ART184	Textiles For Interiors	AFA2410	
+ART20	Intro Letter Itali	ACO2XXX	
+ART206	Computer Art Ii	AIN2220	
+ART208	Lightwave.	AIN3XXX	
+ART209	3-D Animation.	ADA6250	Fall 2015
+ART209	3D Animation	ADA4XXX	
+ART211	Director.	AIN3XXX	
+ART213	Life Drawing Ii.	ADR3070	
+ART214	Grphc Dsgn Studio 2.	AGD225X	
+ART216	Painting Ii.	APA3000	
+ART218	Watercolor Ii	APA3110	
+ART220	Figure Painting	APA3140	
+ART221	Medieval Art.	AH3410	
+ART222	Ceramic Sculpture	ACR2XXX	
+ART223	History-Contemporary Art	AH2XXX	
+ART224	Art Of Islam.	AH31XX	
+ART225	Asian Art:india/Se Asia.	AH3XXX	
+ART226	African/Afro Amr Art.	AH3750	
+ART227	Hist Arab Art/Architecture.	AH3XXX	
+ART228	Arabic Calligraphy	ACS1XXX	
+ART229	Survey Of Contemp Art	AH3700	
+ART230	Motion Graphics	ADA2220	
+ART234	Topics In Art	ACS2XXX	
+ART238	Jewelry Ii.	AME3600	
+ART242	Ceramics Iii.	ACR3550	
+ART243	Raku Firing	ACR2XXX	
+ART244	Ceramic Glazes	ACR2XXX	
+ART245	Interactive Design.	ADA3XXX	
+ART250	Intermed Digital Photo.	APH3420	
+ART255	Animation Basics.	ADA42XX	
+ART261	Intermed B&W Photography	APH3410	
+ART264	Color Photographic Print	APH2XXX	
+ART265	Illustration.	ADA2XXX	
+ART266	Desktop Publishing Ii	AGD2XXX	
+ART267	Graphic Design Ii	AGD4250	
+ART269	Portfolio Preparation	AGD2XXX	
+ART271	Prin Interior Design Ii	AIA2XXX	
+ART273	Studio Art Capstone	ACS2XXX	
+ART275	Advanced Projects	ACS3XXX	
+ART277	Interior Design Studio	AIA2XXX	
+ART278	Interior Design:studio Ii	AIA2XXX	
+ART280	His Styles:arch,Intr&Furn	AID6320	
+ART281	Interior Des-Studio Iii	AIA4610	
+ART282	Interior Des-Envirn Syst	AIA4600	
+ART283	Lghtng-Intr Des-Stu Iv	AIA5630	
+ART285	Profess Prac Int Des-V	AIA6650	
+ART287	Interior Des Syn-Stu-Vi	AIA5997	
+ART290	Study Abroad Art Hist.	AH2XXX	
+ART2901	Directed Study - Art History.	AH2XXX	
+ART2902	Directed Study - Art History.	AH2XXX	
+ART2903	Directed Study - Art History.	AH3XXX	
+ART291	Graphic Design Internship.	AGD5990	
+ART2911	Directed Study Comp Art	GEN1XXX	
+ART2913	Directed Study Comp Art	APA3XXX	
+ART2923	Directed Study Watercolor.	APA3XXX	
+ART293	Interior Design Internshp	ART2XXX	
+ART293	Topics Studio Art	ART2XXX	Fall 2014
+ART2931	Directed Study - Drawing.	ADR3XXX	
+ART2932	Directed Study - Drawing.	ADR3XXX	
+ART2933	Dir Study - Drawing.	ADR3XXX	
+ART2936	Topics In Studio Art	ACS3XXX	
+ART2951	Directed Study Ceramics.	ACR3XXX	
+ART2952	Directed Study - Ceramics.	ACR3XXX	
+ART2953	Directed Study - Ceramics.	ACR3XXX	
+ART2971	Direct Study-B&W Photo.	APH3XXX	
+ART2972	Directed Study - B&W Photo.	APH3XXX	
+ART2973	Directed Study-B&W Photo.	APH3XXX	
+ART298	Directed Study-Comp Art	ART2XXX	
+ART2983	Directed Study Comp Art	ART2XXX	
+ART299	Topics In Fine Arts.	ART3XXX	
+ART2991	Dir Study Spec Pro.	AIA3XXX	
+ART2993	Directed Study.	AIA3XXX	
+ART30	Art Appreciation	AH1000	
+ART32.1	Basic Drawing	ADR1050	
+ART32.2	Drawing Advanced	ADR1060	
+ART33	Basic Design Two Dim	ACO1200	
+ART34	Basic Design Three Dim	ADE2200	
+ART35.1	Commercial Art I	AGD2XXX	
+ART35.2	Commercial Art Ii.	AGD2XXX	
+ART36.1	Paint I Acryl And Oil	APA2100	
+ART36.2	Paint Ii Acryl And Oil	APA3120	
+ART36.3	More Info From Student	ART1XXX	
+ART37.1	Watercolor I	APA2110	
+ART37.2	Watercolor Ii	APA3110	
+ART38.1	Life Drawing I	ADR2070	
+ART38.2	Life Drawing Ii	ADR3070	
+ART39.1	Sculpture I	ASL3160	
+ART40.1	Ceramics I.	ACR2550	
+ART40.2	Ceramics Ii.	ACR2560	
+ART41.1	Printmaking I	APR3500	
+ART41.2	Printmaking Ii	APR3510	
+ART44	Basic Color Photography.	APH2XXX	
+ART44.1	Black/White Photography	APH2410	
+ART49.1	Art His Anc To Ren	AH1110	
+ART49.2	Art His Ren-19Th Cen	AH1XXX	
+ART49.3	Hist Contemp Art	AH1120	
+ART49.6	Oriental Art	AH1030	
+ART51.1	Interior Design I	AIA2600	
+ART51.3	Prin Interior Design	AIA1XXX	
+ART51.4	Prin Interior Designii	AIA4350	
+ART51.5	Color Theory Application	AIA1XXX	
+ART51.6	Hist Arch Interiors	AH1XXX	
+ART51.8	Lighting For Interior	AIA4370	
+ART51.9	Textiles And Ornaments	AFA2410	
+ART52.2	History Of Furniture	AIA5600	
+ART55	Directed Study	ART1XXX	
+ASL130	Deaf Culture/Community.	ASL1XXX	
+ASL131	Elem American Sign Lang I	ASE1XXX	
+ASL132	Elem American Sign Lang Ii	ASE1XXX	
+ASL135	Fingerspelling & Numbering	SLP1XXX	
+ASL137	Ling & Asl Straucture	SLP1XXX	
+ASL141	Convo Amer Sign Lang	SLP1XXX	
+ASL231	2Nd Yr Sign Lang Iii	ASL2XXX	
+ASL232	2Nd Yr Sign Lang Iv	SLP2XXX	
+ASL235	Visual & Gestural Comm	SLP2XXX	
+ASL237	Transliterating & Signing Moda	SLP2XXX	
+ASL240	Asl Interpret I	SLP2XXX	
+ASL242	Asl Interpret Ii	SLP2XXX	
+ASL244	Asl Ed Interpret	SLP2XXX	
+ASL246	Asl Interpret Iii	SLP2XXX	
+ASL280	Mi Cert Prep	SLP2XXX	
+ASL290	Asl Pract I: Ed Setting	SLP2XXX	
+ASL292	Asl Pract Ii: Cmmty Setting	SLP2XXX	
+ASTR131	Descriptve Astr	AST2010	
+ASTR133	Intro Astro Lb	AST2011	
+ASTR231	General Astronomy	AST2XXX	
+ASTR31	Descriptve Astronomy	AST2010	
+ATMS131	Weather And Climate	GEL1370	
+AUSV135	Shop Mathematics	ET1XXX	
+AUT130	Auto Ignition Systems	ET1XXX	
+AUT170	Related Technical Automotive	ET1XXX	
+AUT180	Technical Automotive Welding	ET1XXX	
+AUT210	Auto Engine Dynamo	ET1XXX	
+AUT220	Auto Air Condition	ET1XXX	
+AUT230	Auto Diesel Prin	Does not transfer	
+AUTO100	Internal Combustion Engin	ET1XXX	
+AUTO101	Automotive Fundamentals.	MCT1XXX	
+AUTO102	Related Technical Automotive.	MCT1XXX	
+AUTO105	Internal Combustion Engines.	MCT1XXX	
+AUTO108	Basic Electrical	ET1XXX	
+AUTO110	Automotive Electricity	ET1XXX	
+AUTO120	Fuel Management Systems	ET1XXX	
+AUTO130	Automotive Ignition Sys	ET1XXX	
+AUTO131	Automotive Ignition Sys	ET1XXX	
+AUTO132	Computerized Ignition Sys	ET1XXX	
+AUTO135	Mat For The Technician	ET1XXX	
+AUTO140	Automotive Transmissions	ET1XXX	
+AUTO142	Electronically Controlled	ET1XXX	
+AUTO145	Manual Trans & Driveline.	ET1XXX	
+AUTO150	Diagnosing Engine Evaluat	ET1XXX	
+AUTO160	Automotive Chassis Units	ET1XXX	
+AUTO162	Abs Brakes	ET1XXX	
+AUTO165	Electronic Steerg & Suspension	ET1XXX	
+AUTO167	Brake Clinic	ET1XXX	
+AUTO170	Related Technical Auto	ET1XXX	
+AUTO180	Tech Automotive Welding	ET1XXX	
+AUTO181	Technical Automotive Welding.	MCT1XXX	
+AUTO187	Automotive Engine Tune-Up	ET1XXX	
+AUTO190	Automotive Tech Co-Op	ET1XXX	
+AUTO191	Auto Service Co-Op	ET1XXX	
+AUTO192	Automotive Service Co-Op	ET1XXX	
+AUTO210	Auto Engine Dynamometer	ET1XXX	
+AUTO215	Auto Engine Dynamometer.	CMT1XXX	
+AUTO217	Auto Alignment Clinic	ET1XXX	
+AUTO220	Auto Air Conditioning	ET1XXX	
+AUTO224	Auto Air Conditioning	ET1XXX	
+AUTO225	Auto Air Conditioning.	ET1XXX	
+AUTO227	Auto Air Conditioning	ET1XXX	
+AUTO230	Auto Diesel Principles	ET1XXX	
+AUTO231	Diesel Engine Perf & Diag	ET1XXX	
+AUTO237	Computerized Engine/Vehic	ET1XXX	
+AUTO247	Auto Emission Control	ET1XXX	
+AUTO260	Alt Auto Propulsion Systems.	MCT1XXX	
+AUTO267	Small Engines	ET1XXX	
+AUTO287	Adv Automotive Tune-Up	ET1XXX	
+AUTO290	Automotive Technology Co-Op	ET1XXX	
+AUTO291	Automotive Service Co-Op	ET1XXX	
+AUTO292	Automotive Service Co-Op	Does not transfer	
+AUTO293	Auto Tech Service Exp Lab I	ET1XXX	
+AUTO294	Auto Tech Service Exp Lab Ii	ET1XXX	
+AUTO297	Spec Topics Auto Tech	Does not transfer	
+AUTO298	Spec Topics Auto Tech	Does not transfer	
+BAC031	Principles Of Accounting	ACC3010	
+BAC10	Practical Accounting	GEN1XXX	
+BAC110	Practical Accounting	GEN1XXX	
+BAC112	Bookkeeping.	GEN1XXX	
+BAC115	Finan Accounting Hospty	GEN1XXX	
+BAC120	Intro Payroll Accounting	GEN1XXX	
+BAC131	Intro Financial Accounting	ACC3010	
+BAC132	Intro Managerial Accounting	ACC3020	
+BAC141	Comp Account-Quickbooks.	BA1XXX	Fall 2010
+BAC141	Microcomp Accounting Appl	GEN1XXX	
+BAC144	Accounting Spreadsht Appl	GEN1XXX	
+BAC146	Comp Account-Peachtree.	BA1XXX	Fall 2010
+BAC146	Computerized Accounting	GEN1XXX	
+BAC231	Asset Accounting	ACC5100	
+BAC232	Equity Accounting	GEN2XXX	
+BAC234	Equity Accounting	GEN2XXX	
+BAC235	Tax Accounting.	ACC5170	
+BAC251	Intermed Accounting	GEN2XXX	
+BAC252	Cost Accounting	GEN2XXX	
+BAC261	Intermed Accounting	GEN2XXX	
+BAC262	Cost Accounting.	ACC5160	
+BAC31	Principles Of Accounting	ACC3010	
+BAC32	Prin Of Acct Cont	ACC3020	
+BAC51	Intermediate Accounting	GEN1XXX	
+BAD211	Business Law	BLW2510	
+BAD232	Bus Communication	BA2XXX	
+BAD311	Prin/Accounting	ACC3020	
+BBA031	Intro To Business	MGT1XXX	
+BBA049	Personal Word Processing	GEN1XXX	
+BBA050	Personal Word Process I	GEN1XXX	
+BBA106	Intro To Windows	ET1XXX	
+BBA109	Document Production	GEN1XXX	
+BBA110	Business Language Skills	GEN1XXX	
+BBA121	Intro To Internet	ET1XXX	
+BBA123	Web Pages	GEN1XXX	
+BBA131	Intro To Business	MGT1XXX	
+BBA133	Business Behavior/Commun	GEN1XXX	
+BBA140	Microcomp Apps 1/2 (263)	ET1XXX	
+BBA140	Microcomp Apps 1/2 (263)	ISM2630	
+BBA143	Word Processing I	GEN1XXX	
+BBA144	Word Processing Ii	GEN1XXX	
+BBA145	Micro Application	ISM2630	
+BBA148	Adv Business Data Base	ET1XXX	
+BBA149	Desktop Publishing	ET1XXX	
+BBA150	Presentation Software	GEN1XXX	
+BBA151	Microcomputer Spreadsheet	ET1XXX	
+BBA153	Customer Service.	BA1XXX	
+BBA155	Customer Service/Sales	GEN1XXX	
+BBA157	Call Center/Help Desk	GEN1XXX	
+BBA159	Contact Center/Help Desk.	GEN1XXX	
+BBA161	Intro Indstrl Distribution.	GEN1XXX	
+BBA164	Intro Indstrl Distribution.	BA1XXX	
+BBA170	Contemporary Selling.	BA1XXX	
+BBA210	Prof Office Procedures	GEN2XXX	
+BBA231	Business Office Communica	GEN2XXX	
+BBA232	Business Office Co	GEN2XXX	
+BBA235	Office Systems And Admin	GEN2XXX	
+BBA250	Intro To Intl Business	BA1XXX	
+BBA251	Human Resources Managemnt	GEN2XXX	
+BBA252	Principles Of Marketing.	MKT2300	
+BBA253	Principles Of Finance	GEN2XXX	
+BBA254	Logistics And Supply Chain.	BA1XXX	
+BBA290	Study Abroad Intl Bus	GEN2XXX	
+BBA31	Intro To Business	MGT1XXX	
+BBA52	Principles Of Marketing	MKT1XXX	
+BBA53	Principles Of Finance	FIN1XXX	
+BCA090	Basic Elem Comp/Software	GEN1XXX	
+BCA101	Computer Keyboarding	GEN1XXX	
+BCA102	Business Keyboarding Ii	GEN1XXX	
+BCA106	Intro To Windows	GEN1XXX	
+BCA121	Intro To Internet	GEN1XXX	
+BCA123	Web Pages	GEN1XXX	
+BCA125	Intro To Internet & Web	GEN1XXX	
+BCA140	Software Applications.	TIS1500	
+BCA143	Word Processing I	GEN1XXX	
+BCA144	Word Processing Ii	GEN1XXX	
+BCA145	Spreadsht Apps: Exc	GEN1XXX	
+BCA146	Microcomputer Spreadsheet	GEN1XXX	
+BCA147	Database Appp: Acce	GEN1XXX	
+BCA148	Adv Business Data Base	GEN1XXX	
+BCA149	Desktop Publishing	GEN1XXX	
+BCA152	Presentation Software	GEN1XXX	
+BCA153	Desktop Publishing	GEN1XXX	
+BCA165	Microsoft Project Software	GEN1XXX	
+BCK051	Business Comp Keyboard I	GEN1XXX	
+BCK053	Advanced Comp Keyboard Ii	GEN1XXX	
+BCK101	Computer Keyboarding	GEN1XXX	
+BCK102	Business Keyboarding Ii	GEN1XXX	
+BCO01	Business Cooperative	Does not transfer	
+BCO1	Business Cooperative	Does not transfer	
+BCO190	Co-Op In Business	Does not transfer	
+BCO191	Co-Op In Business	Does not transfer	
+BCO192	Business Cooperative Ed	Does not transfer	
+BCO193	Business Cooperative Ed	Does not transfer	
+BCO194	Business Cooperative Ed	Does not transfer	
+BCO290	Co-Op In Business	Does not transfer	
+BCO292	Business Cooperative Ed	Does not transfer	
+BCO294	Business Cooperative Ed	Does not transfer	
+BDLA110	Visual Comm	AIA1XXX	
+BEC131	Economic History Of Us	ECO1XXX	
+BEC133	Basic Economics	ECO1000	
+BEC151	Prin-Macro Economics	ECO2020	
+BEC152	Prin-Micro Economics	ECO2010	
+BEC31	Economic Histroy Of Us	ECO1XXX	
+BEC51	Prin-Macro Economics	ECO2020	
+BEC52	Prin-Micro Economics	ECO2010	
+BEC60	Basic Economics	ECO1000	
+BEO210	Elec Office Procedure	GEN2XXX	
+BEP156	Inter Typewriting	GEN1XXX	
+BFN130	Beginning Investment	GEN1XXX	
+BFN141	Personal Finance	GEN1XXX	
+BFN253	Principles Of Finance	GEN2XXX	
+BI51	Microbiology	BIO2870	
+BIO034	Essn Anat & Phys	Does not transfer	
+BIO035	Anat/Phys I (+Lab) 2870	BIO1XXX	
+BIO036	Anat/Phys Ii (+Lab) 2870	BIO1XXX	
+BIO090	Basic Principles Of Biology.	Does not transfer	
+BIO110	Biotechnology & Human Affairs	BIO1XXX	
+BIO130	Evolution And Behav	BIO2700	
+BIO131	Intro Biology	BIO1050	
+BIO133	Human Anatomy/Physiology	BIO1XXX	
+BIO134	Essential-Anatomy/Physiol	BIO2870	
+BIO135	Microbiol Hlth Sci	BIO2270	
+BIO135	Microbiol Hlth Sci	BIO2271	
+BIO137	Environmentl Science	BIO1030	
+BIO138	Environmental Science	BIO1030	Winter 2025
+BIO138	Environmental Science.	ESG1500	
+BIO139	Enviro Sci Lab.	BIO1XXX	
+BIO141	Botany (+Lab)	BIO1XXX	
+BIO143	Zoology (+Lab)	BIO1XXX	
+BIO143H	Honors-Zoology (+Lab)	BIO1XXX	
+BIO147	Field Ecology (+Lab)	BIO3120	
+BIO150	Organisms Genes & Ecology	BIO1500	
+BIO150	Organisms Genes & Ecology	BIO1501	
+BIO152	Cells/Molecular Bio	BIO1510	
+BIO152	Cells/Molecular Bio	BIO1511	
+BIO205	Genetics (+Lab).	BIO3070	
+BIO233	Anat/Phy I+Lab (1/2 2870)	BIO2XXX	
+BIO234	Anat/Phy Ii+Lab (2/2 2870)	BIO2XXX	
+BIO234H	Hon-Anat/Phys Ii (+Lab)	BIO2XXX	
+BIO243	Comparative Anatomy(+Lab)	BIO2710	
+BIO251	Microbiology	BIO2270	
+BIO251	Microbiology	BIO2271	
+BIO261	Nucleic Acids	BIO3XXX	
+BIO262	Proteins	BIO3XXX	
+BIO263	Biotechnology Internship	BIO2XXX	
+BIO270	Exercise Physiology	BIO2XXX	
+BIO295	Hon Direct Stdy-Aqua Env	BIO3990	
+BIO296	Hon Direct Stdy-Microbio	BIO3990	
+BIO297	Hon Direct Stdy-Microbio	BIO3990	
+BIO32	Intro Biology	BIO1510	
+BIO33	Human Anat & Physiol	BIO1XXX	
+BIO35	Anat/Physio (1/2) 2870	BIO2XXX	
+BIO36	Anat/Physio (2/2) 2870	BIO2XXX	
+BIO38	Evolution & Behavior	BIO2XXX	
+BIO41	Botany (+Lab) 1/2 1500	BIO2XXX	
+BIO43	Zoology (+Lab) 2/2 1500	BIO2XXX	
+BIO51	Microbiology	BIO2270	
+BIO51	Microbiology	BIO2271	
+BIO56	Genetics (+Lab)	BIO3070	
+BIO565	Genetics (+Lab)	BIO3070	
+BLDA100	Visual Cmmunications Studio	AIA1XXX	
+BLDA110	Visual Communication	CMT1XXX	
+BLDA120	Introduction To Carpentry	CMT1000	
+BLDA120	Introduction To Carpentry	CMT1XXX	
+BLDA130	Introduction To Re	CMT1XXX	
+BLDA140	Construction Systems	CMT2X10	
+BLDA150	Environmental Building Systems	CMT1XXX	
+BLDA230	Residential Studio	CMT2XXX	
+BLDA240	Construction Systems Ii	CMT2XXX	
+BLDA250	Surveying And Site Design	CMT2XXX	
+BLDA260	Construction Estimate	CMT2XXX	
+BLDA270	Commercial Design	CMT2XXX	
+BLDA280	Building Science Capstone	CMT2XXX	
+BLDE100	Energy Indust Fndmntls	Does not transfer	
+BLDE105	Energy Indust Basic (Eib)	Does not transfer	
+BLDE106	Energy Indust Safety	Does not transfer	
+BLDE110	Ac/Dc Electricity	Does not transfer	
+BLDE115	Heating Tech	Does not transfer	
+BLDE120	Intro To Rach - Refreg I	Does not transfer	
+BLDE125	Sheet Metal Fabrication	Does not transfer	
+BLDE130	Heat & Cool Mech Codes	Does not transfer	
+BLDE135	Hvac Instal & Start Up	Does not transfer	
+BLDE140	Refreg Tech	Does not transfer	
+BLDE145	A/C Tech	Does not transfer	
+BLDE150	Cnst Blueprint Rdg	Does not transfer	
+BLDE155	Steam Hot Wtr Heat Syst	Does not transfer	
+BLDE202	Electric Field Svc Meter	Does not transfer	
+BLDE203	Nat Gas Distr Maint	Does not transfer	
+BLDE207	Underground Distr	Does not transfer	
+BLDE208	Overhead Distr	Does not transfer	
+BLDE210	Light Commercial Heat	Does not transfer	
+BLDE215	Commercial Refrig	Does not transfer	
+BLDE220	Rach Lgt Commerc Syst/Ctrl	Does not transfer	
+BLDE260	Energy Syst Mgmt	Does not transfer	
+BLDE265	Energy Syst Dsgn	Does not transfer	
+BLDE270	Cnst Proj Mgmt	Does not transfer	
+BLDE275	Energy Audit/Weather Cert	Does not transfer	
+BLDE280	Mich Mech Constractor	Does not transfer	
+BLDE282	Substation Oper Maint	Does not transfer	
+BLDE290	Nate Core Essent Test Prep	Does not transfer	
+BLDE291	Nate Ac Heat Pump Test Prep	Does not transfer	
+BLDE292	Nate Gas Oil Heat Test Prep	Does not transfer	
+BLDE298	Sp Topics Energy Tech	Does not transfer	
+BLDE299	Sp Topics Energy Tech	Does not transfer	
+BLDI290	Prof Pract Int Design	AIA6650	
+BLW153	Principles-Business Law	BLW2510	
+BLW253	Business Law/Legal Env	BLW2510	
+BLW53	Principles-Business Law	BLW2510	
+BMA10	Business Mathematics	Does not transfer	
+BMA110	Business Mathematics	Does not transfer	
+BMT10	Machine Transcription	GEN1XXX	
+BMT109	Machine Transcription	GEN1XXX	
+BOC131	Bus Office Communication	GEN1XXX	
+BOC31	Bus Office Communication	GEN1XXX	
+BOM10	Office Machines	GEN1XXX	
+BOM110	Office Machines	GEN1XXX	
+BOS109	Document Production	GEN1XXX	
+BOS110	Business Language Skills	GEN1XXX	
+BOS111	Intermediate Keyboard	GEN1XXX	
+BOS210	Prof Offic Procedures	GEN2XXX	
+BOS212	Text Edit/Prod Managemnt	GEN2XXX	
+BOS251	Office Management	GEN2XXX	
+BOT31	Elem Of Botany 1/2 1500	BIO1XXX	
+BPF041	Personal Finance	Does not transfer	
+BPF141	Personal Finance	GEN1XXX	
+BPF41	Personal Finance	GEN1XXX	
+BRE151	Prin Real Estate	GEN1XXX	
+BRL110	Fund Of Retailing	GEN1XXX	
+BRL111	Fund Retail Sales	GEN1XXX	
+BSC110	Intro Supply Chain Mgmt	BA1XXX	
+BSC120	Tech Fndtn Of Logistics	GEN1XXX	
+BSC130	Tech Fndtn Log &Mgmt	GEN1XXX	
+BSC147	Elem Anat/Physio	BIO2870	
+BSC230	Logistics & Dist Strategy	GSC5600	
+BSC240	Ops & Supply Chain Mgmt	BA1XXX	
+BSC250	Purchasing & Supply Chain Mgmt	GSC5650	
+BSC260	Global Log & Supply Chain Mgmt	GSC5620	
+BSH011	Beginning Shorthand	Does not transfer	
+BSH049	Bus Shorthand Rev	GEN1XXX	
+BSH10	Beginning Shorthand	GEN1XXX	
+BSH10.1	Beg Shrthd 1St Half	GEN1XXX	
+BSH10.2	Beg Shrthd 2Nd Half	GEN1XXX	
+BSH11	Beginning Shorthand	GEN1XXX	
+BSH110	Beginning Shorthand	GEN1XXX	
+BSH111	Beginning Shorthand Cont	GEN1XXX	
+BSH12	Medium Dictation	GEN1XXX	
+BSS10	Secretarial Science	GEN1XXX	
+BSW110	Speedwriting I	GEN1XXX	
+BSW111	Speedwriting Ii	GEN1XXX	
+BTY051	Personal Typewriting	GEN1XXX	
+BTY1	Personal Typewriting	GEN1XXX	
+BTY10	Business Typewriting	GEN1XXX	
+BTY11	Intermediate Typewriting	GEN1XXX	
+BTY11.2	Inter Typing 2Nd Ha	GEN1XXX	
+BTY110	Business Typewriting	GEN1XXX	
+BTY111	Interm Typewriting	GEN1XXX	
+BTY12	Advanced Typewriting	GEN1XXX	
+BUS031	Intro Business Admin	MGT1XXX	
+BUS051	Business Law	BLW2510	
+BUS052	Business Law Cont	GEN1XXX	
+BWP049	Wordperfect	GEN1XXX	
+BWP10	Word Process Concepts	GEN1XXX	
+BWP11	Keyboarding Punctuation	GEN1XXX	
+BWP110	Word Processing Concepts	GEN1XXX	
+BWP111	Keyboarding/Punctuation	GEN1XXX	
+BWP12	Auto Keyboarting/Text	GEN1XXX	
+BWP212	Auto Keyboarding/Text	GEN1XXX	
+BWP214	Advanced Keyboard Funct	GEN1XXX	
+CDL177	Intro To Cdl	GEN1XXX	
+CDL178	Tractor-Trailer Operations	GEN1XXX	
+CDL179	Tractor-Trailer Driving Lab	GEN1XXX	
+CDL190	Tractor-Trailer Driving Intern	GEN1XXX	
+CDL195	Cdl Independent Study	GEN1XXX	
+CHD201	Child Development	GEN2XXX	
+CHD202	Child Development	GEN2XXX	
+CHD203	Intro Early Chld Ed Birth-8	GEN2XXX	
+CHD205	Infant/Toddler Care & Develop	ELE2XXX	
+CHD206	Intro Preschool Develop/Care	GEN2XXX	
+CHD211	Exploring Early Childhood	GEN2XXX	
+CHD215	Nurturing Infant & Toddler	GEN2XXX	
+CHD221	Child Dev/School Age Competenc	GEN2XXX	
+CHD222	Child Dev/School-Age Portfolio	GEN2XXX	
+CHD231	Inquiry-Based Preschool Curric	GEN2XXX	
+CHD232	Obsrv/Assmnt In Ece	GEN2XXX	
+CHD233	Obsv/Assmnt In Ece Prac	GEN2XXX	
+CHD234	Preschool Curriculum-Pract	GEN2XXX	
+CHD241	Dev App Prac-Child Care Admin	GEN2XXX	
+CHD242	Lang/Lit Experiences Birth-5	GEN2XXX	
+CHEM028	Preparatory Chemistry	Does not transfer	
+CHEM041	Prin Of General	CHM1100	
+CHEM041	Prin Of General	CHM1130	
+CHEM091	Preparatory Chemistry	Does not transfer	
+CHEM095	Chemical Skills	Does not transfer	
+CHEM111	Chem Skls Pre-Prof Prog.	CHM1040	
+CHEM131	Princ Of Chemistry	CHM1020	
+CHEM132	Princ Org/Biol Chem(+Lab)	CHM1030	
+CHEM141	Princ-Inorg Chem (Both)	CHM1100	
+CHEM141	Princ-Inorg Chem (Both)	CHM1130	
+CHEM142	Prin-Gen/Inorg-Cont(+Lab)	CHM1140	
+CHEM142	Prin-Gen/Inorg-Cont(+Lab)	CHM1150	
+CHEM151	Chem Instrument/Lab Tech.	CHM1XXX	
+CHEM20	Technical Chemistry	Does not transfer	
+CHEM220	Intro Quantitative Analysis.	CHM2XXX	
+CHEM241	Organic Chemistry I.	CHM1240	
+CHEM242	Organic Chemistry Ii.	CHM2220	
+CHEM243	Organic Chemistry Lab I.	CHM1250	
+CHEM244	Organic Chemistry Lab Ii.	CHM2230	
+CHEM28	Preparatory Chemistry	Does not transfer	
+CHEM31	Prin Qual Analysis	CHM1030	
+CHEM35	Prin Of Chemistry	CHM1020	
+CHEM36	Prin Org/Biol Chem (+Lab)	CHM1030	
+CHEM41	Prin Of General	CHM1100	
+CHEM41	Prin Of General	CHM1130	
+CHEM42	Prin Of Gen&Inorg (+Lab)	CHM1140	
+CHEM42	Prin Of Gen&Inorg (+Lab)	CHM1150	
+CHEM53	Organic Chemistry	CHM1240	
+CHN130	Pre- Elementary Mandarin	CHI1XXX	
+CHN131	Elementary Mandarin Chinese I	CHI1010	
+CHN132	Elem Mandarin Chn Cont	CHI1020	
+CHN141	Elem Chinese Conv	CHI1XXX	
+CHN290	Study Abroad Chin Lang	CHI2XXX	
+CHN295	Directed Study Chinese	CHI2XXX	
+CHN296	Directed Study Chinese	CHI2XXX	
+CHN297	Directed Study Chinese	CHI2XXX	
+CIMEL100	Intro Basic Electricity	EET1XXX	
+CIMEL101	Instruments	EET1XXX	
+CIMEL102	Ctrl Circuits & Components	EET1XXX	
+CIMEL103	Solid State Devices	EET1XXX	
+CIMEL104	Ctrls/Instrument-Fndmtls	EET1XXX	
+CIMEL105	Sensors & Photoeyes	EET1XXX	
+CIMEL106	Calibration & Loop Train	EET1XXX	
+CIMEL107	Final Ctrl Elements	EET1XXX	
+CIMEL108	Intro To Plcs	EET1XXX	
+CIMEL109	Plc Hardware & Software	EET1XXX	
+CIMEL110	Programming Plcs	EET1XXX	
+CIMEL111	Plc Communication	EET1XXX	
+CIMEL112	Intro To Robotics	EET1XXX	
+CIMEL113	Program/Edit Robots	EET1XXX	
+CIMEL114	Robot Maint & Pm	EET1XXX	
+CIMEL115	Error Codes & Troubleshoot	EET1XXX	
+CIMEL116	Integration Plcs & Robots	EET1XXX	
+CIMEL117	Intro Siemens Plcs	EET1XXX	
+CIMEL118	Op & Intro Program Siemens	EET1XXX	
+CIMEL119	Siemens Plc Programming	EET1XXX	
+CIMEL120	Siemens Program Logic Ctlr	EET1XXX	
+CIMHP100	Hyraulics/Pneumatics	Does not transfer	
+CIMHP101	Fluids, Fluid Stor	Does not transfer	
+CIMHP102	Fluid Conductors	Does not transfer	
+CIMHP103	Pumps, Actuators	Does not transfer	
+CIMHP104	Valves	Does not transfer	
+CIMHP105	Electrohydraulics	Does not transfer	
+CIMHP111	Fndmtls Fluid Power	ET1XXX	
+CIMHP112	Flow Direction Pressure	ET1XXX	
+CIMHP113	Pumps Actuators Accumulators	ET1XXX	
+CIMHP114	Reservoirs Fluids Filters	ET1XXX	
+CIMHP115	Hose Piping Tubing	ET1XXX	
+CIMHP116	Electrohydraulics/Pneumatics	ET1XXX	
+CIMHP117	Systems Troubleshoot	ET1XXX	
+CIMMT100	Intro Machining Ops	ET1XXX	
+CIMMT101	Measuring & Layout Tools	ET1XXX	
+CIMMT102	Hand & Power Tools	ET1XXX	
+CIMMT103	Power Saws & Drill Presses	ET1XXX	
+CIMMT104	Engine Lathe Operation	ET1XXX	
+CIMMT105	Vertical Mill Ops	ET1XXX	
+CIMPR100	Drafting Fundamentals	ET1XXX	
+CIMPR101	Orthographic Interp	ET1XXX	
+CIMTA100	Basic Osha Safety	ET1XXX	
+CIMTA101	First Aid,Cpr & Aed	ET1XXX	
+CIMTA102	Hoists & Cranes	ET1XXX	
+CIMTA103	Rig Aware & Fndmtls	ET1XXX	
+CIMTA104	Basic Prevent Maint	ET1XXX	
+CIMTA105	Adv Technologies	ET1XXX	
+CIMTA106	Basic Mech Power Sys	ET1XXX	
+CIMTA107	Flexible Drives	ET1XXX	
+CIMTA108	Couplings & Alignment	ET1XXX	
+CIMTA109	Bearing,Shafts,&Seals	ET1XXX	
+CIMTA110	Brakes & Clutches	ET1XXX	
+CIMTA111	Gears And Cams	ET1XXX	
+CIMTA112	System Technology	ET1XXX	
+CIMWD100	Safety/Joint Design	ET1XXX	
+CIMWD101	Weld Code/Measure/Hand Tools	ET1XXX	
+CIMWD102	Mat Cutting Grind Fab	ET1XXX	
+CIMWD110	Smaw (Flat & Horizon)	ET1XXX	
+CIMWD111	Smaw (Vertical Welding)	ET1XXX	
+CIMWD112	Smaw (Overhead Welding)	ET1XXX	
+CIMWD120	Gtaw (Safety & Tech)	ET1XXX	
+CIMWD121	Gtaw (Steel-Flat/Horizon)	ET1XXX	
+CIMWD122	Gtaw (Steel-Vertical)	ET1XXX	
+CIMWD123	Gtaw (Aluminum)	ET1XXX	
+CIMWD130	Gmaw (Flat/Horizon)	ET1XXX	
+CIMWD131	Gmaw (Vertical/Overhead)	ET1XXX	
+CIMWD140	Weld Metallurgy(Ferrous)	ET1XXX	
+CIMWD141	Weld Metallurgy(Non-Ferrous)	ET1XXX	
+CIMWD142	Weld Metallurgy(Weld Testing)	ET1XXX	
+CIMWD210	Pipe Weld (2G & 5G)	ET2XXX	
+CIMWD211	Pipe Weld (6G)	ET2XXX	
+CIMWD212	Pipe Weld (Socket/Flange)	ET2XXX	
+CIMWD220	Tool & Die Weld(Technology)	ET2XXX	
+CIMWD221	Tool & Die Weld (Gtaw)	ET2XXX	
+CIMWD222	Tool & Die Weld (Smaw)	ET2XXX	
+CIMWD230	Smaw Aws Certification	ET2XXX	
+CIMWD231	Smaw Aws Cert(Practical)	ET2XXX	
+CIMWD240	Gtaw Aws Cert(Prep/Pract)	ET2XXX	
+CIMWD241	Gtaw Aws Cert(Practical)	ET2XXX	
+CIMWD250	Gmaw Aws Cert(Prep/Pract)	ET2XXX	
+CIMWD251	Gmaw Aws Cert(Practical)	ET2XXX	
+CIMWD260	Weld Fab Proj(Plan/Dsgn)	ET2XXX	
+CIMWD261	Weld Fab Proj(Fabricate)	ET2XXX	
+CIMWD262	Weld Fab Proj(Assembly)	ET2XXX	
+CIS020	Rpg Ii-Report Program Gen	GEN1XXX	
+CIS10	Data Processing	CSC1000	
+CIS100	Intro To Info Tech.	TIS1500	
+CIS102	Microcomputers And Dos.	ET1XXX	
+CIS104	Microcomputers/Adv Dos	GEN1XXX	
+CIS105	Desktop Operating System	CSC1XXX	
+CIS106	Introduction To Windows.	ET1XXX	
+CIS107	Hard/Software Installation.	ET1XXX	
+CIS108	Intro To Unix.	CSC1XXX	
+CIS109	Apple Support.	GEN1XXX	
+CIS11	Prin Programming L	GEN1XXX	
+CIS110	Prin Prog Logic	GEN1XXX	
+CIS111	Microcomputer Database Prog.	EET1XXX	
+CIS111	Sql For Database Develop.	CSC2XXX	Fall 2012
+CIS112	Intro To Networking.	ET1XXX	
+CIS112	Intro To Networking.	GEN1XXX	
+CIS113	Wireless Lan's.	GEN1XXX	
+CIS114	Intro To Novell Netware Admin.	ET1XXX	
+CIS115	Basic Lang Program	CSC1000	
+CIS115	Basic Lang Program	CSC1100	Fall 2002
+CIS116	Adv Local Area Network	CSC1XXX	
+CIS118	Advanced Unix	GEN1XXX	
+CIS119	Math For Computer Prof	MAT1XXX	
+CIS12	Prin Prog Fortran	CSC1120	
+CIS120	Prin Prog Fortran	CSC1120	
+CIS121	Intro To The Internet.	ET1XXX	
+CIS122	Web/Internet Technologies.	CSC3750	
+CIS123	Web Pages.	GEN1XXX	
+CIS124	Into Window Nt Server.	GEN1XXX	
+CIS125	Prin-Fortran Prog	BE1600	
+CIS126	Advanced Html.	ET1XXX	
+CIS126	Xhtml/Html/Css Web Program.	CSC3750	Fall 2011
+CIS129	Intro Unix Shell W/ Script.	CSC1050	
+CIS129	Intro Unix Shell W/ Script.	EET1XXX	
+CIS130	C# Programming	CSC2XXX	
+CIS132	Active Servr Programming.	CSC1XXX	
+CIS14	Computer Operation	GEN1XXX	
+CIS141	Intro To Mobile Appl Dvlpmnt	EET1XXX	
+CIS150	Oprtr Sys/Cncpt	GEN1XXX	
+CIS157	A+: Hardware	CSC1XXX	
+CIS158	A+: Operating Syst	CSC1XXX	
+CIS16	Cobol Programming.	GEN1XXX	
+CIS160	Cobol Programming.	CSC1140	Fall 2011
+CIS160	Strct Cob I 1/2 1140	CSC1XXX	
+CIS162	Perl Programming.	GEN1XXX	
+CIS170	"C" Programming	CSC1100	
+CIS171	Java Programming.	CSC3020	
+CIS172	Java Script Programming.	CSC1XXX	
+CIS175	Digital Forensics I	GEN1XXX	
+CIS18	Adv Stru Cobol Prog.	CSC1140	
+CIS186	Game Programming.	CSC3XXX	
+CIS190	Co-Op In Comp Info Syst	GEN1XXX	
+CIS20	Rpg-Report Prog G	GEN1XXX	
+CIS200	Rpg Ii-Report Program Gen	GEN2XXX	
+CIS210	Adv Cob Prog(2/2)114	CSC1XXX	
+CIS211	Web Server Administration	ISM2XXX	
+CIS212	Networking Ii.	GEN2XXX	
+CIS215	Advanced Visual Basic	CSC2XXX	
+CIS220	System Analysis & Design.	CSC2XXX	
+CIS220	System Analysis & Design.	EET1XXX	
+CIS221	It Elementary Tchrs.	TED2020	
+CIS222	Web Database Develop Php	CSC3XXX	
+CIS223	It For Secondary Teachers.	TED2XXX	
+CIS224	Web Multimedia	GEN2XXX	
+CIS224	Web Multimedia.	Does not transfer	Winter 2002
+CIS225	Web Framework	EET2XXX	
+CIS225	Web Framework	ISM5994	
+CIS227	Web Authoring	CSC2XXX	
+CIS228	Unix System Administratio	GEN2XXX	
+CIS229	Unix Syst Administration.	CSC3XXX	
+CIS230	C++ Programming	CSC2110	
+CIS230	C++ Programming	CSC2111	
+CIS232	C# Programming	CSC1XXX	
+CIS234	Advanced Flash.	GEN2XXX	
+CIS235	Advanced Flash	GEN2XXX	
+CIS24	Assembley Lang Prog	CSC3100	
+CIS240	Assembler Lang Prog	CSC3100	
+CIS241	Adv Mobile Appl Dvlpmnt	EET2XXX	
+CIS241	Adv Mobile Appl Dvlpmnt	ISM2XXX	
+CIS242	Voice Over Ip.	ISM2XXX	
+CIS244	Nas & Virtualization.	ISM2XXX	
+CIS26	Basic Lang Program	CSC1000	
+CIS270	Data Base Systems	GEN2XXX	
+CIS270	Oracle Database Admin.	Does not transfer	Fall 2011
+CIS271	Adv Java Programming.	CSC3XXX	
+CIS272	Project Management.	CSC2XXX	
+CIS275	Digital Forensics Ii	GEN2XXX	
+CIS276	Digital Forensics	ISM2XXX	
+CIS280	Info Assurance & Security.	Does not transfer	Fall 2006
+CIS280	Strc Pl/I Prog Lan I	CSC1100	
+CIS280	Strc Pl/I Prog Lan I	CSC1101	
+CIS290	Co-Op In Comp Info Syst	GEN2XXX	
+CIS294	Software Engineering	CSC3XXX	
+CIS294	Software Engineering	EET2XXX	
+CIS295	Network Design & Implemt	CSC2XXX	
+CIS296	Info Assurance Mthdlgy.	ISM4575	
+CIS297	Special Topics In Cis.	GEN2XXX	
+CIS298	Special Topics In Cis.	GEN2XXX	
+CIS299	Special Topics	CSC2XXX	
+CIT106	Wordperfect	GEN1XXX	
+CJ31	Intro Law Enf/Crim Justic	CRJ1010	
+CJ32	Police Administration	CRJ1XXX	
+CJ33	Police Admin Patrol	CRJ1XXX	
+CJ34	Criminal Investigation	CRJ1XXX	
+CJ35	Juvenile Justice Admin	CRJ1XXX	
+CJ36	Corrections I	CRJ1XXX	
+CJ38	Probation & Parole	CRJ1XXX	
+CJ55	Crim Just In	CRJ2XXX	
+CLEAR31	Begin Ballroom	DNC1XXX	
+CLT100	Computer Literacy Test	GEN1XXX	
+CM10	Basic Construct Material.	ET1XXX	
+CM11	Residential Construction.	ET1XXX	
+CM12	Commercial Construction.	ET1XXX	
+CM13	Estimating And Off Pract.	ET1XXX	
+CM14	Architectural Model Construct.	ET1XXX	
+CNT103	Network Infrastructure	GEN1XXX	
+CNT105	Network Infrastructure Ip.	GEN1XXX	
+CNT106	It Essentials	GEN1XXX	
+CNT107	It Essentials.	GEN1XXX	
+CNT110	Ccna: Networking I	CSC1XXX	
+CNT115	Net Infrastructure Essentials.	GEN1XXX	
+CNT120	Ccna: Networking Ii	CSC1XXX	
+CNT210	Ccna: Networking Iii	CSC1XXX	
+CNT215	Health Info Networking	GEN2XXX	
+CNT220	Ccna: Networking Iv	CSC1XXX	
+CNT231	Ccna: Security Specialization.	CSC2XXX	
+CNT260	Net Security: Security + Prep.	CSC1XXX	
+CNT270	Ccna Security.	GEN2XXX	
+CNT281	Ccsp 1: Securing Networks.	GEN2XXX	
+CNT282	Ccsp 2: Securing Hosts	GEN2XXX	
+CNT291	Ccnp - Routing	CSC2XXX	
+CNT292	Remote Access: Ccnp 2.	CSC2XXX	
+CNT293	Ccnp - Switching	CSC2XXX	
+CNT294	Net Troubleshooting: Ccnp 4.	CSC2XXX	
+CNT295	Ccnp - Network Trblshtng	CSC2XXX	
+CNT297	Ccnp: Optimizing Converged Net	CSC2XXX	
+COLL101	College Success	Does not transfer	
+COLL105	Lang Skill For Coll	Does not transfer	
+COLL106	Math Skills College Success	Does not transfer	
+COMM190	Co-Op In Communication	Does not transfer	
+COMM290	Co-Op In Communication	Does not transfer	
+COUN110	Human Potential Seminar	Does not transfer	
+COUN111	Adv Human Potential Sem	Does not transfer	
+COUN114	Stress Management Persona	Does not transfer	
+COUN115	Assertiveness Training	Does not transfer	
+COUN116	Assertiveness Daily Livng	Does not transfer	
+COUN118	Assertiveness At Work	Does not transfer	
+COUN119	Issues Personal Growth	Does not transfer	
+COUN120	Career Exploration	Does not transfer	
+COUN125	Life Work Planning	Does not transfer	
+COUN127	Job Interview Counseling	Does not transfer	
+COUN128	Active Parenting	Does not transfer	
+COUN129	Relationships	Does not transfer	
+CRJ090	Supplement-Criminal Just	Does not transfer	
+CRJ101	Women And The Law	GSW1XXX	
+CRJ102	Women Law And Society	GSW1XXX	
+CRJ121	Compar Security Systems.	CRJ1XXX	
+CRJ122	Princ-Loss Prevention	CRJ1XXX	
+CRJ123	Security Admin-Function	CRJ1XXX	
+CRJ124	Intro Private Investigat	CRJ1XXX	
+CRJ125	Tech Legal Investigaation	CRJ1XXX	
+CRJ126	Intro To Homeland Security	CRJ1XXX	
+CRJ128	Invest Interview/Report.	CRJ1XXX	
+CRJ131	Intro-Law Enforcemnt/Crim	CRJ1010	
+CRJ132	Police Admin-Staff Oper	CRJ1XXX	
+CRJ133	Police Admin-Patrol/Line	CRJ1XXX	
+CRJ134	Criminal Investigation.	CRJ3260	
+CRJ135	Juvenile Justice Admin	CRJ1XXX	
+CRJ135	Juvenile Justice.	CRJ3400	Spring/Summer 2006
+CRJ136	Corrections I-Into To Cor	CRJ1XXX	
+CRJ136	Intro To Corrections.	CRJ3350	Spring/Summer 2006
+CRJ137	Corrections Ii-Corr Inst	CRJ1XXX	
+CRJ138	Probation & Parole	CRJ1XXX	
+CRJ139	Human Relations-Crim Just	CRJ1XXX	
+CRJ140	Identity Theft & Awareness	CRJ1XXX	
+CRJ141	Corrections Clients-Gwth	CRJ1XXX	
+CRJ221	Compare Security Systems	CRJ2XXX	
+CRJ225	Legal Investigations.	CRJ2XXX	
+CRJ234	Criminalistic:crim Invest	CRJ2XXX	
+CRJ235	Comp Frnsc/Cyber Crime Invest.	CRJ1XXX	
+CRJ251	Criminal Law	CRJ2XXX	
+CRJ252	Criminal Procedure	CRJ2XXX	
+CRJ253	Legal Issues-Corrections	CRJ2XXX	
+CRJ254	Legal Issues In Security.	CRJ2XXX	
+CRJ285	Topics Crim Justice	CRJ2XXX	
+CRJ286	Topics Cor/Probat	CRJ2XXX	
+CRJ287	Police Academy	GEN2XXX	Fall 2008
+CRJ287	Top Security/Investigate.	CRJ2XXX	
+CRJ291	Criminal Justice Internsh	CRJ2XXX	
+CRJ292	Criminal Justice Internsh	CRJ2XXX	
+CS020	Prin Of Data Processing	ET1XXX	
+CS021	Rpg-Rep Program Generator	ET1XXX	
+CS022	Computer Operation	ET1XXX	
+CS023	Fortran	CSC1120	
+CS024	Cobol Programming	CSC1140	
+CS026	Basic Lang Program	CSC1XXX	
+CS12	Assembly Lang Prog I.	GEN1XXX	
+CS13	Assembly Lang Prog Ii.	GEN1XXX	
+CS20	Prin Of Data (Af)	ET1XXX	
+CS21	Rpg-Rep Prog Generator.	GEN1XXX	
+CS22	Computer Operations.	GEN1XXX	
+CS23	Fortran Iv.	CSC1120	
+CS24	Cobol Programming	CSC1140	
+CS27	Systems Analysis.	CSC1XXX	
+CSCO100	"Csco" Networking Courses	GEN1XXX	
+CSCO140	Internetworking I	EET1XXX	
+CSCO190	Internetworking Ii	EET1XXX	
+CSCO240	Internetworking Iii	GEN2XXX	
+CSCO290	Internetworking Iv.	ET1XXX	
+D10	Intro Indust Drafting	GEN1XXX	
+D10.1	Intro Graph Interpretation	ET1140	
+D11	Tech Descript Geometry	GEN1XXX	
+D12	Basic Industrial Dsgn	GEN1XXX	
+D13	Die Design	GEN1XXX	
+D14	Machine Elem Drafting	GEN1XXX	
+DNC110	Beginning Folk Dance	DNC1XXX	
+DNC111	Intermediate Folk Dance	DNC1XXX	
+DNC121	Beginning Tap	DNC1XXX	
+DNC131	Begin Ballroom	DNC1XXX	
+DNC132	Intermediate Ballroon	DNC1XXX	
+DNC133	Advanced Ballroom	DNC1XXX	
+DNC135	Dance Appreciation	DNC1XXX	
+DNC141	Beginning Ballet	DNC1XXX	
+DNC142	Intermediate Ballet	DNC1XXX	
+DNC143	Advanced Ballet	DNC3200	
+DNC151	Beginning Modern Dance	DNC1XXX	
+DNC152	Intermed Modern Dance.	DNC1020	
+DNC153	Advanced Modern Dance	DNC4010	
+DNC161	Beginning Jazz Dance	DNC2610	
+DNC162	Intermediate Jazz Dance	DNC1XXX	
+DNC163	Advanced Jazz Dance	DNC1XXX	
+DNC200	Dance History	DNC2310	
+DNC210	Dance Production	DNC3310	
+DNC221	College Dance Company	DNC5610	
+DNC222	College Dance Company	DNC5610	
+DNC223	College Dance Company	DNC5610	
+DNC224	College Dance Company	DNC5610	
+DNC225	Dance Improvisation	DNC2XXX	
+DNC226	Special Tech Align Move	DNC2XXX	
+DNC230	Begin Choreography	DNC2500	
+DNC237	Dance In Musical Theatre	DNC2XXX	
+DNC240	Method Teach Child Dance	DNC2XXX	
+DNC250	Dance Teach Method Pract	DNC2XXX	
+DNC265	Directed Study In Dance	DNC2XXX	
+DNCA121	Beginning Tap	DNC1XXX	
+DNCA131	Begin Ballroom	DNC1XXX	
+DNCA132	Intermediate Ballroom	DNC1XXX	
+DNCA133	Advanced Ballroom	DNC1XXX	
+DNCA141	Beginning Ballet	DNC1XXX	
+DNCA142	Intermediate Ballet	DNC1XXX	
+DNCA143	Advanced Ballet	DNC3200	
+DNCA151	Beginning Modern Dance	DNC1XXX	
+DNCA152	Intermed Modern Dance.	DNC1020	
+DNCA153	Advanced Modern Dance	DNC4010	
+DNCA161	Beginning Jazz Dance	DNC2610	
+DNCA162	Intermediate Jazz Dance	DNC1XXX	
+DNCA163	Advanced Jazz Dance	DNC1XXX	
+DNCA221	College Dance Company I	DNC5610	
+DNCA222	College Dance Company Ii	DNC5610	
+DNCA223	College Dance Company Iii	DNC5610	
+DNCA224	College Dance Company Iv	DNC5610	
+DNCA230	Begin Choreography	DNC2500	
+DNCA253	Adv Modern Dance.	DNC1020	
+DR31	Theatre Fundamentals	THR1XXX	
+DR32	Acting And Directing	THR1XXX	
+DR33	Technical Theatre	THR1XXX	
+DR34.2	Character For Actors	THR1XXX	
+DR37.1	Summer Theatre Workshp	THR1XXX	
+DR39	More Info From Student	GEN1XXX	
+DRAF100	Intro Graphic Interpretation	ET1XXX	
+DRAF110	Intro Industrial Drafting	ET2140	
+DRAF120	Intro To Cad.	ET2140	
+DRAF122	Solidworks Level I	GEN1XXX	
+DRAF123	Intro To Catia	ET1XXX	
+DRAF124	Solidworks Level Ii-Adv	GEN1XXX	
+DRAF125	Catia V5 Level Ii	GEN1XXX	
+DRAF126	Solidworks Level Iii-Apps	GEN1XXX	
+DRAF127	Catia V5 Level Iii	GEN1XXX	
+DRAF130	Technical Descriptive Geometry	ET1XXX	
+DRAF131	Ug Nx Level I-Intro	ET1XXX	
+DRAF132	Ug Nx Level Ii-Intermed	ET1XXX	
+DRAF133	Ug Nx Level Iii-Adv	ET1XXX	
+DRAF134	Ug Nx Level Iv-Apps	ET1XXX	
+DRAF140	Basic Industrial Detail	ET1XXX	
+DRAF142	Industrial Detailing	ET1XXX	
+DRAF210	Die Design	ET1XXX	
+DRAF220	Mach Element Drafting	ET1XXX	
+DRAF230	Jigs Fixtures Tool	ET1XXX	
+DRAF240	Product Drawing	ET1XXX	
+DRAF250	Advanced Cad Applications I.	ET1XXX	
+DRAF255	Adv Techniques	ET2XXX	Fall 2014
+DRAF255	Advanced Cad Applications Ii.	ET1XXX	
+DRAF260	Advanced Cad Applications.	ET2140	
+DRAF297	Spec Topics Ind Draft Tech	GEN2XXX	
+DRAF298	Spec Topics Ind Draft Tech	GEN2XXX	
+E10	Basic Electricity	EET1XXX	
+E10.1	Related Electronic	GEN1XXX	
+E11	Intro Semicnd & El	EET1XXX	
+E12	Dir Curr Cir	EET1XXX	
+E13	Intro Pulse/L	EET1XXX	
+E14	Basic Electronic Circuitry	EET1XXX	
+E15	Digitl Comp P	EET2XXX	
+E16	Alt Curr Circ & Ma	EET2XXX	
+E17	Advanced Circuit Analysis	EET2XXX	
+E18	Industrial Electronics	EET2XXX	
+E19	Intro To Micr	EET2720	
+E22	Microprocesso	GEN1XXX	
+EC60	Basic Economics	ECO1000	
+ECN102	Economics	ECO2010	
+ECO051	Prin Economics	ECO2020	
+ECO052	Prin Economics	ECO2010	
+ECOL30	Sci Tech And Society	SOC1XXX	
+EDU201	Intro To Education.	TED2200	
+EDU202	Intro To Education Prac.	TED2205	
+EDU250	Humanities/Perform	ED2XXX	
+EDU256	Educational Psychology	EDP3310	
+EDU260	Hist/Civics In Elem Schools	SSE5720	
+EDU270	Literacy Foundations	ELE6205	
+EDU295	Except Child Early Childhood	SED2XXX	
+EDU296	Exceptional Child	TED2220	
+EDU298	Foundtns Edu W/ Prctcm	TED2200	
+EDU298	Foundtns Edu W/ Prctcm	TED2205	
+EG31	Engineering Drawing	ME1140	
+ELEC103	Basic Electricity.	EET2000	
+ELEC105	Comp Servicing/Upgrading.	EET1XXX	
+ELEC106	Basic Electronics	EET1XXX	
+ELEC108	Survey Digital Electronic	EET1XXX	
+ELEC110	Basic Electricity	EET1XXX	
+ELEC115	Digital Circuits I.	EET2100	
+ELEC120	Basic Hydraulics	EET1XXX	
+ELEC125	Comp Serv Upgrade	EET1XXX	
+ELEC130	Intro Semiconductor Devic	EET1XXX	
+ELEC145	Ac/Dc Rotating Machines.	EET1XXX	
+ELEC150	Computer Assisted Circuit	EET1XXX	
+ELEC155	Analog Electronics.	EET1XXX	
+ELEC160	Direct Current Circuits	EET1XXX	
+ELEC170	Pneumatic Logic Circuits	EET1XXX	
+ELEC175	Intro Pulse/Logic Circuit	EET1XXX	
+ELEC180	Basic Electronic Circuit	EET1XXX	
+ELEC185	Pneumatics	EET1XXX	
+ELEC190	Electronics Tech Co-Op.	Does not transfer	
+ELEC195	Ac/Dc Circuit Analysis.	EET2000	
+ELEC200	Ladder Diag Motor Control.	EET2XXX	
+ELEC205	Analog Electronics Ii	EET2XXX	
+ELEC210	Alternating Current	EET2XXX	
+ELEC215	Digital Circuits Ii.	EET2XXX	
+ELEC220	Power Systems/Mechanical	EET2XXX	
+ELEC230	Adv Circuit Analysis	EET2XXX	
+ELEC240	Digital Computer Principl	EET2XXX	
+ELEC245	Program Logic Controller.	EET2720	
+ELEC255	Instrumentation Systems.	EET2XXX	
+ELEC260	Automation Controls Robot	EET2XXX	
+ELEC270	Instrumentation Ii	EET2XXX	
+ELEC275	Industrial Electronic Sys	EET2XXX	
+ELEC280	Intro Microprocessors	EET2720	
+ELEC281	Automation/Robotics 2	EET2XXX	
+ELEC283	Instrument/Labview 2	EET2XXX	
+ELEC285	Microprocessor Systems	EET2XXX	
+ELEC290	Co-Op Elec Tech	Does not transfer	
+ELEC295	Microprocessor Systems.	EET2720	
+ELEC297	Spec Topics Elect Tech	Does not transfer	
+ELEC298	Spec Topics Elect Tech	Does not transfer	
+ELI001	Ell Integrated Skills 1	Does not transfer	
+ELI002	Ell Integrated Skills 2	Does not transfer	
+ELI003	Ell Integrated Skills 3	Does not transfer	
+ELI004	Ell Integrated Skills 4	Does not transfer	
+ELI005	Ell Integrated Skills 5	Does not transfer	
+ELI006	Ell Integrated Skills 6	Does not transfer	
+ELI008	Comp Assisted Indiv Learn	Does not transfer	
+ELI009	Pron & Conv Non-Native Speaker	Does not transfer	
+ELI010	Pharmacy Coll Admiss Prep Test	Does not transfer	
+ELI014	Advanced Reading & Vocabulary	Does not transfer	
+ELI015	Advanced Grammar & Spelling	Does not transfer	
+ELI041	Ell Intermediate I	Does not transfer	
+ELI042	Ell Intermediate I	Does not transfer	
+ELI043	Ell Intermediate I	Does not transfer	
+ELI044	Ell Intermediate I Lis	Does not transfer	
+ELI050	Interm Prep Reading/Writing	Does not transfer	
+ELI060	Advanced Prep Reading/Writing	Does not transfer	
+ELI061	Ell Advanced I Reading	Does not transfer	
+ELI062	Ell Advanced I Writing	Does not transfer	
+ELI063	Ell Advanced I Grammar	Does not transfer	
+ELI064	Ell Advanced I Listening	Does not transfer	
+ELI101R	Ell Read & Listen/Speak 1	Does not transfer	
+ELI101W	Ell Writing & Grammar 1	Does not transfer	
+ELI102R	Ell Read & Listen/Speak 2	Does not transfer	
+ELI102W	Ell Writing & Grammar 2	Does not transfer	
+ELI103R	Ell Read & Listen/Speak 3	Does not transfer	
+ELI103W	Ell Writing & Grammar 3	Does not transfer	
+ELI104C	Ell Comm: Interm O	Does not transfer	
+ELI104R	Ell Read & Listen/Speak 4	Does not transfer	
+ELI104W	Ell Writing & Grammar 4	Does not transfer	
+ELI105C	Ell Comm: Vocabulary	Does not transfer	
+ELI105R	Ell Read & Study Skills 5	Does not transfer	
+ELI105W	Ell Writing & Grammar 5	Does not transfer	
+ELI106C	Ell Comm: Advanced	Does not transfer	
+ELI106R	Ell Read & Study Skills 6	Does not transfer	
+ELI106W	Ell Writing & Grammar 6	Does not transfer	
+ELI107T	Ell Toefl Preparation	Does not transfer	
+ELI108P	Ell Pronounciation/Conv	Does not transfer	
+ELI109G	Ell Grammar Power	Does not transfer	
+EMAT51	Science Of Materials	GEN1XXX	
+EMCH53	Statics	ME2400	
+EMS100	Basic Fundamentals	GEN1XXX	
+EMS106	Basic Procedures	GEN1XXX	
+EMS107	Basic Procedures Lab	GEN1XXX	
+EMS109	Basic Clinical Externship	GEN1XXX	
+EMS200	Paramedic I	GEN2XXX	
+EMS205	Paramedic Lab I	GEN2XXX	
+EMS206	Paramedic Procedures Lab I	GEN2XXX	
+EMS210	Paramedic Ii	GEN2XXX	
+EMS215	Paramedic Lab Ii	GEN2XXX	
+EMS216	Paramedic Procedures Lab Ii	GEN2XXX	
+EMS220	Paramedic Iii	GEN2XXX	
+EMS225	Paramedic Lab Iii	GEN2XXX	
+EMS226	Paramed Procedures Lab Iii	GEN2XXX	
+EMS230	Paramedic Iv	GEN2XXX	
+EMS240	Paramedic V	GEN2XXX	
+EMS290	Advanced Clinical I	GEN2XXX	
+EMS291	Paramedic Clinical	GEN2XXX	
+EMS292	Paramedic Clinical	GEN2XXX	
+EMS293	Paramedi Clinical	GEN2XXX	
+EMS295	Advanced Clinical Ii	GEN2XXX	
+EMS299	Advanced Clinical Iii	GEN2XXX	
+EMT100	Basic Fundamentals	GEN1XXX	
+EMT106	Basic Procedures	GEN1XXX	
+EMT109	Basic Clinical Externship	Does not transfer	
+EMT200	Specialist/Paramedic Ess	GEN2XXX	
+EMT210	Specialist/Paramedic Hemo	GEN2XXX	
+EMT220	Specialist/Paramedic Airw	GEN2XXX	
+EMT230	Specialist/Paramedic Proc	GEN2XXX	
+EMT250	Paramedic I	GEN2XXX	
+EMT260	Paramedic Cardiology	GEN2XXX	
+EMT270	Paramedic Pharmacology	GEN2XXX	
+EMT285	Paramedic Procedures	GEN2XXX	
+EMT290	Specialish/Paramedic Ext	GEN2XXX	
+EMT295	Paramedic Externship	Does not transfer	
+EMT30.40	Emergency Med	HE1XXX	
+EMT3040	Emergency Med Technician	LFA2330	
+ENG011	Comp/Lit And Tech Skills	Does not transfer	
+ENG028	Fund Of Writing	Does not transfer	
+ENG031	Composition	ENG1020	
+ENG032	Composition Cont	ENG2XXX	
+ENG051	Intro To Literature	ENG1XXX	
+ENG068	Masterpiece Of Lit	ENG1XXX	
+ENG073	Ell Toefl Preparation	Does not transfer	
+ENG074	Grammar Power	Does not transfer	
+ENG075	Ell Pronounciatn/Convrstn	Does not transfer	
+ENG076	College Read Lab-Net/Compass	Does not transfer	
+ENG077	Pronunciation-Non-Native	Does not transfer	
+ENG078	Developmnt Read-Non-Nativ	Does not transfer	
+ENG079	Basic Reading	Does not transfer	
+ENG080	Review-Grammr/Punctuation	Does not transfer	
+ENG081	Developmentl College Read	Does not transfer	
+ENG082	Academic Reading, Speaking	Does not transfer	
+ENG083	College Reading Lab	Does not transfer	
+ENG084	College Reading Lab	Does not transfer	
+ENG086	College Writing Lab	Does not transfer	
+ENG087	College Reading Laboratory	Does not transfer	
+ENG088	Basic Writing:sent-Paragrph	Does not transfer	
+ENG089	Vocabulary Build/Spelling	Does not transfer	
+ENG090	Study Skills	Does not transfer	
+ENG091	English-Non-Native Speak	Does not transfer	
+ENG092	Basic Writing For Ell	Does not transfer	
+ENG093	Basic Writng:paragph-Essay	Does not transfer	
+ENG094	Alp: Reading & Writing	Does not transfer	
+ENG095	Fund Of Writing Ii	Does not transfer	
+ENG095E	Alp For Ell" Reading	Does not transfer	
+ENG098	Study Skills	Does not transfer	
+ENG099	Funds Of English	Does not transfer	
+ENG1	Composition	ENG1020	
+ENG10	Comp/Lit And Tech	ENG1020	
+ENG100	Fund Read & Writ	Does not transfer	
+ENG101	College Reading	Does not transfer	
+ENG102	Read & Comp	ENG2XXX	
+ENG11	Comp/Lit & Tech Sk	ENG1XXX	
+ENG110	Comp/Lit & Tech Comm	Does not transfer	
+ENG111	Comp/Lit & Tech Comm	Does not transfer	
+ENG120	Grammar Essentials	Does not transfer	
+ENG121	Assisting-Elem Reading.	Does not transfer	
+ENG131	Intro College Writing	ENG1020	
+ENG131A	Intro Coll Writing(Alp)	ENG1020	
+ENG131E	Intro College Writing	ENG1020	
+ENG131H	Hon Intro Coll Writing	ENG1020	
+ENG132	College Writing/Research	ENG3010	
+ENG132H	Hon Writing/Research	ENG3010	
+ENG133H	Composition-Honors	ENG2XXX	
+ENG133H	Composition-Honors	ENG3010	Fall 2018
+ENG135	Business/Techn Writing.	ENG3050	
+ENG139	Creative Writing	ENG2800	
+ENG17	Develop Coll Reading	Does not transfer	
+ENG18	College Rad (Af)	Does not transfer	
+ENG19.1	Coll Reading Labor	Does not transfer	
+ENG19.2	Coll Reading Labor	Does not transfer	
+ENG2	Composition Con't	ENG2XXX	
+ENG231	Int-Lit:poetry/Drama	ENG2XXX	
+ENG232	Intro To The Short Story	ENG2XXX	
+ENG233	Intro To The Novel	ENG2XXX	
+ENG234	Topics In Literature	ENG2XXX	
+ENG235	Amercn Lit Before 1900	ENG3130	
+ENG236	American Autobiography	ENG2XXX	
+ENG237	American Lit Since 1900	ENG3140	
+ENG239	Modern Amer Poetry	ENG2XXX	
+ENG241	Shakespeare	ENG2200	
+ENG243	Women's Lives-Lit	ENG2XXX	
+ENG245	Bible As Literature	ENG2500	
+ENG246	Intro Children's Lit	ELE6200	
+ENG247	Eur Continental Fict	ENG2XXX	
+ENG248	African American Lit	ENG3470	
+ENG25.1	Coll Writing Labor	Does not transfer	
+ENG25.2	Coll Writing Labor/Comp	Does not transfer	
+ENG28	Fund Of Writing	Does not transfer	
+ENG295	Directed Study In English	GEN2XXX	
+ENG296	Directed Study In English	GEN2XXX	
+ENG297	Directed Study In English	GEN2XXX	
+ENG30.1	Rev Of Gram & Punc	Does not transfer	
+ENG30.2	Vocab Bld/Spll Imprvment	Does not transfer	
+ENG31	English Composition	ENG1020	
+ENG32	Composition Contin	ENG2XXX	
+ENG37	Professional Communication	Does not transfer	
+ENG50.3	Works Kurt Vonnegu	ENG2XXX	
+ENG51	Intro To Literature	ENG1XXX	
+ENG53	Amer Lit 1833-1900	ENG2XXX	
+ENG54	Amer Lit 1900-Pres	ENG2XXX	
+ENG56	Amer Lit 1833-1940	ENG2XXX	
+ENG57	Shakespeare	ENG2200	
+ENG74	Grammar Power	Does not transfer	
+ENG75	Ell Pronounciation/Conv	Does not transfer	
+ENG95E	Alp For Eng Lang Learner	Does not transfer	
+ENGR1000	Intro To Engineering	BE1XXX	
+ENGR101	Intro Engg Design (Ied)	ET1XXX	
+ENGR102	Principles Of Engg (Poe)	ET1XXX	
+ENGR103	Civil Engg & Arch (Cea)	ET1XXX	
+ENGR104	Digital Electronics (De)	EET1XXX	
+ENGR105	Biotechnical Engg (Be)	ET1XXX	
+ENGR106	Comp Integ Manufact (Cim)	ET1XXX	
+ENGR107	Aerospace Engineering	ET1XXX	
+ENGR108	Engg Dsgn & Development	ET1XXX	
+ENGR121	Engin Design & 3D	BE1XXX	
+ENGR125	Intro Computation Engineers.	BE1500	
+ENGR130	Intro To Engineering	BE1200	
+ENGR131	Engineering Drawing	ET1140	
+ENGR131	Engineering Drawing	ME1140	
+ENGR132	Descriptive Geometry	ET1XXX	
+ENGR201	Science Of Materials.	BE1300	
+ENGR201	Science Of Materials.	ET2200	
+ENGR205	Digital Systems + Lab.	ECE2610	
+ENGR231	Statics/Dynamics	ET3030	
+ENGR231	Statics/Dynamics	ME2400	
+ENGR232	Statics	ET3030	
+ENGR232	Statics	ME2410	
+ENGR233	Dynamics	ET3050	
+ENGR233	Dynamics	ME3400	
+ENGR235	Mechanics Of Materials	ET3XXX	
+ENGR235	Mechanics Of Materials	ME2420	
+ENGR240	Circuits + Lab.	ECE3300	
+ENGT245	Applied Statics	ET2XXX	
+ENGT250	Machine Elements Dsgn	ET2XXX	
+ENGT265	Mech Senior Project	Does not transfer	
+ENT100	Basic Workplace Skills	ET1XXX	
+ENT101	Intro Energy Technology	ET1XXX	
+ENT102	Hvac Installation & Start-Up.	ET1XXX	
+ENT103	Dc & Ac Electricity	EET2000	
+ENT104	Heating Technology.	MCT1XXX	
+ENT105	Intro To Rach.	MCT1XXX	
+ENT106	Sheet Metal Fabrication	ET1XXX	
+ENT107	Applied Instrumentaiton	ET1XXX	
+ENT108	Intro Heating/Cooling	ET1XXX	
+ENT109	Hvac Installation & Start-Up	ET1XXX	
+ENT110	Heating Systems Maintnce	ET1XXX	
+ENT113	Refrigeration Technology	ET1XXX	
+ENT114	Refrigeration Systems	ET1XXX	
+ENT115	Rach Systems Maintenance	ET1XXX	
+ENT116	Heating Systems Trouble	ET1XXX	
+ENT117	Refrigeration Systems	ET1XXX	
+ENT118	Rach Systems Troubleshoot	ET1XXX	
+ENT119	Air Conditioning Tech	Does not transfer	
+ENT122	Data Logging Appl For Energy.	ET1XXX	
+ENT123	Home Tech Systems Design.	ET1XXX	
+ENT124	Construction Blueprint Reading	Does not transfer	
+ENT125	Steam/Hot Water Heat Sys.	CMT2XXX	
+ENT131	Residential Energy Conser	ET1XXX	
+ENT132	Commercial Energy Managem	ET1XXX	
+ENT141	Power Engineering I	Does not transfer	
+ENT143	Power Engineering I	ET1XXX	
+ENT144	Power Engineering Ii	ET1XXX	
+ENT145	Power Engineering Ii	Does not transfer	
+ENT190	Energy Management Intern	ET1XXX	
+ENT192	Energy Management Practic	ET1XXX	
+ENT196	Energy Management Indepen	ET1XXX	
+ENT201	Applied Instrumentation	ET1XXX	
+ENT212	Light Commercial Heating	ET1XXX	
+ENT214	Mechanical Code Refrigera	ET1XXX	
+ENT215	Mechanical Code Heating	ET1XXX	
+ENT216	Light Commercial Refriger	ET1XXX	
+ENT219	Rach Light Commercial Sys	ET1XXX	
+ENT230	Michigan Mechanical Contr	ET1XXX	
+ENT231	Applied Digital Control	ET1XXX	
+ENT235	Industrial Controls Calib	ET1XXX	
+ENT240	Control Systems:microproc	ET1XXX	
+ENT241	Refrigerator Operator	ET1XXX	
+ENT242	Power Engineering Iv	ET1XXX	
+ENT244	Power Engineering V	ET1XXX	
+ENT245	Power Engineeering Iii	ET1XXX	
+ENT247	Plant/Building Operation	ET1XXX	
+ENT248	Power Engineering 1St Cla	ET1XXX	
+ENT250	Systems Design-Residentia	ET1XXX	
+ENT251	Sys Design-Commercial	ET1XXX	
+ENT252	Intro Green Build Strategy.	CMT2XXX	
+ENT255	Leed Green Build Cert Prep.	MCT1XXX	
+ENT256	Power Engineering Iii	Does not transfer	
+ENT259	Power Engineering Iv	Does not transfer	
+ENT260	Energy Systs Mgmt	Does not transfer	
+ENT265	Energy Systems Design	Does not transfer	
+ENT266	Solar Energy Heating	ET1XXX	
+ENT267	Bid/Estim For Mech Contractor	Does not transfer	
+ENT269	Project Management.	ET5870	
+ENT297	Spec Topics Energy Tech	Does not transfer	
+ENT298	Spec Topics Energy Tech	Does not transfer	
+ENVS300	Sent To Department	Does not transfer	
+FM105	Confined Space Rescue	GEN1XXX	
+FM115	Hazmaat Operations Level	GEN1XXX	
+FM125	Incident Command System	GEN1XXX	
+FM135	Live Fire Training	GEN1XXX	
+FM190	Fire Fighting Externship	Does not transfer	
+FP10	Basic Hydraulics	ET1XXX	
+FP11	Pneumtic Log	ET1XXX	
+FR31	Elem Fren 1St Sem	FRE1010	
+FR32	Elem Fren Cont 2Nd	FRE1020	
+FR41	Elem Conv & Grammar	FRE1020	
+FRE091	Intro-French Grammar I	Does not transfer	
+FRE092	Intro-French Grammar Ii	Does not transfer	
+FRE093	Intro-French Grammar Iii	Does not transfer	
+FRE094	Intro-French Grammar Iv	Does not transfer	
+FRE131	Elementary French I	FRE1010	
+FRE132	Elementary French Ii	FRE1020	
+FRE141	Elem Conversation In French	Does not transfer	
+FRE231	Second Year French Iii	FRE2010	
+FRE232	Second Year French Iv	FRE2100	
+FRE290	Study Abroad Fre Lang/Cult.	FRE2XXX	
+FRE295	Directed Study In French	FRE2XXX	
+FRE296	Directed Study In French	FRE2XXX	
+FRE296H	Hon-Dir Stdy In French	FRE2XXX	
+FRE297	Directed Study In French	FRE2XXX	
+FS201	Fire Investig: Origin & Causes	GEN2XXX	
+GEOG032	World Regional Geog	GPH1100	
+GEOG090	Supplement To Geography	Does not transfer	
+GEOG131	Prin Physical Geography.	GPH3400	
+GEOG132	World Regional Geog	GPH1100	
+GEOG133	Geography Of Michigan	GPH1XXX	
+GEOG134	Geography Of Michigan	GPH2200	
+GEOG138	Geography Of Michigan	GPH1XXX	
+GEOG221	Geography Of Middle East	GPH2XXX	
+GEOG231	Geographic Info Systems	GPH2XXX	
+GEOG31	Prin Physical Geography	GPH3400	
+GEOL131	Physical Geology	GEL1010	
+GEOL132	Historical Geology (+Lab)	GEL1020	
+GEOL133	Geology Of Michigan	GEL2000	
+GEOL31	Physical Geology	GEL1010	
+GER091	Intro-German Grammar I	Does not transfer	
+GER092	Intro-German Grammar Ii	Does not transfer	
+GER093	Intro-German Grammar Iii	Does not transfer	
+GER094	Intro-German Grammar Iv	Does not transfer	
+GER131	Elementary German I	GER1010	
+GER132	Elementary German Ii	GER1020	
+GER141	Elem Conversation German.	Does not transfer	
+GER231	Second Year German Iii	GER2010	
+GER232	Second Year German Iv	GER2020	
+GER290	Study Abroad Ger Lang/Cult.	GER2XXX	
+GER295	Directed Study In German.	GER2XXX	
+GER296	Directed Study In German.	GER2XXX	
+GER297	Directed Study In German.	GER2XXX	
+GER31	Elem German 1St Se	GER1010	
+GER32	Elem German 2Nd Session	GER1020	
+GIS131	Geospatial Technologies	GPH1XXX	
+GIS231	Geographic Info Systems	GPH2XXX	
+GIS232	Remote Sensing	GPH2XXX	
+GIS233	Field Methods	GPH2XXX	
+GIS270	Adv Gis Apps	GPH2XXX	
+GIS271	Gis Custom & Program	GPH2XXX	
+GIS272	Web Gis/Geodatabase Dsgn	GPH2XXX	
+H12	Foods And Nutrition	NFS1XXX	
+HC10	Heat Systems Maintenance	Does not transfer	
+HC11	Heat Systems Trouble	Does not transfer	
+HC12	Light Commercial Heating	Does not transfer	
+HC14	Refrig Syst Maintenance	Does not transfer	
+HC15	Refrig Syst Troubleshoot	Does not transfer	
+HC16	Light Commercial Refrig	Does not transfer	
+HC17	Rach Systems Maintenance	Does not transfer	
+HC18	Rach Systems Trouble	Does not transfer	
+HC19	Rach Light Commercial	Does not transfer	
+HCS103	Employmnt Skill Hlth Care	GEN1XXX	
+HCS106	Intro Phlebotomy	GEN1XXX	
+HCS109	Phlebotomy Clinical	GEN1XXX	
+HCS113	Basic Ekg Procedures	GEN1XXX	
+HCS116	Ekg Interpretation	GEN1XXX	
+HCS119	Ekg Clinical Practicum	GEN1XXX	
+HCS124	Basic Health Assessment	GEN1XXX	
+HCS131	Computers Health Care	GEN1XXX	
+HCV09	Intro To Rach	ET1XXX	
+HCV10	Heat Sys Main	ET1XXX	
+HCV14	Refrigeration	Does not transfer	
+HEP241	Emergency Med Training I	GEN2XXX	
+HEP242	Emergency Med Training Ii	GEN2XXX	
+HEP245	Emergency Med Trainng Adv	GEN2XXX	
+HEP246	Emerg Med Training Clinc	GEN2XXX	
+HEP31.2 8	Softball I	LFA1XXX	
+HEP31.2 9	Swimming I	LFA1XXX	
+HHS100	Intro To Soc Work	SW1010	
+HHS101	Intro To Counseling And Interv	SW1XXX	
+HHS102	Intro To Interpersonal Theory	SW1XXX	
+HHS110	Behavior Tech Intro	SW1XXX	
+HHS201	Mental Health Technician I	SW2XXX	
+HHS202	Mental Health Technician Ii	SW2XXX	
+HHS205	Adaptive Play And Rec Integrat	SW2XXX	
+HHS215	Child Life Specialist Asst	SW2XXX	
+HHS290	Child Life Spec Asst Co-Op	Does not transfer	
+HIS051	History Of Us I	HIS2040	
+HIS236	American Civil War	HIS2XXX	
+HIST057	History Of England To 1714	HIS1XXX	
+HIST090	Supplement To History	Does not transfer	
+HIST111	Ancient World Hist.	HIS1000	
+HIST112	Early Mod Wrld Hist.	HIS1000	
+HIST113	Modern World Hist.	HIS1300	
+HIST125	Modern Middle East	NE2040	
+HIST130	History England To 1688	HIS1XXX	
+HIST151	American History I	HIS2040	
+HIST152	American History Ii	HIS2050	
+HIST152H	Honors Hist Am From 1865	HIS2050	
+HIST155	Afro-American History	HIS2XXX	
+HIST157	History-Women In The Us	HIS1XXX	
+HIST160	Us Social Hist Since 1875	HIS1XXX	
+HIST162	American Labor Movement	HIS1XXX	
+HIST165	History Of Michigan	HIS2240	
+HIST222	Hist Of Rome 753Bce-500Ce	HIS2XXX	
+HIST225	The Modern Middle East	NE2040	
+HIST226	Hist Of England To 1688	HIS2XXX	
+HIST230	History Of England To 1688	HIS2XXX	
+HIST235	The Era Of The Vietnam War	HIS2XXX	
+HIST236	The American Civil War	HIS2XXX	
+HIST237	Cold War 1917-1991	HIS2XXX	
+HIST238	History Of Rome.	HIS2XXX	
+HIST239	Colonial America.	HIS2XXX	
+HIST240	Coming To The New World.	HIS2XXX	
+HIST241	The Revolutionary War Era.	HIS2XXX	
+HIST242	United States & World War Ii	HIS2XXX	
+HIST243	African-American History	HIS2XXX	
+HIST244	Sea Power! History Us Navy.	HIS2XXX	
+HIST248	Coming To The New World	HIS2XXX	
+HIST250	American Labor History	HIS2XXX	
+HIST252	Hist Of Women In The Us	HIS2XXX	
+HIST254	History Of Michigan	HIS2240	
+HIST255	African-American History	HIS2XXX	
+HIST256	Sea Power! History Us Navy	HIS2XXX	
+HIST257	History Of Women In U. S.	HIS2XXX	
+HIST258	The Revolutionary War Era	HIS2XXX	
+HIST260	Amer Social History Since 1875	HIS2XXX	
+HIST261	The Modern Middle East	NE2040	
+HIST262	American Labor History	HIS2XXX	
+HIST265	History Of Michigan	HIS2240	
+HIST268	Hist Of Sports In America.	HIS2XXX	
+HIST270	American Civil War	HIS2XXX	
+HIST273	Amer Social Hist Since 1875	HIS2XXX	
+HIST281	Global Cold War 1917-1991	HIS2XXX	
+HIST283	Us & Cold War 1917-1991	HIS2XXX	
+HIST285	Us & 2Nd Cold War	HIS2XXX	
+HIST286	Us & The Vietnam War	HIS2XXX	
+HIST295	Directed Study	HIS2XXX	
+HIST295H	Historical Methods	HIS2XXX	
+HIST296	Directed Study	HIS2XXX	
+HIST296H	Historical Methods	HIS2XXX	
+HIST297	Directed Study	HIS2XXX	
+HIST297H	Historical Methods	HIS2XXX	
+HIST31	Intro Orient/Europ	HIS1000	
+HIST31.3	Ancient History	HIS1000	
+HIST31.6	Early Modern History	HIS1000	
+HIST32	Modern World Civil	HIS1300	
+HIST32.9	Modern History	HIS1300	
+HIST33	History Of Michigan	HIS2240	
+HIST41	Am Soc Since 1875	HIS1XXX	
+HIST50	History Us 1865-Present	HIS2050	
+HIST51	History Us To 1865	HIS2040	
+HIST52	History Us From 1865	HIS2050	
+HIST54	Afro American History	HIS2XXX	
+HIST57	History Of England - 1714	HIS1XXX	
+HIST58	His Engl 1714 To Pres	HIS2XXX	
+HIT100	Medical Information Sci	GEN1XXX	
+HIT150	Basic Coding/Theory Pract	GEN1XXX	
+HIT161	Medical Info Processing	GEN1XXX	
+HIT163	Electronic Imaging	GEN1XXX	
+HIT170	Health Care Statistics	GEN1XXX	
+HIT191	Clinical Applications	GEN1XXX	
+HIT200	Legal Aspects Health Care	GEN2XXX	
+HIT210	Health Care Delivery Syst	GEN2XXX	
+HIT220	Quality Assurance	GEN2XXX	
+HIT230	Ambulatory Coding	GEN2XXX	
+HIT250	Advanced Coding	GEN2XXX	
+HIT260	Supervisory Management	GEN2XXX	
+HIT292	Hospital Practice	GEN2XXX	
+HIT293	Specialized Practice	GEN2XXX	
+HON131	Honors Colloquium	HON2100	
+HON151	Honors Colloquium	HON2100	
+HON161	Honors Colloquium	GEN1XXX	
+HON231	Honors Directed Study	HON2XXX	
+HON232	Honors Directed Study	HON2XXX	
+HON233	Honors Directed Study	HON2XXX	
+HON234	Honors Directed Study	HON2XXX	
+HON235	Honors Directed Study Abroad	HON2XXX	
+HON236	Hon Direct Study Serv Learn	HON2XXX	
+HON251	Great Works	ENG3100	
+HONORS151	Honors Colloquium	HON2100	
+HONORS231	Honors Directed Study	HON2XXX	
+HONORS232	Honors Directed Study	HON2XXX	
+HONORS233	Honors Directed Study	HON2XXX	
+HONORS234	Honors Directed Study	HON2XXX	
+HONORS251	Great Works.	ENG3100	
+HOS3300	Nutrition For Food Service.	GEN1XXX	
+HOSP101	Wines Of The World	GEN1XXX	
+HOSP103	Major Wine Grape Varieties	GEN1XXX	
+HOSP105	Applied Foodservice Sanitation	GEN1XXX	
+HOSP107	Artisanal Cheese/Craft Beer	GEN1XXX	
+HOSP108	Creative Cookery	GEN1XXX	
+HOSP109	Banquets/Catering	GEN1XXX	
+HOSP110	Intro Hosp Indust	GEN1XXX	
+HOSP115	International Cooking	GEN1XXX	
+HOSP121	Intro Baking & Cooking	GEN1XXX	
+HOSP123	Intro Profess Cook	GEN1XXX	
+HOSP124	Intro To Prof Cooking Lab	GEN1XXX	
+HOSP125	Intro To Prof Baking/Lab	GEN1XXX	
+HOSP130	Food And Nutrition	NFS2030	
+HOSP140	Adv Food Prep	GEN1XXX	
+HOSP145	Ice Carving And Design	GEN1XXX	
+HOSP150	Dining Room Service & Oper	GEN1XXX	
+HOSP160	Hospitality Purchasing	GEN1XXX	
+HOSP170	Food & Beverage Controls	GEN1XXX	
+HOSP190	Hosp Studies Co-Op	Does not transfer	
+HOSP210	Hotel/Rest Superv	GEN1XXX	
+HOSP211	Intro To Hosp Industry	GEN1XXX	
+HOSP215	International Cooking	GEN1XXX	
+HOSP220	Intro Baking & Cooking	GEN1XXX	
+HOSP221	Front Off Proced	GEN1XXX	
+HOSP224	Culinary Skills/Nutr Cook	GEN1XXX	
+HOSP225	Dining Room Captain	GEN1XXX	
+HOSP226	Fundamentals Of Baking	GEN1XXX	
+HOSP231	Advanced Baking & Pastry	GEN1XXX	
+HOSP235	Ice Carving For Professional	GEN1XXX	
+HOSP241	Garde Manager & Menu Planning	GEN1XXX	
+HOSP245	Hotel & Restaurant Desserts	GEN2XXX	
+HOSP250	Hosp & Trav Mark	GEN2XXX	
+HOSP251	Dining Room Serv & Ops	GEN2XXX	
+HOSP255	Professional Cake Decorating	GEN2XXX	
+HOSP270	Facilities Management	GEN2XXX	
+HOSP279	Culinary Arts I-Lecture	GEN2XXX	
+HOSP280	Culinary Art, Food I	GEN2XXX	
+HOSP285	Culinary Art, Food Ii	GEN2XXX	
+HOSP290	Hospitality Studies Co-Op	Does not transfer	
+HOSP297	Special Topics Hosp Studies	GEN2XXX	
+HOSP298	Special Topics Hosp Studies	GEN2XXX	
+HOSP309	Meetings & Event Planning	GEN2XXX	
+HOSP310	Hospitality Supervision	GEN2XXX	
+HOSP325	Dining Room Captain	GEN2XXX	
+HOSP330	Food & Nutrition	GEN2XXX	
+HOSP331	Modern & European Pastry	GEN2XXX	
+HOSP340	A'la Carte & Buffet Cookery	GEN2XXX	
+HOSP341	Garde Manger & Menu Plan	GEN2XXX	
+HOSP360	Hospitality Purchasing	GEN2XXX	
+HOSP370	Food & Beverage Controls	GEN2XXX	
+HOSP421	Prof Strats For Culinarians	GEN2XXX	
+HOSP490	Co-Op In Culinary Arts	Does not transfer	
+HP31.4	Judo I	LFA1XXX	
+HP51	Social Issues In Sports	LFA1XXX	
+HP51.11A	The Olympian	LFA1XXX	
+HP51.12A	Social Issues In Sports	LFA1XXX	
+HPE031	Beginning Tennis	LFA1XXX	
+HPE051	Theory Of Sport	LFA1XXX	
+HPE1	Physical Education	LFA1XXX	
+HPE101	Excercise & Jogging	LFA1XXX	
+HPE102	Exercise And Jogging	LFA1XXX	
+HPE103	Badminton I	LFA1XXX	
+HPE104	Basketball I	LFA1XXX	
+HPE105	Bowling I	LFA1XXX	
+HPE106	Golf I	LFA1XXX	
+HPE107	Softball I	LFA1XXX	
+HPE108	Swimming I	LFA1XXX	
+HPE109	Tennis I	LFA1XXX	
+HPE110	Volleyball I	LFA1XXX	
+HPE112	Cycling I	LFA1XXX	
+HPE114	Racquetball I	LFA1XXX	
+HPE117	Weight Train/Physicl Cond	LFA1XXX	
+HPE118	Weight Control/Exercise	LFA1XXX	
+HPE119	Judo I	LFA1XXX	
+HPE12	Weight Train/Physicl Cond	LFA1XXX	
+HPE120	Lifetime Fitness	LFA1XXX	
+HPE121	Jazz Dance I	DNC1XXX	
+HPE122	Modern Dance I	DNC1XXX	
+HPE123	Social Dance	DNC1XXX	
+HPE124	Beginning Tap Dance	DNC1XXX	
+HPE125	Ballet I	DNC1XXX	
+HPE126	Aerobic Dance	LFA1XXX	
+HPE127	Aquacise	LFA1XXX	
+HPE129	Judo Ii	LFA1XXX	
+HPE130	Stress Management	LFA1470	
+HPE132	Sports Officiating	LFA1XXX	
+HPE133	Personal/Community Hlth	HE2310	
+HPE134	Theory Of Basketball	LFA1XXX	
+HPE135	The Olympics	LFA1XXX	
+HPE136	Social Issues In Sports	LFA1XXX	
+HPE140	Lifetime Wellness	HE2310	
+HPE141	Intro Health & Wellness.	NFS2030	
+HPE142	Advanced First Aid	LFA2330	
+HPE145	Advanced First Aid/Cpr/Aed Tra	LFA2330	
+HPE150	Physiology Of Exercise	LFA1XXX	
+HPE151	Method Teaching Aerobic	LFA1XXX	
+HPE152	Tests And Measurements	LFA1XXX	
+HPE153	Nutrition (2 Credit Class)	NFS1XXX	
+HPE154	Facility Equipment Mgt	LFA1XXX	
+HPE155	Relaxation Techniques	LFA1XXX	
+HPE156	Personal Training	LFA1XXX	
+HPE157	Hlth Nutri Pe Teachers.	LFA2XXX	
+HPE158	Intro To Nutrition.	NFS3230	
+HPE160	Soccer I	LFA1XXX	
+HPE161	Downhill Skiing	LFA1XXX	
+HPE162	Intro Exercise Science	KHS1000	
+HPE175	Intro Sport Management	SAM2100	
+HPE192	Internship Physical Ed	Does not transfer	
+HPE2	Physical Education	LFA1XXX	
+HPE200	Exercise Fac Equip Safety	LFA2XXX	
+HPE204	Basketball Ii	LFA2XXX	
+HPE205	Bowling Ii	LFA2XXX	
+HPE206	Golf Ii	LFA2XXX	
+HPE208	Swimming Ii	LFA2XXX	
+HPE209	Tennis Ii	LFA2XXX	
+HPE210	Volleyball Ii	LFA2XXX	
+HPE212	Measuremnt/Prescript	KIN2XXX	
+HPE214	Racquetball Ii	LFA2XXX	
+HPE217	Weight Training Ii	LFA1XXX	
+HPE220	Folk Dance Ii	DNC2XXX	
+HPE221	Jazz Dance Ii	DNC2XXX	
+HPE222	Modern Dance Ii	DNC2XXX	
+HPE224	Sports Facilities	SAM2XXX	
+HPE225	Ballet Ii	DNC2XXX	
+HPE227	Dance For Musical Theatre	DNC2XXX	
+HPE228	Endurance Swimming	LFA2XXX	
+HPE231	Dance Company Technique	DNC2XXX	
+HPE232	Water Safety Instructor.	LFA2XXX	
+HPE241	Emer Med Training I	GEN2XXX	
+HPE242	Emer Med Training Ii	GEN2XXX	
+HPE245	Emt Advanced	GEN2XXX	
+HPE246	Emt Clinical	Does not transfer	
+HPE253	Nutrition For Prof.	NFS2030	
+HPE258	Principles Strength Training	KIN2XXX	
+HPE260	Nutr, Hlth, Phys Ed For Teach.	HE2XXX	
+HPE262	Hlth & Phys Ed & Elem Educ	GEN2XXX	
+HPE265	Sports Psychology	KHS5520	
+HPE270	Exercise Physiology	KIN2XXX	
+HPE30.1 0	Personal Health	HE1XXX	
+HPE31	Exercise And Jogging	LFA1XXX	
+HPE31.1 0	Exercise And Jogging	LFA1XXX	
+HPE31.1 2	Weight Training/Phys	LFA1XXX	
+HPE31.10	Exercise And Jogging	LFA3XXX	
+HPE31.2 1	Badminton I	LFA1XXX	
+HPE31.2 2	Basketball I	LFA1XXX	
+HPE31.2 5	Golf I	LFA1XXX	
+HPE31.2 7	Soccer I	LFA1XXX	
+HPE31.2 8	Softball I	LFA1XXX	
+HPE31.2 9	Swimming I	LFA1XXX	
+HPE31.3	Volleyball I	LFA1XXX	
+HPE31.3 0	Tennis I	LFA1XXX	
+HPE31.3 1	Volleyball I	LFA1XXX	
+HPE31.31	Volleyball I	LFA3XXX	
+HPE31.4 1	Judo I	LFA1XXX	
+HPE31.5	Aerobic Dance	LFA1XXX	
+HPE31.6 0	General Activity C	LFA1XXX	
+HPE3121	Badminton I	LFA1XXX	
+HPE3130	Tennis I	LFA3XXX	
+HPE32	Jazz Dance Ii	DNC1XXX	
+HPE32.2 2	Basketball Ii	LFA1XXX	
+HPE32.3 0	Tennis Ii	LFA1XXX	
+HPE32.4	Recreational Games	LFA1XXX	
+HPE51.11	The Olympics	LFA1XXX	
+HPE51.2 4	Personal/Community Hlth	HE2310	
+HPE58	Aerobic Dance	LFA1XXX	
+HPEA104	Basketball I	LFA1XXX	
+HPEA105	Bowling I	LFA1XXX	
+HPEA106	Golf I	LFA1XXX	
+HPEA109	Tennis I	LFA1XXX	
+HPEA110	Volleyball I	LFA1XXX	
+HPEA117	Weight Train/Physicl Cond	LFA1XXX	
+HPEA120	Lifetime Fitness	LFA1XXX	
+HPEA121	Pilates	LFA1XXX	
+HPEA122	Yoga	LFA1XXX	
+HPEA126	Aerobic Dance	LFA1XXX	
+HPEA127	Aquacise	LFA1XXX	
+HPEA155	Relax-Stress Mgmt	LFA1470	
+HPEA204	Basketball Ii	LFA2XXX	
+HPEA205	Bowling Ii	LFA2XXX	
+HPEA206	Golf Ii	LFA2XXX	
+HPEA209	Tennis Ii	LFA2XXX	
+HPEA210	Volleyball Ii	LFA2XXX	
+HPEA217	Weight Training Ii	LFA2XXX	
+HPF30	Personal Health	HE1XXX	
+HS10	Intro To Hospitality	GEN1XXX	
+HS11	Intro To Quantity	GEN1XXX	
+HS20	Front Office Procedures	GEN1XXX	
+HST101	Wines Of The World	GEN1XXX	
+HST103	Major Wine Grape Varietie	GEN1XXX	
+HST105	Appl Foodservice Sanitatn	GEN1XXX	
+HST107	Intro To Tourism	GEN1XXX	
+HST108	Creative Cookery	GEN1XXX	
+HST110	Intro To Hospitality	GEN1XXX	
+HST120	Intro Quantity Food Prep	GEN1XXX	
+HST121	Intro Quantity Food Prep	GEN1XXX	
+HST122	Intro Quantity Food Lab	GEN1XXX	
+HST123	Intro Prof Cooking-Lab	GEN1XXX	
+HST130	Food/Nutrition	NFS2030	
+HST140	Adv Food Preparation	GEN1XXX	
+HST150	Dining Room Operation	GEN1XXX	
+HST160	Food Beverage Purchasing	GEN1XXX	
+HST170	Food Beverage Controls	GEN1XXX	
+HST180	Culinary Art Food I	GEN1XXX	
+HST185	Culinary Art Food Ii	GEN1XXX	
+HST190	Hospitality Studies Co-Op	Does not transfer	
+HST199	Directed Study	GEN1XXX	
+HST210	Hotel/Restaurant Supervsn	GEN2XXX	
+HST220	Front Office Procedures	GEN2XXX	
+HST221	Front Office Procedures	GEN2XXX	
+HST230	Pastry/Foods I	GEN2XXX	
+HST240	Pastry/Foods Ii	GEN2XXX	
+HST245	Hotel Restaurant Desserts	GEN2XXX	
+HST250	Hospitality/Travel Market	GEN2XXX	
+HST280	Culinary Art Food I	GEN2XXX	
+HST285	Culinary Art Food Ii	GEN2XXX	
+HST290	Hospitality Studies Co-Op	Does not transfer	
+HUM101	Intro To Humanities	MUH1340	
+HUM131	Honors Colloquium	HON2100	
+HUM250	Visual & Perform Art Teach.	AED2XXX	
+HUMA131	Colloquium	GEN1XXX	
+ICO190	Industrial Co-Op	Does not transfer	
+ICO191	Industrial Co-Op I	Does not transfer	
+ICO192	Industrial Co-Op Ii	Does not transfer	
+ICO193	Industrial Co-Op	Does not transfer	
+ICO290	Co-Op In Industrial Tech	Does not transfer	
+ICO291	Industrial Co-Op Iii	Does not transfer	
+ICO292	Industrial Co-Op Iv	Does not transfer	
+ICO293	Industrial Co-Op	Does not transfer	
+INTR120	Drafting Interior Desgnrs.	AIA1XXX	
+INTR130	Intro To Cad For I	AIA1XXX	
+INTR131	Adv Cad For Interior Dsgn.	AIA3XXX	
+INTR180	Design/User Needs.	AIA4600	
+INTR181	Princ Of Design.	AIA4600	
+INTR182	Int Design Mats/Compnts.	AIA5610	
+INTR183	Perspective Drawing.	AIA1610	
+INTR185	Kitchen/Bath Mats Est.	AIA2XXX	
+INTR187	Comp Draft Kitchen/Bath.	AIA2XXX	
+INTR250	Kitchen Design Studio.	AIA2XXX	
+INTR251	Bath Design Studio.	AIA2XXX	
+INTR255	Adv Kitchen/Bath Dsgn Studio.	AIA3XXX	
+INTR2626	Spec Topics Interior Dsgn	AIA2XXX	
+INTR280	Hist Dsgn:antiq-Pres.	AID6XXX	
+INTR281	Rsdntl Design Studio.	AIA3XXX	
+INTR283	Light/Env Sys Interiors.	AIA5630	
+INTR284	Commrcl Design Studio.	AIA2610	
+INTR285	Prof Pract Intr Dsgnrs.	AIA6650	
+INTR287	Interior Dsgn Synth.	AIA3XXX	
+INTR294	Kitchen & Bath Internship	Does not transfer	
+INTR2993	Directed Study Int Design	AIA2XXX	
+ITA131	Elementary Italian.	ITA1010	
+ITA132	Elementary Italian.	ITA1020	
+ITAL131	Elementary Italian I	ITA1010	
+ITAL132	Elementary Italian Ii	ITA1020	
+ITAL141	Elemen Conversation In Ital.	Does not transfer	
+ITAL290	Study Abroad Ital Lang	ITA2XXX	
+ITAL295	Directed Study In Italian.	ITA2XXX	
+ITAL296	Directed Study In Italian.	ITA2XXX	
+ITAL297	Directed Study In Italian.	ITA2XXX	
+JOUR131	News Writing (1/2 2100)	COM2XXX	
+JOUR132	Adv News Writing (2/2 2100)	COM2XXX	
+JOUR134	Advertising	COM1XXX	
+JOUR136	Free-Lance Feature	COM1XXX	
+JOUR295	Business Manager	COM2XXX	
+JOUR296	Copy Editor.	GEN2XXX	
+JOUR297	Layout Editor.	GEN2XXX	
+JOUR298	Journalism Internship.	GEN2XXX	
+JOUR298	Online Editor	COM3990	Fall 2014
+JOUR299	Editor In Chief.	GEN2XXX	
+JOUR31	Intro To News Writing	COM2XXX	
+LGA101	Intro Legal Principles	GEN1XXX	
+LGA102	Court Systems American	GEN1XXX	
+LGA120	Intro Law & Paralegalism	GEN1XXX	
+LGA121	Legal Writing/Research I	GEN1XXX	
+LGA122	Legal Writing/Research Ii	GEN1XXX	
+LGA123	Comp-Assist Legal Research	Does not transfer	Fall 2012
+LGA123	Lexis/Westlaw	GEN1XXX	
+LGA125	Legal Ethics	GEN1XXX	
+LGA130	Trial Practice/Appeals	GEN1XXX	
+LGA133	Wills/Trusts	GEN1XXX	
+LGA135	Family Law	GEN1XXX	
+LGA136	Probate Administration	GEN1XXX	
+LGA137	Property Law	GEN1XXX	
+LGA138	Corporate And Tax Law	GEN1XXX	
+LGA139	Commercial Law Collection	GEN1XXX	
+LGA140	Estate Planning	GEN1XXX	
+LGA141	Personal Injury Litigatio	GEN1XXX	
+LGA142	Employment Law	GEN1XXX	
+LGA150	Case Management	GEN1XXX	
+LGA292	Legal Assistant Internship	Does not transfer	
+LGA293	Legal Assistant Internship	Does not transfer	
+LGA294	Legal Assistant Internship	Does not transfer	
+LGL100	Essential Paralega	GEN1XXX	
+LGL110	Legal Ethics	GEN1XXX	
+LGL115	Property Law	GEN1XXX	
+LGL126	Legal Researcg	GEN1XXX	
+LGL235	Contracts	GEN2XXX	
+LGL240	Family Law	GEN2XXX	
+LIT318	Afro-Amer Lit	ENG2XXX	
+M10	Manufacturning Materials	GEN1XXX	
+MAT025	Intermediate Algebra	Does not transfer	
+MAT107	Basic Un Med Math	Does not transfer	
+MAT110	Intermediate Algebra	Does not transfer	
+MAT127	Medical Math	Does not transfer	
+MAT150	Algebra	Does not transfer	
+MAT151	Algebra 1/2	MAT1XXX	
+MAT180	Calculus I	MAT2010	
+MAT204	Intro Statistics	STA1020	
+MAT210	Intro Computer Trn	CSC1000	
+MATH001	Math Learning Lab I	Does not transfer	
+MATH010	Algebra Skills Review	Does not transfer	
+MATH028	Trigonometry	MAT1XXX	
+MATH031	Quanttative Reasoning	MAT1XXX	
+MATH038	Prin Of Mathematics	MAT1800	
+MATH041	Intro To Statistics	STA1020	
+MATH064	Basic Mathematics	Does not transfer	
+MATH070	Fund Of Arithmetic	Does not transfer	
+MATH071	Pre-Alg Lab	Does not transfer	
+MATH074	Prealgebra	Does not transfer	
+MATH075	Pre-Algebra	Does not transfer	
+MATH077	Preparation For Algebra	Does not transfer	
+MATH0771	Whole Numbers, Integers	Does not transfer	
+MATH0772	Fractions, Mixed Numbers	Does not transfer	
+MATH0773	Decimals, Ratios	Does not transfer	
+MATH0774	Measurement, Geometry	Does not transfer	
+MATH078	Intro To Algebra I	Does not transfer	
+MATH079	Intro To Algebra Ii	Does not transfer	
+MATH080	Beginning Algebra	Does not transfer	
+MATH081	Math Literacy Coll Students	Does not transfer	
+MATH089	Intro Algebra Part I	Does not transfer	
+MATH0891	Algebraic Expressions	Does not transfer	
+MATH0892	Graphing Linear Equations	Does not transfer	
+MATH0893	Systems Of Linear Equations	Does not transfer	
+MATH0894	Exponents & Polynomials	Does not transfer	
+MATH0A	Fund Of Mathematics	Does not transfer	
+MATH1	Beginning Algebra	Does not transfer	
+MATH10	Albegra Skills Review	Does not transfer	
+MATH100	Basic Technical Math	ET1XXX	
+MATH101	Math Health Careers	Does not transfer	
+MATH102	Mathematics Of Health I T.	Does not transfer	
+MATH103	Technical Mathematics	ET1XXX	
+MATH104	Math For Food Service Careers	Does not transfer	
+MATH106	Technical Mathematics	ET1XXX	
+MATH109	Intro Algebra Part Ii	Does not transfer	
+MATH1091	Factoring	Does not transfer	
+MATH1092	Functions, Rational Expr	Does not transfer	
+MATH1093	Radicals	Does not transfer	
+MATH1094	Quadratic Equations	Does not transfer	
+MATH11	Pre-Algebra Placement Review	Does not transfer	
+MATH110	Intermediate Algebra	Does not transfer	
+MATH112	Trigonometry (For Tech)	GEN1XXX	
+MATH113	College Algebra And Trig	GEN1XXX	
+MATH115	College Algebra	MAT1XXX	
+MATH120	Math-Elem Teachers I	MAT1110	
+MATH121	Math Elem Teachers I	MAT1110	
+MATH122	Math For Elem Teachers I	MAT1110	
+MATH123	Math-Elem Teachers Ii	MAT1120	
+MATH127	Topics-History Of Math	GEN1XXX	
+MATH131	Math For Mod World.	MAT1000	
+MATH14	Basic Tech Mathematics	Does not transfer	
+MATH140	Intro To Statistics	STA1020	
+MATH141	Intro To Statistics	STA1020	
+MATH150	Finite Mathematics	MAT1500	
+MATH153	Calculus-Business/Econ.	MAT1XXX	
+MATH160	Comp Prog Fortran	CSC1120	
+MATH165	Math For Calculus	MAT1800	
+MATH170	Prin Of Mathematic	MAT1800	
+MATH175	Precalculus	MAT1800	
+MATH180	Calculus I	MAT2010	
+MATH183	Calculus Ii	MAT2020	
+MATH196	Math Reasong/Problem Solv	MAT1XXX	
+MATH2	Plain/Solid Geometry	Does not transfer	
+MATH20	Technical Mathematics	ET1XXX	
+MATH21	Technical Math Continued	ET1XXX	
+MATH221	Math Elem Teachers Ii	MAT1120	
+MATH222	Math For Elem Teachers Ii	MAT1120	
+MATH225	Math Elem Teachers Iii	MAT1XXX	
+MATH25	Intermediate Algebra	Does not transfer	
+MATH275	Discrete Mathematics.	MAT2860	
+MATH28	Trigonometry	MAT1XXX	
+MATH280	Calculus Iii	MAT2030	
+MATH283	Linear Algebra	MAT2250	
+MATH286	Differential Equations	MAT2350	
+MATH288	Differential Equations	MAT2350	
+MATH289	Differential Equations	MAT2350	
+MATH291	Topics In Mathematics.	GEN2XXX	
+MATH292	Topics In Mathematics.	GEN2XXX	
+MATH293	Topics In Mathematics.	GEN2XXX	
+MATH296	Adv Topics In Calculus I	MAT5890	
+MATH29A	Coll Alg & Trig	MAT1800	
+MATH30	Math Elementary Tchrs I	MAT1110	
+MATH31	Math For Elem Tchrs Ii.	MAT1120	
+MATH32	Intro To Computers	CSC1120	
+MATH33	Finite Mathematics	MAT1500	
+MATH35	Intro To Statistics	STA1020	
+MATH38	Prin Of Mathematics	MAT1800	
+MATH40	Comp Prog Fortran	CSC1120	
+MATH41	Intro Stats Skills Review	Does not transfer	
+MATH42	Calc I/Anal Geometry	MAT2010	
+MATH48	Calc Ii/Analy Geometry	MAT2020	
+MATH53	Calc Iii/Anlay Geometry	MAT2030	
+MATH54	Calculus Iii	MAT2030	
+MATH60	Elem Diff Equation/L	MAT2350	
+MATH61	Linear Algebra	MAT2250	
+MATH63	Differential Equations	MAT2350	
+MATHA	Fund Of Arithmetic	Does not transfer	
+MATHA.2	Topics In Arithmetic	Does not transfer	
+MC31	Intro To Mass Comm	COM1500	
+MC32	Film Hist & Critic	COM2020	
+MC55	Television Product	COM5400	
+MC65	Television Practic	COM5420	
+MC66	Television I	COM1XXX	
+MCA131	Intro To Media Communication	COM1500	
+MDFS101	Philosophy Fire Protectio	GEN1XXX	
+MDFS102	Modern Fire Fighting Tech	GEN1XXX	
+MDFS103	Fund Municipal/Industrial	GEN1XXX	
+MDFS104	Building Construction	GEN1XXX	
+MDFS105	Fire Protection/Equip I	GEN1XXX	
+MDFS106	Fire Protection/Equip Ii	GEN1XXX	
+MDFS107	Basic Tech Math I	GEN1XXX	
+MDFS108	Basic Tech Math Ii	GEN1XXX	
+MDFS109	Fire Science Chemistry	GEN1XXX	
+MDFS110	Fire Science Physics	GEN1XXX	
+MDFS111	Fire Hydraulics/Water	GEN1XXX	
+MDFS112	Hazardous Materials/Proce	GEN1XXX	
+MDFS201	Fund Arson Investigation	GEN2XXX	
+MDLA101	Intro Legal Principles	GEN1XXX	
+MDLA102	Court Systems American	GEN1XXX	
+MDLA103	Wills/Trusts	GEN1XXX	
+MDLA104	Estate Planning	GEN1XXX	
+MDLA105	Family Law	GEN1XXX	
+MDLA106	Probate Administration	GEN1XXX	
+MDLA107	Property Law	GEN1XXX	
+MDLA108	Corporate And Tax Law	GEN1XXX	
+MDLA109	Commercial Law Collection	GEN1XXX	
+MDLA110	Trial Practice/Appeals	GEN1XXX	
+MDLA111	Personal Injury Litigatio	GEN1XXX	
+MDLA112	Employment Law	GEN1XXX	
+MDLA113	Lexis/Westlaw	GEN1XXX	
+MDLA121	Writing Practice Law	GEN1XXX	
+MDLA122	Legal Writing/Research	GEN1XXX	
+MDLA292	Legal Assistant Internshp	Does not transfer	
+MDLA293	Legal Assistant Internshp	Does not transfer	
+MDLA294	Legal Assistant Internshp	Does not transfer	
+MDMA101	Personnel Management.	GEN1XXX	
+MDMA102	Human Resources Managemen	GEN1XXX	
+MDMA103	Prin Of Management.	MGT2530	
+MDMA104	Industrial Economics	GEN1XXX	
+MDMA106	Women In Management	GEN1XXX	
+MDMA111	Effective Speech I	GEN1XXX	
+MDMA112	Conference Leaders	GEN1XXX	
+MDMA113	Rapid Reading.	GEN1XXX	
+MDMA114	Report/Leter Writing.	GEN1XXX	
+MDMA121	General Accounting	GEN1XXX	
+MDMA122	Manufacturing Cost Acc	GEN1XXX	
+MDMA123	Industrial Budgets Cost	GEN1XXX	
+MDMA124	Elements Of Statistics	GEN1XXX	
+MDMA125	Survey Computer Systems	GEN1XXX	
+MDMA131	Intro To Supervision	GEN1XXX	
+MDMA201	Industrial Psychology	GEN2XXX	
+MDMA202	Labor-Management Relation	GEN2XXX	
+MDMA204	Creative Problem Solving	GEN2XXX	
+MDMA205	Quality Worklife/Employee	GEN2XXX	
+MDMA223	Production/Inventory	GEN2XXX	
+MDMA225	Material Requirments	GEN2XXX	
+MDMA227	Purchasing	GEN2XXX	
+MDMA231	Workers Comp Statute/Rule	GEN2XXX	
+MDMA232	Workers Comp Techniques	GEN2XXX	
+MDMA241	Independent Business	GEN2XXX	
+MDPA101	Property Assess Admin Ia	GEN1XXX	
+MDPA102	Property Assess Admin Ib	GEN1XXX	
+MDPA103	Property Assess Admin Iia	GEN1XXX	
+MDPA104	Property Assess Admin Iib	GEN1XXX	
+MDPA105	Property Assessment I	GEN1XXX	
+MDPA106	Property Assessment Ii	GEN1XXX	
+MDPA201	Narrative Appraisal	GEN2XXX	
+MDPA202	Building Codes Assessors	GEN2XXX	
+MDPA203	Pubic Adminstration/Relat	GEN2XXX	
+MDPA206	Appraisal Standard/Ethnic	GEN2XXX	
+MDPA207	Personal Property Value	GEN2XXX	
+MDPA208	Tax Tribunal	GEN2XXX	
+MDPA209	Basic Income Approach	GEN2XXX	
+MDPA210	Property Tax Law/Exempt	GEN2XXX	
+MDPA211	Narrative Appraisal	GEN2XXX	
+MDPA212	Property Appraisal Prin	GEN2XXX	
+MDPA251	Advance Income Approach	GEN2XXX	
+MDQC101	Intro To Quality Control.	ET1XXX	
+MDQC102	Quality Management I	GEN1XXX	
+MDQC103	Basic Quality Control.	ET1XXX	
+MDQC105	Statistical Quality Cont.	ET1XXX	
+MDQC107	Advanced Quality Control.	ET1XXX	
+MDQC120	Industrial Print Reading	GEN1XXX	
+MDQC121	Blueprint Reading.	ET1XXX	
+MDQC122	Basic Process Eng'g.	ET1XXX	
+MDQC123	Basic Process Engineering	GEN1XXX	
+MDQC131	Presentation Techniques.	ET1XXX	
+MDQC201	Quality Management Iv	GEN2XXX	
+MDSP113	Stat Process Control	GEN1XXX	
+MDSP254	Managing Productivity	GEN2XXX	
+MDSP261	Japenese Language/Customs	GEN2XXX	
+MDSP262	Arabic Language/Customs	GEN2XXX	
+MDSP263	Korean Language/Customs	GEN2XXX	
+MDSP264	Chinese Language/Customs	GEN2XXX	
+MDSP265	Global Competition:managm	GEN2XXX	
+MDSP271	Japanese Language Ii	GEN2XXX	
+MDSP281	Japanese Language Iii	GEN2XXX	
+MDSP291	Japanese Language Iv	GEN2XXX	
+MDTT111	Transportation Manage I	GEN1XXX	
+MDTT112	Transportation Manage Ii	GEN1XXX	
+MDTT114	Transportation Law	GEN1XXX	
+MDTT117	Princ Foreign Trade I	GEN1XXX	
+MDTT118	Princ Foreign Trade Ii	GEN1XXX	
+MDTT119	Materials Handling	GEN1XXX	
+MDTT120	Transportation Economics	GEN1XXX	
+MDTT121	Internal Log Trade	GEN1XXX	
+MDTT201	Princ Air Transportation	GEN2XXX	
+MDTT202	Freight Loss/Damage Claim	GEN2XXX	
+MDTT203	Transportation Hazardous	GEN2XXX	
+MDTT213	Physical Distribution	GEN2XXX	
+MET091	Advanced Machine	MIT1XXX	
+MET10	Manufacturing Process I	MIT1XXX	
+MET100	Manufacturing Process I	MIT3510	
+MET11	Manufacturing Process Ii	Does not transfer	
+MET110	Manufacturing Process Ii	MIT3510	
+MET120	Practical Problems I	MIT1XXX	
+MET125	Practical Problems Ii	MIT1XXX	
+MET130	Quality Control Gaging	MIT1XXX	
+MET140	Intro To Cnc	MIT1XXX	
+MET145	Cnc Operations	MIT1XXX	
+MET150	Spc In Manufacturing	MIT1XXX	
+MET160	Computer Assisted Program	MIT1XXX	
+MET170	Adv Computer Assist Progr	MIT1XXX	
+MET210	Non-Traditional Manufactu	MIT1XXX	
+MET275	Adv Cnc Operations	MIT1XXX	
+MFMT100	Workplace Skills	Does not transfer	
+MFMT101	Energy Technology Apps.	MCT1XXX	
+MFMT102	Applied Mechanical Skills.	MCT1XXX	
+MFMT103	Indust Computer App	Does not transfer	Fall 2011
+MFMT103	Indust Computer App.	MCT1XXX	
+MFMT104	Exp Maint Tech I	GEN1XXX	
+MFMT105	Basic Hvacr-Power.	MCT1XXX	
+MFMT106	Maintenance Tech Ii.	ET1XXX	
+MFMT107	Basic Electrical-Power.	MCT1XXX	
+MFMT114	Energy Conservation Princpls.	MCT1XXX	
+MFMT115	Boiler Heating Plnt Op	MCT1XXX	
+MFMT116	Hp Boiler Op/Maintenance	MCT1XXX	
+MFMT116A	3Rd Class Turbine/Engine Lic.	MCT1XXX	
+MFMT151	Power & Process Plant Oper	MCT1XXX	
+MFMT155	Data Acquisition: E & M Techs.	MCT1XXX	
+MFMT162	Boiler Installer - Repair Lic.	MCT1XXX	
+MFMT172	Intro To Process Tech Ops.	MCT1XXX	
+MFMT174	Process Technology Ii Sys.	MCT1XXX	
+MFMT192	Power Facilities Practicum.	MCT1XXX	
+MFMT196	Independent Study.	ET1XXX	
+MFMT204	Introduction To Embedding.	ET1XXX	
+MFMT222	Manufacturing Fabrication.	MCT2XXX	
+MFMT223	Facilities Fabrication.	MCT2XXX	
+MFMT224	Automated Control Systems I.	MCT2XXX	
+MFMT228	Building-Plant Maint I.	MCT2XXX	
+MFMT229	Building-Plant Maint Ii.	MCT2XXX	
+MFMT234	Facilities Capstone Project 1.	MCT2XXX	
+MFMT235	Facilities Capstone Project 2.	MCT2XXX	
+MFMT237	Psychology In The Workplace	GEN2XXX	
+MFMT241	Pwr Engg-Refrig License	MCT2XXX	
+MFMT248	Pwr Engg-Steam License	MCT2XXX	
+MFTM102	Applied Mechanical Skill.	ET1XXX	
+MGT130	Prin Of Management	MGT2530	
+MGT131	Intro To Supervision	GEN1XXX	
+MGT132	Human Resources Managemnt	GEN1XXX	
+MGT134	Report/Letter Writing	GEN1XXX	
+MGT201	Industrial Psychology	GEN2XXX	
+MGT202	Labor-Management Relation	GEN2XXX	
+MGT204	Creative Problem Solving	GEN2XXX	
+MGT230	Principles Of Management	MGT2530	
+MGT231	Supervision & Team.	MGT1XXX	
+MGT232	Human Resources Management.	MGT2XXX	
+MGT237	Psych In The Workplace.	MGT2XXX	
+MGT238	Labor Management.	MGT2XXX	
+MGT240	Creative Problem Solving	GEN2XXX	
+MGT241	Independent Business	GEN2XXX	
+MI000	Memory Improvement	Does not transfer	
+MI091	Memory Improvement	Does not transfer	
+MII101	Medical Imaging Info Basics	GEN1XXX	
+MII102	Eval The Clinical Image	GEN1XXX	
+MII201	Pacs Procurement & Proj Mgt	GEN2XXX	
+MII202	Med Imaging Info Adv	GENLEVEL	
+MII290	Clinical Externship	Does not transfer	
+MIT100	Medical Information Sci	GEN1XXX	
+MIT150	Basic Coding:theory Pract	GEN1XXX	
+MIT161	Medical Info Processing	GEN1XXX	
+MIT163	Electronic Imaging	GEN1XXX	
+MIT170	Health Care Statistics	GEN1XXX	
+MIT191	Clinical Applications	GEN1XXX	
+MIT200	Legal Aspects Health Care	GEN2XXX	
+MIT210	Health Care Delivery Sys	GEN2XXX	
+MIT220	Quality Assurance	GEN2XXX	
+MIT230	Supervise Management Tech	GEN2XXX	
+MIT250	Advanced Coding	GEN2XXX	
+MIT260	Supervisory Management	GEN2XXX	
+MIT292	Hospital Practice	GEN2XXX	
+MIT293	Specialized Practice	GEN2XXX	
+MMT100	Intro Med Transcription	GEN1XXX	
+MMT101	Topics/Med Transcription	GEN1XXX	
+MMT105	Intro Med Transcription	GEN1XXX	
+MMT130	Fund Med Transcription	GEN1XXX	
+MMT151	Medical Transcription I	GEN1XXX	
+MMT161	Medical Transcription Ii	GEN1XXX	
+MMT165	Adv Med Transcription	GEN1XXX	
+MMT170	Issues Med Transcription	GEN1XXX	
+MMT180	Applied Med Transcription	GEN1XXX	
+MMT190	Transcription Externship	Does not transfer	
+MOA100	Medical Office Procedur I	GEN1XXX	
+MOA101	Admin Medical Proc	GEN1XXX	
+MOA110	Process Health Insurance	GEN1XXX	
+MOA120	Medical Office Computer	GEN1XXX	
+MOA121	Med Off Prof	GEN1XXX	
+MOA122	Intro Med Asst Clinic Proced	GEN1XXX	
+MOA124	Nursing Arts	GEN1XXX	
+MOA125	Med English	GEN1XXX	
+MOA129	Med Lab Proc	GEN1XXX	
+MOA150	Medical Office Comp Ii	GEN1XXX	
+MOA160	Basic X-Ray Techniques	GEN1XXX	
+MOA165	Physician Billing Concepts	GEN1XXX	
+MOA168	Facility Billing Concepts	GEN1XXX	
+MOA170	Medical Correspondence	GEN1XXX	
+MOA180	Computrized Medical Bill	GEN1XXX	
+MOA181	Med Collection & Legal Issues	GEN1XXX	
+MOA190	Medical Office Externship	Does not transfer	
+MOA200	Adv Physician Billing	GEN2XXX	
+MOA205	Insurance Coding & Reimburseme	GEN2XXX	
+MOA24	Basic X-Ray Techniques	GEN1XXX	
+MPS100	Mfg Process 1/2 (3510).	MIT1XXX	
+MPS105	Print Read For Manufact	MIT1XXX	
+MPS110	Mfg Process Ii 2/2 (3510).	MIT1XXX	
+MPS120	Pract Prob In Machine Tool I.	MIT1XXX	
+MPS125	Pract Prob In Machine Tools Ii	MIT1XXX	
+MPS130	Quality Control Guaging.	MIT1XXX	
+MPS140	Introduction To Cnc.	MIT1XXX	
+MPS145	Cnc Operations.	MIT1XXX	
+MPS146	Intro To Cnc Machine Tooling.	ET1XXX	
+MPS147	Basic Macro Programming Cnc	ET1XXX	
+MPS148	Advanced Cnc Problems.	ET1XXX	
+MPS150	Spc In Manufacturing.	MIT1XXX	
+MPS160	Comp Assisted N/C Program.	MIT1XXX	
+MPS170	Adv Comp Assisted N/C Prog.	MIT1XXX	
+MPS210	Non-Traditionl Manf'g Process.	MIT1XXX	
+MPS275	Advanced Cnc Operations	MIT1XXX	
+MPS297	Special Topics In Mps	MIT2XXX	
+MPS298	Special Topics In Mps	MIT2XXX	
+MRT100	Med Record Science	GEN1XXX	
+MRT160	Med Trans Pt. I	GEN1XXX	
+MRT20	Medical Terminology I	GEN1XXX	
+MS82	Legal Office Procedure	GEN1XXX	
+MST071	Personnel Management I	GEN1XXX	
+MST080	Safety Administration I	GEN1XXX	
+MST71	Personnel Management I	ET1XXX	
+MST71	Personnel Management I	GEN1XXX	
+MST71.1	Personnel Management Ii	GEN1XXX	
+MST71.1 5	Small Business Management	GEN1XXX	
+MST71.2	Industrial Psychology	GEN1XXX	
+MST71.3	Prin Of Management	GEN1XXX	
+MST71.4	Industrial Economics	GEN1XXX	
+MST71.8	Creative Prob Solving	GEN1XXX	
+MST72	Effective Speech I	GEN1XXX	
+MST72.3	Rapid Reading	GEN1XXX	
+MST72.4	Report/Letter Writing	GEN1XXX	
+MST73	General Accounting	GEN1XXX	
+MST73.5	Survey Computer System	GEN1XXX	
+MST80.2	Safty Laws & Regulation	GEN1XXX	
+MST82	Intro Legal Principles	GEN1XXX	
+MST82.1	Court Syst Amer Justice	GEN1XXX	
+MST82.1 1	Legal Writing Reference	GEN1XXX	
+MST82.1 2	Writing In Law Practice	GEN1XXX	
+MST82.2	Family Law	GEN1XXX	
+MST82.3	Probate Administration	GEN1XXX	
+MST82.4	Wills Trust	GEN1XXX	
+MST82.5	Estate Planning	GEN1XXX	
+MST82.6	Trial Practice Appeal	GEN1XXX	
+MST82.7	Corporation Tax Law	GEN1XXX	
+MST82.8	Property Law	GEN1XXX	
+MST82.9	Commercial Law Collect	GEN1XXX	
+MT10	Bas Mack Tls Proc	GEN1XXX	
+MTI1000	Machin Train Inst: Focus Hope	ET1XXX	
+MTT100	Machine Tool Processes I	ET1XXX	
+MTT105	Print Read For Manufact	ET1XXX	
+MTT110	Machine Tool Processes Ii	ET1XXX	
+MTT120	Pract Prob Machine Tools I	ET1XXX	
+MTT125	Pract Prob Machine Tools Ii	ET1XXX	
+MTT130	Qc Gaging & Inspection	ET1XXX	
+MTT140	Intro To Cnc	ET1XXX	
+MTT145	Cnc Operations	ET1XXX	
+MTT146	Intro Machine Tool Probing	ET1XXX	
+MTT147	Basic Macro Program Cnc	ET1XXX	
+MTT148	Adv Cnc Probing	ET1XXX	
+MTT150	Spc In Manufacturing	ET1XXX	
+MTT160	Comp Assist N/C Program	ET1XXX	
+MTT170	Adv Comp Assist N/C Prog	ET1XXX	
+MTT275	Adv Cnc Operations	ET2XXX	
+MTT297	Spec Topics In Mtt	ET2XXX	
+MTT298	Spec Topics In Mtt	ET2XXX	
+MUS101	Hfcc Metro Youth Band	Does not transfer	
+MUS102	Hfcc Metro Youth Band	Does not transfer	
+MUS103	Hfcc Metro Youth Band	Does not transfer	
+MUS104	Hfcc Metro Youth Band	Does not transfer	
+MUS106	Piano For The Non-Major I	MUA1710	
+MUS107	Chorus 1	MUA2840	
+MUS108	Chorus 2	MUA2840	
+MUS109	Symphony Band 1	MUA2800	
+MUS110	Symphony Band 2	MUA2800	
+MUS111	Jazz Band 1	MUA2820	
+MUS112	Jazz Band 2	MUA2820	
+MUS113	Applied Music	MUP1XXX	
+MUS114	Applied Music	MUP1XXX	
+MUS115	Applied Music	MUP1XXX	
+MUS116	Applied Music	MUP1XXX	
+MUS117	Piano I	MUA1710	
+MUS118	Piano Ii	MUA2710	
+MUS121	Jazz Improvisation 1	MUT2885	
+MUS122	Jazz Improvisation 2	MUT2885	
+MUS123	Voice Techniques I	MUA2720	
+MUS124	Voice Techniques Ii	MUA2720	
+MUS126	Recording Studio Engg 1	MUA1XXX	
+MUS127	Dig Audio Mastering 1	MUA1XXX	
+MUS128	Musical Production	MUA1XXX	
+MUS130	Music Appreciation	MUH1XXX	
+MUS131	Music Appreciation	MUH1XXX	
+MUS132	Music Literature	MUH1370	
+MUS133	Hist-Rock And Roll	MUH1351	
+MUS134	Music Fundamentals	MUT1100	
+MUS135	Music Theory	MUT1140	
+MUS136	Music Theory	MUT1140	
+MUS137	History Of Jazz	MUH1XXX	
+MUS138	Music Theory I.	MUT1100	
+MUS139	Music Theory Ii.	MUT1140	
+MUS141	Aural Music Skills 1	MUT1XXX	
+MUS142	Aural Music Skills 2	MUT1150	
+MUS143	Vocal Jazz Emsemble 1	MUA1XXX	
+MUS144	Vocal Jazz Ensemble 2	MUA1XXX	
+MUS147	Bas Music I-Elem Teacher	GEN1XXX	
+MUS148	Music Synthesis	MUA1XXX	
+MUS149	Music Synthesis I (1/2 5610)	MUA1XXX	
+MUS150	Music Synthesis Ii	MUA1XXX	
+MUS151	Intro Music Techn (2/2 5610)	MUA1XXX	
+MUS152	Mus Comp With Finale I.	MUA1XXX	
+MUS153	Adv Mus Comp Finale Ii.	MUA1XXX	
+MUS156	Music Technology	GEN1XXX	
+MUS207	Chorus 3	MUA2840	
+MUS208	Chorus 4	MUA2840	
+MUS209	Symphony Band 3	MUA2800	
+MUS210	Symphony Band 4	MUA2800	
+MUS211	Jazz Band 3	MUA2820	
+MUS212	Jazz Band 4	MUA2820	
+MUS213	Applied Music-Private Les	MUP3XXX	
+MUS214	Applied Music-Private Les	MUP3XXX	
+MUS215	Applied Music-Private Les	MUP3XXX	
+MUS216	Applied Music-Private Les	MUP3XXX	
+MUS217	Piano Iii	MUA3790	
+MUS218	Class Piano Iv	MUA2XXX	
+MUS221	Jazz Improvisation 3	MUA2XXX	
+MUS222	Jazz Improvisation 4	MUA2XXX	
+MUS226	Rec Studio Engg 2(1/2 5630).	MUA5XXX	
+MUS227	Audio Mastering 2(1/2 5660).	MUA5XXX	
+MUS228	Musical Production	MUA2XXX	
+MUS229	Adv Studies Audio Record.	GEN2XXX	
+MUS232	Hist Western Music 1	MUH3310	
+MUS233	Hist Western Music 2	MUH3320	
+MUS235	Music Theory	MUT1160	
+MUS236	Music Theory	MUT1160	
+MUS238	Music Theory Iii.	MUT1XXX	
+MUS239	Music Theor Iv.	MUA2XXX	
+MUS243	Vocal Jazz Ensemble 3	MUA2XXX	
+MUS244	Vocal Jazz Ensemble 4	MUA2XXX	
+MUS29.1	Hfcc Metro Youth Band	Does not transfer	
+MUS29.2	Hfcc Metro Youth Band	Does not transfer	
+MUS30.2	Mens Glee Club 2Nd	MUA2830	
+MUS31	Ist Sem Women	MUA1XXX	
+MUS32.1	Concert Choir I	MUA2840	
+MUS32.2	Concert Choir Ii	MUA2840	
+MUS33.1	Wind Ensmble	MUP1XXX	
+MUS33.2	Wind Ensemble	MUP1XXX	
+MUS34.1	Jazz Lab Band I	MUA2820	
+MUS34.2	Jazz Lab Band Ii	MUA2820	
+MUS35	Music Appreciation	GEN1XXX	
+MUS35T	Mus Symphon/Literature	MUH1XXX	
+MUS37	Music Fundamentals	MUT1100	
+MUS37.1	Mus Theory 1St Sem	MUT1140	
+MUS37.2	Mus Theory 2Nd Sem	MUT1XXX	
+MUS38.1 A	Applied Music I	MUP2XXX	
+MUS39.1	Class Piano 1St Sem	MUA1710	
+MUS39.2	Class Piano 2Nd Sem	MUA2710	
+MUS40	Voice Technique	MUA1720	
+MUS40.2	Gospel Choir 2Ndsem	MUA1XXX	
+MUS40.3	Gosepl Choir 3Rd Sem	MUA1XXX	
+MUS41	Basic Music I	MUA1XXX	
+MUS44	Jazz History	MUH3360	
+MUS47	Jazz Theory	GEN1XXX	
+MUS49.1	Show Choir	MUA1XXX	
+MUS49.3	Show Choir	MUA1XXX	
+MUS52.1	Concert Choir 3Rd Sem	MUA2840	
+MUS59.1	Class Piano 3Rdsem	MUA1710	
+MUS60.1	Instr Tech Percussion	MUA1XXX	
+MUS61.1	Jazz Improvisation	MUA1XXX	
+MUS61.2	Jazz Improvisation	MUA1XXX	
+MUS63.1	Voice Techniques I	MUA2720	
+MUS63.2	Voice Techniques Ii	MUA2720	
+MUS67	Musical Production	MUA1XXX	
+MUS67.1	Musical Production	MUA1XXX	
+MUS67.2	Musical Production	MUA1XXX	
+NAT032	Biological Science	BIO1510	
+NAT032	Biological Science	BIO1511	
+NC14	Mumeric Cntr Conc	Does not transfer	
+NCS100	Competency Eval Nu	Does not transfer	
+NCS110	Competent Eval Nurse Assist	Does not transfer	
+NCS112	Competency Eval Nurs	Does not transfer	
+NS32	Biology Lec/Lab	BIO1510	
+NS32	Biology Lec/Lab	BIO1511	
+NSG082	Supplement Nursing Selfcare Ii	Does not transfer	
+NSG083	Sup Nurs Care Ii And Iii	Does not transfer	
+NSG084	Sup Nurs Care Iii	Does not transfer	
+NSG085	Sup Nurs Care Iv	Does not transfer	
+NSG086	Sup Nursing Care Iv Pt I	Does not transfer	
+NSG087	Sup Nurs Care V	Does not transfer	
+NSG088	Sup Nursing Self Care Iv Pt Ii	Does not transfer	
+NSG090	Intro Nursing Systems	Does not transfer	
+NSG091	Nursing Systems Ii: Lpn Trans	Does not transfer	
+NSG095	Calculating Med Dosage I	Does not transfer	
+NSG096	Calculating Med Dosage Ii	Does not transfer	
+NSG097	Calculating Pediatric Med	Does not transfer	
+NSG098	Calculating Medica	Does not transfer	
+NSG1	Foundations Nursing	Does not transfer	
+NSG101	Begin Health/Phys Assessment	Does not transfer	
+NSG115	Pharm Nursing Pract 1	Does not transfer	
+NSG117	Med-Surgical Nursing 1	Does not transfer	
+NSG118	Pharm Nursing Pract Ii	Does not transfer	
+NSG119	Med-Surgical Nursing Ii	Does not transfer	
+NSG120	Nursing/Health Care Sys I	Does not transfer	
+NSG121	Psych Mental Health Nurs	Does not transfer	
+NSG124	Intro To Nursing	Does not transfer	
+NSG125	Nursing/Self-Care I	Does not transfer	
+NSG126	Nursing-Self Care	Does not transfer	
+NSG130	Health Care Of Women	Does not transfer	
+NSG136	Computers In Pharmacy	Does not transfer	
+NSG150	Nursing/Self-Care Ii	Does not transfer	
+NSG155	Nursing Self-Care Iii	Does not transfer	
+NSG170	Pharmacy Systems	Does not transfer	
+NSG185	Basic Pathophysio For Nursing	Does not transfer	
+NSG193	Pharmacy Externship	Does not transfer	
+NSG2	Mat/Child Health	Does not transfer	
+NSG20.1	Meet Bas Need Pati	Does not transfer	
+NSG20.2	Nsg Health Care I	Does not transfer	
+NSG20.3	Nursing Self Care I	Does not transfer	
+NSG201	Pharm Nursing Pract Iii	Does not transfer	
+NSG202	Med-Surgical Nursing Iii	Does not transfer	
+NSG203	Intro Critical Care I	Does not transfer	
+NSG204	Critical Care Ii	Does not transfer	
+NSG205	Critical Care Nursing Cor	Does not transfer	
+NSG206	Pharm Nursing Practice Iv	Does not transfer	
+NSG207	Pediatric Nursing	Does not transfer	
+NSG208	Women's Health/Maternity Care	Does not transfer	
+NSG209	Med-Surgical Nursing Iv	Does not transfer	
+NSG21.1	Meet Need Adult Hos	Does not transfer	
+NSG21.2	Nursing Self Care Ii	Does not transfer	
+NSG21.3	Nursing Self Care Iii	Does not transfer	
+NSG210	Healing Practices: Alt/Comp Th	Does not transfer	
+NSG212	Professional Transitions	Does not transfer	
+NSG22.1	Meet Meed Adult Pat	Does not transfer	
+NSG22.2	Perspec In Nursing	Does not transfer	
+NSG22.3	Nursing Self Care Iv	Does not transfer	
+NSG220	Nursing Self Care Iv	Does not transfer	
+NSG221	Nursing & Self Care Iv	Does not transfer	
+NSG222	Nursing & Self Care Iv	Does not transfer	
+NSG23.1	Mtg Need Indiv-Bir	Does not transfer	
+NSG23.2	Mtg Need Group Pat	Does not transfer	
+NSG23.3	Nursing Self Care V	Does not transfer	
+NSG250	Nursing Self Care V	Does not transfer	
+NSG255	Nursing Health Care Sy Ii	Does not transfer	
+NSG27.1	Nursing Health Care Ii	Does not transfer	
+NSG285	Pathophysiology For Nur	Does not transfer	
+NSG294	Directed Study In Nursing	Does not transfer	
+NST130	Food And Nutrition	GEN1XXX	
+NTSC31	Physical Science	PHY1XXX	
+NTSC32	Biological Science	BIO1510	
+NTSC35	Anatomy & Physiol 1/2	BIO2XXX	
+NTSC36	Anatomy & Physiol 2/2	BIO2XXX	
+NTSC5	Anatomy/Physiology 1/2	BIO2XXX	
+NTSC6	Anatomy/Physiology 2/2	BIO2XXX	
+OPT101	Intro To Ophthalmic Technology	GEN1XXX	
+OPT134	Ocular Anatomy & Pathology	GEN1XXX	
+OPT150	Applied Ophthalmic Optics	GEN1XXX	
+OPT160	Ocular Measurements I	GEN1XXX	
+OPT180	Ocular Measurements Ii	GEN1XXX	
+OPT200	Clinical Optical Procedures	GEN2XXX	
+OPT220	Ophthalmic Photography	GEN2XXX	
+OPT240	Ophthalmic Surgical Assisting	GEN2XXX	
+OPT260	Current Issues In Vision Care	GEN2XXX	
+OPT290	Clinical Externship I	Does not transfer	
+OPT293	Clinical Externship Ii	Does not transfer	
+OPT297	Clinical Externship Iii	Does not transfer	
+ORN091	New Student Orientation	Does not transfer	
+PCT100	Patient Care Technician	GEN1XXX	
+PE31-10	Exercise And Jogging	LFA1XXX	
+PED161	Tennis	KIN1XXX	
+PEFT108	Portfolio Development.	MCT1XXX	
+PEFT112	Technical Communication-Power.	MCT1XXX	
+PEFT143	Power Engineering Boilers.	MCT1XXX	
+PEFT180	Power-Heating Heat Lab.	MCT1XXX	
+PEFT182	Power Fundamentals Lab.	MCT1XXX	
+PEFT184	Power Systems O & M Lab.	MCT1XXX	
+PEFT246	Steam Plant Prime Movers.	MCT2XXX	
+PEFT247	Combined & Cogen Plants.	MCT2XXX	
+PEFT249	Energy System Test	MCT2XXX	
+PEFT262	Comm-Indust Energy Syst	MCT2XXX	
+PEFT297	Spec Topics In Peft	GEN2XXX	
+PEFT298	Spec Topics In Peft	GEN2XXX	
+PHIL031	Intro To Logic	PHI1050	
+PHIL051	Hist-Phil-18Th Cent	PHI1XXX	
+PHIL130	Intro To Philosophy.	PHI1010	
+PHIL131	Intro To Logic	PHI1050	
+PHIL133	Hist-Phil-18Th Cent	PHI1010	
+PHIL135	Hist Of Modern Philosophy	PHI1XXX	
+PHIL137	Topics In Philosophy	PHI1XXX	
+PHIL138	Moral Issues Biotech.	PHI1110	
+PHIL139	Ethics	PHI2320	
+PHIL201	Eastern Philosophy.	PHI2150	
+PHIL295	Directed Study	PHI2XXX	
+PHIL31	Intro To Logic	PHI1050	
+PHIL51	Hist Phil-18Th Cent	PHI2100	
+PHIL52	Hist Phil From 18Th Cent	PHI1XXX	
+PHT100	Intro Pharmacy Technology	GEN1XXX	
+PHT119	Outpatient Pharmacy Externship	Does not transfer	
+PHT120	Pharmacology I	GEN1XXX	
+PHT121	Pharmacology Ii	GEN1XXX	
+PHT124	Pharmacology For Pharm Tech I	GEN1XXX	
+PHT125	Pharm 2 Pharmacy Tech Ii	GEN1XXX	
+PHT130	Pharm Software App	GEN1XXX	
+PHT132	Basic Pharmacy Software Apps	GEN1XXX	
+PHT136	Computers In Pharmacy	GEN1XXX	
+PHT144	Issues In Pre - Pharmacy	GEN1XXX	
+PHT150	Pharmaceutic Calculations	GEN1XXX	
+PHT165	Issues In Pharmacy	GEN1XXX	
+PHT170	Pharmacy Systems	GEN1XXX	
+PHT175	Applied Pharmacy Systems	GEN1XXX	
+PHT178	Applied Out-Patient Pharmacy	GEN1XXX	
+PHT193	Pharmacy Externship	Does not transfer	
+PHYS120	Technical Physics.	PHY1020	
+PHYS121	Technical Physics Ii	ET2XXX	
+PHYS131	General Physics I	PHY2130	
+PHYS131	General Physics I	PHY2131	
+PHYS132	General Physics Ii	PHY2140	
+PHYS132	General Physics Ii	PHY2141	
+PHYS133	Princ Of Physics	PHY1020	
+PHYS133	Princ Of Physics	PHY1021	
+PHYS20	Technical Physics	ET2XXX	
+PHYS21	Technical Physics	ET2XXX	
+PHYS231	Engineer Physics I	PHY2170	
+PHYS231	Engineer Physics I	PHY2171	
+PHYS232	Engg Physics Ii (+Lab)	PHY2180	
+PHYS232	Engg Physics Ii (+Lab)	PHY2181	
+PHYS233	Modern Physics (+Lab)	PHY3300	
+PHYS241	Mechanics (1/3 =2170/1+2180/1)	PHY2XXX	
+PHYS242	Sound. Lt & Thermo (2/3)	PHY2XXX	
+PHYS243	Electricity & Magnetism (3/3)	PHY2XXX	
+PHYS295	Need More Information	Does not transfer	
+PHYS31	General Physics	PHY2130	
+PHYS31	General Physics	PHY2131	
+PHYS53	Engineer Physics	PHY2170	
+PHYS53	Engineer Physics	PHY2171	
+PHYS54	Engg Physics Cont(+Lab)	PHY2180	
+PHYS54	Engg Physics Cont(+Lab)	PHY2181	
+PL51	Criminal Law	CRJ2XXX	
+PL52	Criminal Procedure	CRJ2XXX	
+PLGL100	Essential Paralegal Skills	GEN1XXX	
+PLGL110	Legal Ethics	GEN1XXX	
+PLGL115	Property Law	GEN1XXX	
+PLGL120	Legal Research I	GEN1XXX	
+PLGL125	Legal Research Ii	GEN1XXX	
+PLGL126	Legal Research	GEN1XXX	
+PLGL190	Co-Op In Paralegal Studies	Does not transfer	
+PLGL200	Civil Litigation I	GEN2XXX	
+PLGL220	Personal Injury	GEN2XXX	
+PLGL225	Legal Writing	GEN2XXX	
+PLGL226	Legal Writing	GEN2XXX	
+PLGL228	Tech In The Law	GEN2XXX	
+PLGL230	Civil Litigation Ii	GEN2XXX	
+PLGL235	Commercial Transctions	GEN2XXX	
+PLGL240	Family Law	GEN2XXX	
+PLGL245	Estate Planning/Probate	GEN2XXX	
+PLGL248	Immigration Law	GEN2XXX	
+PLGL250	Business Organizations	GEN2XXX	
+PLGL290	Co-Op In Paralegal Studies	Does not transfer	
+PLGL295	Pralegal Internship	GEN2XXX	
+PLGL299	Special Topics In Law	GEN2XXX	
+PLMB100	Fundamentals Of Plumb & Pipe	ET1XXX	
+PLMB101	Fundamentals Of Plumb & Pipe	ET1XXX	
+PLMB110	Drains, Wastes & Vents	ET1XXX	
+PLMB115	Water Supply & Distr Syst	GEN1XXX	
+PLMB118	Plumb Pipefit Mat Join	GEN1XXX	
+PLMB120	Hydronic Heating Systems	MCT1XXX	
+PLMB125	Plumbing Design	ET1XXX	
+PLMB225	Plumbing Design.	ET2XXX	
+PLMB240	Plumbing Mats & Components.	ET2XXX	
+PLMB250	Plumbing: Pipefitting Codes	ET1XXX	
+PLMB255	Plumbing Fixture Install.	ET2XXX	
+PLMB270	Plumb Service-Res/Commercial.	ET2XXX	
+PLMB275	Practical Plumb Lab-State Lic	ET1XXX	
+PLMB280	Plmb/Pipefit State Lic Prep	ET1XXX	
+PLPS041	Amer Legal Systems	CRJ1XXX	
+PLPS41	American Legal System	CRJ1XXX	
+POL031	Intro Pol Sci	PS1010	
+POLS090	Supplement-Political Sci	Does not transfer	
+POLS100	Intro Community Leadership	GEN1XXX	
+POLS101	American Govt.	PS1010	
+POLS102	Fdtns Comm Leadership	GEN1XXX	
+POLS110	Intro Comm Leadership	GEN1XXX	
+POLS111	Foundtns Comm Leadership	GEN1XXX	
+POLS131	Intro-Amer Gov't/Pol	PS1010	
+POLS132	Current Issues-Amercn Pol	PS1XXX	
+POLS133	The American Presidency	PS3050	
+POLS135	American Legal Sys/Proc	PS1XXX	
+POLS141	American Govt.	PS1010	
+POLS151	Public Policy	PS2410	
+POLS152	International Relations	PS2810	
+POLS153	Comparative Government	PS2710	
+POLS154	Metro Politics	PS2240	
+POLS155	State/Local Government.	PS3070	
+POLS200	Intro-Peace/Conflict Studies.	PCS2000	
+POLS201	Public Policy Spec Topics.	PS2410	
+POLS202	Issues In Foreign Policy.	PS2XXX	
+POLS295	Comm Leadership Intern	Does not transfer	
+POLS31	Intro To Polit Sci	PS1010	
+PPGS.	Priv Pilot Ground School	Does not transfer	
+PS031	Intro Political Sci	PS1010	
+PS052	Internal Realtions	PS2810	
+PS31	Intro Political Sci	PS1010	
+PS5	Elem Govt In Us	PS1030	
+PS55	State & Local Government	PS1XXX	
+PSCI131	Intro Physical Sci	PHY1XXX	
+PSCI133	Atomic Science	PHY1XXX	
+PSCI135	Sound & Light In Fine Arts	PHY3100	
+PSCI31	Intro Physical Sci	PHY1XXX	
+PSI121	Intro Amer Gov	PS1010	
+PSY031	Intro Psychology	PSY1020	
+PSY052	Child Psychology.	PSY3440	
+PSY090	Supplement To Psychology	Does not transfer	
+PSY131	Intro Psychology	PSY1020	
+PSY151	Psychology Adjustment	PSY2300	
+PSY152	Child Psychology	PSY3440	
+PSY153	Life Span Development	PSY2400	
+PSY161	Human Sexuality.	PSY3380	
+PSY251	Abnormal Psychology	PSY3310	
+PSY253	Life Span Development	PSY2400	
+PSY254	Social Psychology	PSY2600	
+PSY255	Psychology Of Aging	PSY2XXX	
+PSY256	Educational Psych	EDP3310	
+PSY257	Health Psychology	PSY2410	
+PSY260	Adolescent Psychology.	PSY3460	
+PSY294	Educational Psych Pract.	EDP2XXX	
+PSY296	The Exceptional Child.	SED5030	
+PSY31	Introductory Psych	PSY1020	
+PSY33	Adjustment	PSY2300	
+PSY36	Child Psychology	PSY2400	
+PSY52	Child Psychology.	PSY3440	
+PSY53	Experimental Psychology	PSY4020	
+PSY54	Social Psychology	PSY2600	
+PSY60	Human Sexuality	PSY1XXX	
+PTA100	Physical Therapist Assist	GEN1XXX	
+PTA102	Intro To Physical Therapy	GEN1XXX	
+PTA105	Therapeutic Procedures	GEN1XXX	
+PTA106	Therapeutic Procedures I	GEN1XXX	
+PTA108	Therapeutic Techniques I	GEN1XXX	
+PTA110	Therapeutic Tech Ptas I	GEN1XXX	
+PTA115	Therapeutic Excersise	GEN1XXX	
+PTA118	Exercise Techniques I	GEN1XXX	
+PTA119	Exercise Techniques Ii	GEN1XXX	
+PTA120	Therapeutic Massage	GEN1XXX	
+PTA121	Therapeutic Procedures Ii	GEN1XXX	
+PTA122	Exercise Techniques Lab	GEN1XXX	
+PTA128	Theraeutic Technique	GEN1XXX	
+PTA130	Kinesiology	GEN1XXX	
+PTA132	Kinesiology For Pt	GEN1XXX	
+PTA140	Therapeutic Agents	GEN1XXX	
+PTA142	Theraputic Modalities	GEN1XXX	
+PTA144	Physical Therapy Modalities	GEN1XXX	
+PTA161	Human Development	GEN1XXX	
+PTA165	Life Span Development	GEN1XXX	
+PTA168	Develop Across Lifespan Pta	GEN1XXX	
+PTA220	Pathologic Conditions	GEN2XXX	
+PTA225	Applied Pathology For Ptas	GEN2XXX	
+PTA248	Orthopedic Conditions I	GEN2XXX	
+PTA249	Orthopedic Conditions Ii	GEN2XXX	
+PTA250	Extremity Orthopedics	GEN2XXX	
+PTA254	Spinal Orthopedics	GEN2XXX	
+PTA260	Neurological Conditions	GEN2XXX	
+PTA262	Rehabilitation Neurological I	GEN2XXX	
+PTA264	Rehabilitation Neurological Ii	GEN2XXX	
+PTA265	Rehab Neuro Conditions Lab	GEN2XXX	
+PTA270	Physical Therapist Assist	GEN2XXX	
+PTA291	Clinical Externship I	Does not transfer	
+PTA295	Clinical Externship Ii	Does not transfer	
+RAD101	Intro Radiography	GEN1XXX	
+RAD107	Patient Care Techniques	GEN1XXX	
+RAD108	Patient Care Techniques	GEN1XXX	
+RAD109	Clinical Education I	GEN1XXX	
+RAD111	Prin Radiation Protect	GEN1XXX	
+RAD114	Basic Patient Care In Radiogra	GEN1XXX	
+RAD117	Radiographic Position I	GEN1XXX	
+RAD118	Radiographic Position I	GEN1XXX	
+RAD157	Radiographic Position Ii	GEN1XXX	
+RAD158	Radiographic Position Ii	GEN1XXX	
+RAD160	Imaging Equipment	GEN1XXX	
+RAD161	Imaging Equipment	GEN1XXX	
+RAD166	Radiographic Film Proces	GEN1XXX	
+RAD170	Principles Of Exposure	GEN1XXX	
+RAD171	Prin Exposing Film Eval	GEN1XXX	
+RAD181	Contrast Studies	GEN1XXX	
+RAD186	Radiographic Position Iii	GEN1XXX	
+RAD187	Radiographic Position Iii	GEN1XXX	
+RAD188	Radiographic Position Iii	GEN1XXX	
+RAD190	Clinical Education Ii	GEN1XXX	
+RAD194	Clinical Education Iii	GEN1XXX	
+RAD195	Basic Clinical Education	GEN1XXX	
+RAD197	Clinical Education Iv	GEN1XXX	
+RAD198	Clinical Education Iv	GEN1XXX	
+RAD205	Pathology/Film Evaluation	GEN2XXX	
+RAD206	Pathology/Film Evaluation	GEN2XXX	
+RAD209	Clinical Education V	GEN2XXX	
+RAD211	Intro Quality Assurance	GEN2XXX	
+RAD212	Intro Quality Assurance	GEN2XXX	
+RAD214	Path + Cross Sectional Anatom	GEN2XXX	
+RAD227	Radiographic Position Iv	GEN2XXX	
+RAD228	Radiographic Procedures	GEN2XXX	
+RAD256	Radiographic Position V	GEN2XXX	
+RAD257	Radiographic Position V	GEN2XXX	
+RAD266	Radiation Physics	GEN2XXX	
+RAD267	Radiation Physics	GEN2XXX	
+RAD270	Image Acquisition And Display	GEN2XXX	
+RAD274	Radiation Biology	GEN2XXX	
+RAD284	Principles Of Computed Tomogra	GEN2XXX	
+RAD285	Registry Review	GEN2XXX	
+RAD286	Registry Review	GEN2XXX	
+RAD290	Clinical Education Vi	GEN2XXX	
+RAD294	Clinical Education Vii	GEN2XXX	
+RAD295	Clinical Education Vii	GEN2XXX	
+RAD296	Clinical Education	GEN2XXX	
+RAD298	Clinical Education Viii	GEN2XXX	
+REEN101	Fund Of Renewable Energy.	MCT1XXX	
+REEN110	Geothermal Systems.	MCT1XXX	
+REEN120	Wind, Solar, Fuel Cell Tech.	ESG1XXX	
+REEN130	Smart Home Control Technology.	MCT1XXX	
+REEN140	Co-Generation & Back Up Power.	MCT1XXX	
+REEN160	Energy Audit/Weather.	MCT1XXX	
+REEN161	Energy Audit/Weath Cert.	MCT1XXX	
+REEN170	Battery Technologies.	EET1XXX	
+REEN180	Hydropower.	ET1XXX	
+RTH100	Prin Respiratory Care	GEN1XXX	
+RTH107	Respiratory Therapy I	GEN1XXX	
+RTH119	Intro Clinical Therapy	GEN1XXX	
+RTH125	Respiratory Care Procedures I	GEN1XXX	
+RTH130	Therapeutic Proced	GEN1XXX	
+RTH155	Airway Care	GEN1XXX	
+RTH160	Respiratory Therapy Pharmacolo	GEN1XXX	
+RTH165	Respiratory Therapeutic	GEN1XXX	
+RTH175	Respiratory Care Procedures 2	GEN1XXX	
+RTH180	Rt Clinical Sciences	GEN1XXX	
+RTH185	Clinical Chemistry	GEN1XXX	
+RTH194	Clinical Therapeutics	GEN1XXX	
+RTH195	Intro Clinical Theraptcs	GEN1XXX	
+RTH205	Ventilator Management	GEN2XXX	
+RTH207	Respiratory Therapy Ii	GEN2XXX	
+RTH210	Ventilator Management I	GEN2XXX	
+RTH216	Cardiopulmonary Diagnost	GEN2XXX	
+RTH220	Resp Care Neonates/Ped	GEN2XXX	
+RTH225	Microbiology Respiratory	GEN2XXX	
+RTH235	Neonatal/Pediatric Care	GEN2XXX	
+RTH240	Cardiopulmny Diagnostics	GEN2XXX	
+RTH245	Applied Respiratory Care	GEN2XXX	
+RTH250	Adv Mech Ventilation	GEN2XXX	
+RTH270	Therapeutic Clinical Mgmt	GEN2XXX	
+RTH275	Therapeutic Management	GEN2XXX	
+RTH285	Adv Respiratory Concepts	GEN2XXX	
+RTH291	Adv Clinical Therapeutics	GEN2XXX	
+RTH292	Clinical Practicum	GEN2XXX	
+RTH293	Adv Clinical Therapy	GEN2XXX	
+RTH294	Adv Clinical Practicum	GEN2XXX	
+RTI099	Basic Skills Refresher	Does not transfer	
+RTI1010	Essentials Of Drafting	ET1XXX	
+RTI1020	Drafting Conventions & Symbols	ET1XXX	
+RTI1030	3D Shape Interpretation	ET1XXX	
+RTI1040	Adv Drafting Techniques	ET1XXX	
+RTI1160	Tool Ass & Detail	ET1XXX	
+RTI1170	Cam Layout Tool Detailing	ET1XXX	
+RTI1180	Tool/Gage Design	ET1XXX	
+RTI1214	Die Detailing	ET1XXX	
+RTI1224	Cutting Dies	ET1XXX	
+RTI1234	Forming Dies	ET1XXX	
+RTI1316	Structural Drawing	ET1XXX	
+RTI1326	Conveyors	ET1XXX	
+RTI1336	Plant Layout Equipment	ET1XXX	
+RTI1417	Sheet Metal-Parallel Radi	ET1XXX	
+RTI1427	Sheet Metal-Radial Triang	ET1XXX	
+RTI1437	Sheet Metal-Triangulation	ET1XXX	
+RTI1447	Sheet-Metal Tri Shortcuts	ET1XXX	
+RTI1457	Sheet-Metal Blank Develop	ET1XXX	
+RTI1485	Pattern Layout/Print Read	ET1XXX	
+RTI1495	Pattern Design	ET1XXX	
+RTI1510	Descriptive Geometry	ET1XXX	
+RTI1520	Descriptive Geometry	ET1XXX	
+RTI153	Descriptive Geometry	ET1XXX	
+RTI1530	Descriptive Geometry	ET1XXX	
+RTI1610	Panel Tipping	ET1XXX	
+RTI1620	Automotive Body I	ET1XXX	
+RTI1630	Automotive Body Ii	ET1XXX	
+RTI1805	Metric System Conversion	Does not transfer	
+RTI1810	Shop Arithmetic	ET1XXX	
+RTI1820	Algebra	ET1XXX	
+RTI1830	Geometry	ET1XXX	
+RTI1840	Trigonometry	ET1XXX	
+RTI1850	Trig & Shop Applications	ET1XXX	
+RTI1860	Compound Angles	ET1XXX	
+RTI1870	Gearing	ET1XXX	
+RTI1900	Basic Math - Electricity	Does not transfer	
+RTI1905	Algebra Electricity	Does not transfer	
+RTI1910	Adv Math: Electricity	Does not transfer	
+RTI1930	Strngth Of Material I	Does not transfer	
+RTI2	Algebra	ET1XXX	
+RTI201	Bas Elec Mtr Ckts	Does not transfer	
+RTI202	Adv Elec Mtr Ckts	Does not transfer	
+RTI202.3	Residential Wiring	ET1XXX	
+RTI2023	Residential Wiring	ET1XXX	
+RTI203	Direct Current Fund	ET1XXX	
+RTI2033	Industrial & Commerical Wiring	ET1XXX	
+RTI204	Magntsm & Genrtrs	Does not transfer	
+RTI205	Sing-Phs A-C Fund	Does not transfer	
+RTI206	Dir-Curr Mtrs & Instr	Does not transfer	
+RTI207	Electronic Fundamentals	Does not transfer	
+RTI208	Polyphs Fnd & Ac Mch	Does not transfer	
+RTI2080	Intro To Electricity	ET1XXX	
+RTI209	Resist Weld Controler	Does not transfer	
+RTI2090	Electrical Equipment	ET1XXX	
+RTI21	Basic Math Electricity	ET1XXX	
+RTI210	Logic Circuits	Does not transfer	
+RTI2100	Elec-Pnu Motor Control	ET2XXX	
+RTI211	Ind Electric Control	Does not transfer	
+RTI2110	Dc Fundamentals & Magnetism	ET2XXX	
+RTI212	Prgrammable Controlers	Does not transfer	
+RTI2120	Dc Currents: Induct/Capac	ET2XXX	
+RTI213	Electronic Lab	Does not transfer	
+RTI2130	Dc Generators & Motors	ET2XXX	
+RTI214	Natl Electrcl Code	Does not transfer	
+RTI2140	Single-Phase Ac Fundamentals	ET2XXX	
+RTI2150	Polyphase Fund: Apparatus	ET2XXX	
+RTI217	Elec Motor Control Lab	Does not transfer	
+RTI2170	Elec Motor Control Lab	ET2XXX	
+RTI218	National Electrical Code	Does not transfer	
+RTI2180	National Electrical Code	ET1XXX	
+RTI22	Algebra Electricity	ET1XXX	
+RTI2200	Single Phase Ac Fundamentals	ET2XXX	
+RTI221	Fundamentals Of Process.	ET1XXX	
+RTI2210	Industrial Electronic Controls	ET1XXX	
+RTI2220	Intro Microprocessors	ET1XXX	
+RTI2230	Microprocessors	ET1XXX	
+RTI2240	Programmable Controllers	Does not transfer	
+RTI2250	Electronics Laboratory	ET2XXX	
+RTI2295	Electric Trunk Controls	ET1XXX	
+RTI23	Advanced Math-Electricty	Does not transfer	
+RTI233	Steam Boilers.	ET1XXX	
+RTI234	Steam Plant Auxiliaries	Does not transfer	
+RTI236	Steam Turbines	Does not transfer	
+RTI243	Air Conditioning	Does not transfer	
+RTI244	Refrigeration Code	Does not transfer	
+RTI247	Heating Code	Does not transfer	
+RTI2510	Fund Plumbing Pipefitting	ET1XXX	
+RTI2520	Drains/Wastes/Vents	ET1XXX	
+RTI2530	Heating Systems	ET1XXX	
+RTI2540	Plumbing Code	ET1XXX	
+RTI2610	Flat & Horizontal Welding	ET2XXX	
+RTI291	Adc Clinical Theraphy	Does not transfer	
+RTI301.3	Elec Equipment/Ckts	ET1XXX	
+RTI3010	Measurement/Benchwork	ET1XXX	
+RTI3013	Elec Equipment Circuits	Does not transfer	
+RTI3020	Lathe/Shaper/Machines	ET1XXX	
+RTI3030	Gearing	ET1XXX	
+RTI3040	Numerical Control Concept	ET1XXX	
+RTI3080	Intro Computer Numerical	ET1XXX	
+RTI3112	Lathe, Shaper, Mill	ET3XXX	
+RTI3113	Jig Bore Grinder	ET3XXX	
+RTI3216	Millwright Tools/Equipment	ET1XXX	
+RTI3226	Mechanical Power Transmis	ET1XXX	
+RTI3315	Wood Patternmaking Tools	ET1XXX	
+RTI3325	Foundry Procedures Practi	ET1XXX	
+RTI3335	Job Molding Coremaking	ET1XXX	
+RTI3400	Computers & Automation	ET3XXX	
+RTI3410	Robotics	ET1XXX	
+RTI401	Fund Of Hydraulics	ET1XXX	
+RTI4010	Hydraulic Fundamentals	ET1XXX	
+RTI4020	Hydraulic Pumps/Motors	ET1XXX	
+RTI4030	Hydraulic Control Values	ET1XXX	
+RTI4040	Hydraulic Servo Systems	ET1XXX	
+RTI4050	Basic Hydraulic Circuits	ET1XXX	
+RTI4060	Adv Hydraulic Circuits	ET1XXX	
+RTI4070	Lubrication Systems	ET1XXX	
+RTI4110	Pneumatic Fundamentals	ET1XXX	
+RTI4120	Air Logic Circuitry	ET1XXX	
+RTI5	Trig & Shop Appl	ET1XXX	
+RTI5010	Character-Ferrous Metals	ET5XXX	
+RTI5020	Char Non Ferr Metals	ET5XXX	
+RTI5110	Plastics Technology	ET1XXX	
+RTI521	Chem Basic Principles.	ET1XXX	
+RTI5210	Chemistry Basic Prin	Does not transfer	
+RTI541	Physics - Mechanics.	ET1XXX	
+RTI5410	Sent To Department	Does not transfer	
+RTI5850	Skilled Trades Industrial	ET1XXX	
+RTI6004	Math-Trig I	ET1XXX	
+RTI6005	Math-Logarithms	ET1XXX	
+RTI6006	Math-Trig 2	ET1XXX	
+RTI6008	Math-Comp Ang I	ET1XXX	
+RTI6010	Math-Gearing I	ET1XXX	
+RTI6104	Drft-Vis-Clay Mdl	ET1XXX	
+RTI6108	Drft-Dtl-Asm-Drw	ET1XXX	
+RTI6110	Drft-Elem Tool Dtl	ET1XXX	
+RTI6120	Drft-Cutg Dies	ET1XXX	
+RTI6151	Drft-Desc-Geom-1	ET1XXX	
+RTI6201	Elec-Dirct-Curnt	ET1XXX	
+RTI6301	Eh Th Mt Wk Tr I	ET1XXX	
+RTI6328	Die Theory	ET1XXX	
+RTI6401	Hydr Funda	ET1XXX	
+RTI6501	Charac Of Mtls	ET1XXX	
+RTI6502	Metal Proc I	ET1XXX	
+RTI6503	Metal Proc Ii	ET1XXX	
+RTI6504	Heat Treat Mtls	ET1XXX	
+SA31	Intro To Security	CRJ1XXX	
+SCI131	Revolutions In Science.	HIS1XXX	
+SCI160	Science Lab Workplace Skills	BIO1XXX	
+SCI190	Co-Op In Science	Does not transfer	
+SCI210	Intro To Science.	SCE2XXX	
+SCI212	Earth Sci-Educators.	SCE2XXX	
+SCI213	Learning By Inquiry: Life Sci.	SCE5010	
+SCI290	Co-Op In Science	Does not transfer	
+SCI292	Study Abroad In Nat Sci	Does not transfer	
+SCO190	Science Co-Op	Does not transfer	
+SCO290	Science Co-Op	Does not transfer	
+SMC131	Intro-Telecommunications.	COM1500	
+SMC132	Film Hist/Criticism	COM2020	
+SMC235	Topics In Film Study	COM2XXX	
+SMC241	Writing-Radio,Tv,Film	COM4XXX	
+SMC243	Performance-Radio,Tv,Film	COM2XXX	
+SMC251	Audio Production I.	COM4310	
+SMC252	Audio Production I	COM2XXX	
+SMC257	Film/Video Production I.	COM1600	
+SMC258	Film/Video Production Ii	COM5400	
+SMC261	Broadcast Journalism	COM3XXX	
+SMC270	Mass Communication Activ	COM2XXX	
+SMC291	Radio Practicum	Does not transfer	
+SMC292	Radio Internship	COM6190	
+SMC293	Television Practicum	COM5420	
+SMC294	Television Internship	COM6190	
+SO031	Prin Of Sociology	SOC1010	
+SO31	Prin Of Sociology	SOC1010	
+SO32	Marriage And The Family	SOC3400	
+SO51	Prin Sociology	SOC1010	
+SO52	Sociology Of Sex Roles	SOC2XXX	
+SO54	Social Psychology	SOC2XXX	
+SO55	Ethnic Group Relations	SOC1XXX	
+SOC031	Prin Of Sociology	SOC1010	
+SOC090	Supplement To Sociology	Does not transfer	
+SOC100	Intro Community Leadership	GEN1XXX	
+SOC131	Intro To Sociology	SOC1010	
+SOC132	Marriage And The Family	SOC3400	
+SOC151	Contemp Soc Probs	SOC1020	
+SOC151H	Hon-Contem Soc Probs	SOC1020	
+SOC152	Women, Men, And Society	SOC2202	
+SOC212	Leadership Divers Comm	SOC2XXX	
+SOC251	Ethnic & Racial Diversity	SOC2201	Spring/Summer 2026
+SOC251	Ethnic Racial Diversity	SOC2600	
+SOC253	Sociology Of Deviance.	SOC2204	
+SOC254	Social Psychology	SOC2203	
+SOC295	Comm Leadership Intern	Does not transfer	
+SP031	Fund Of Speaking	COM1010	
+SP31	Fund Of Speaking	COM1010	
+SP32	Persuasive Speaking	COM2170	
+SP33	Interp Reading	COM1XXX	
+SP34	Voice And Articulation	COM2040	
+SP35.1	Storytell Solo Perform	COM5XXX	
+SP35.2	Storytelling	COM5XXX	
+SP35.5	Browning Oral	COM5XXX	
+SP35.6	Modern Elocution	COM5XXX	
+SP36.1	Speech Act: Forensic	COM1XXX	
+SP36.3	Speech Act Theatre	COM1XXX	
+SP37	Readers Theatre	COM1XXX	
+SP38	Interper Communication	COM2200	
+SP39	Adv Oral Interp Reading	COM1XXX	
+SP46	Commun In Organizations	COM3XXX	
+SPC104	Storytelling:solo Perform	COM5XXX	
+SPC106	Oral Interpretation-Bible	COM5XXX	
+SPC114	Storytellng:group Perform	COM5XXX	
+SPC121	Forensics-Speech Activity	Does not transfer	
+SPC123	Debate-Speech Activity	Does not transfer	
+SPC124	Adapt/Edit Materials-Comm	COM5XXX	
+SPC131	Fund Of Speaking	COM1010	
+SPC134	Interpretative Reading	COM2500	
+SPC135	Voice And Articulation	COM2040	
+SPC141	Persuasion	COM2170	
+SPC144	Readers Theatre	COM5XXX	
+SPC145	Interpersonal Communicat	COM2200	
+SPC151	Argument And Debate	COM2110	
+SPC195	Directed Study In Speech	Does not transfer	
+SPC196	Directed Study In Speech	Does not transfer	
+SPC197	Directed Study-Oral Inter	Does not transfer	
+SPC198	Directed Study In Speech	Does not transfer	
+SPC232	Health Communication.	COM3220	
+SPC234	Adv Oral Interpretation	COM2XXX	
+SPC235	Topics In Speech	COM2XXX	
+SPC244	Advanced Readers Theatre	COM2XXX	
+SPC245	Readers Theatre Iii	COM2XXX	
+SPC246	Readers Theatre Iv	COM2XXX	
+SPC281	Speech Capstone	Does not transfer	
+SPC295	Directed Study In Speech	Does not transfer	
+SPC296	Directed Study In Speech	Does not transfer	
+SPC297	Directed Study-Oral Inter	Does not transfer	
+SPC298	Directed Study In Speech	Does not transfer	
+SPC31	Fund Of Speaking	COM1010	
+SPE031	Fund Of Speech	COM1010	
+SPN031	Elem Spanish First Sem	SPA1010	
+SPN032	Elem Spanish Second Sem	SPA1020	
+SPN091	Intro-Spanish Grammar I	Does not transfer	
+SPN092	Intro-Spanish Grammar Ii	Does not transfer	
+SPN093	Intro-Spanish Grammar Iii	Does not transfer	
+SPN094	Intro-Spanish Grammar Iv	Does not transfer	
+SPN130	Intro To Hispanic	SPA1XXX	
+SPN131	Elementary Spanish I	SPA1010	
+SPN132	Elementary Spanish Ii	SPA1020	
+SPN141	Elem Conversation/Grammar	SPA1020	
+SPN231	Second Year Spanish Iii	SPA2010	
+SPN232	Sec Year Span Iv	SPA2025	
+SPN232H	Honors 2Nd Year Spanish	SPA2025	
+SPN290	Study Abroad Span Lang/Cult	SPA2XXX	
+SPN295	Directed Study In Spanish	Does not transfer	
+SPN296	Directed Study In Spanish	Does not transfer	
+SPN297	Directed Study In Spanish	Does not transfer	
+SPN31	Elem Spanish First Sem	SPA1010	
+SPN32	Elem Spanish Second Sem	SPA1020	
+SPN51	Intermediate I	SPA2010	
+SPN52	Intermediate Spanish Ii	SPA2025	
+SRG101	Intro Surgical Technology	GEN1XXX	
+SRG120	Surgical Procedures I	GEN1XXX	
+SRG140	Surgical Techniques I	GEN1XXX	
+SRG150	Surgical Techniques Ii	GEN1XXX	
+SRG160	Surgical Pharmacology	GEN1XXX	
+SRG209	Surgical Clinic Extern I	GEN2XXX	
+SRG220	Surgical Procedures Ii	GEN2XXX	
+SRG240	Issues Surgical Technique	GEN2XXX	
+SRG290	Surgical Clinic Extern Ii	GEN2XXX	
+SRV31	Basic Surveying	ET1XXX	
+SS11	Social Science Ii	SOC1XXX	
+SS30	Survey Of Social Sciences	SOC1XXX	
+SSC131	Survey Of Social Science	SOC1XXX	
+SSC190	Co-Op In Social Science	Does not transfer	
+SSC235	Topics In Social Science	SOC2XXX	
+SSC290	Co-Op In Social Science	Does not transfer	
+SSC30	Survey Social Science	SOC1XXX	
+SSCO190	Social Science Co-Op	Does not transfer	
+SSCO290	Social Science Co-Op	Does not transfer	
+STDE023.	Adv Empathy Training	Does not transfer	
+STDE025	Career Exploration	Does not transfer	
+STDE028	Transactional Anallysis	Does not transfer	
+STDE21	Human Potentian Seminar	Does not transfer	
+STDE22	Adv Human Potential Sem	Does not transfer	
+STDE23.1	Empathy Training	Does not transfer	
+STDE23.2	Adv Empathy Training	Does not transfer	
+STDE25	Career Exploration	Does not transfer	
+STDE26	Assertiveness Training	Does not transfer	
+STDE27	Life Work Planning	Does not transfer	
+STH131	Theatre Appreciation	THR1010	
+STH132	Acting I	THR1211	
+STH133	Technical Theatre	THR3570	
+STH134	Techncal Theatre Specialities.	THR2XXX	
+STH135	Intro To Stage Makeup.	THR1451	
+STH136	Movement For The Actor	THR2221	
+STH138	Stage Costuming	THR5321	
+STH140	One Act Play Production.	THR2XXX	
+STH142	Theatrical Production.	THR2580	
+STH143	Creative Dramatics Child	THR1XXX	
+STH144	Improvisation-The Actor.	THR1XXX	
+STH145	Stage Combat	THR1XXX	
+STH149	Children's Theatre Prod	THR1XXX	
+STH150	Stagecraft	THR2130	
+STH155	Theatre (Speech Activity).	THR2580	
+STH232	Acting Ii	THR1215	
+STH233	Adv Technical Theatre	THR3570	
+STH234	Techncal Theatre Specialties.	THR2XXX	
+STH235	Topics In Theatre.	THR2XXX	
+STH238	Theatre History.	THR5841	
+STH242	Adv Theatrical Production.	THR2580	
+STH249	Adv Children's Theater.	THR2XXX	
+STH255	Lighting.	THR5331	
+STH256	Directing.	THR5711	
+STH257	Pantomime Phy Technique.	THR2XXX	
+STH259	Experimental Theatre Prod	THR2XXX	
+STH260	Acting Iii	THR3211	
+STH261	Acting Iv	THR3215	
+STH262	Intro To Motion Capture.	THR2XXX	
+STH263	Intermediate Motion Capture.	THR2XXX	
+STH264	Adv Motion Capture Applctn.	THR2XXX	
+STH265	Intro Motion Capture Body.	THR2XXX	
+STH266	Green Screen Visual Effects.	THR2XXX	
+STH267	Stereoscopic Cinema.	THR2XXX	
+STH268	Film Acting I.	THR2XXX	
+STH269	Cinematographic Spec Effect.	THR2XXX	
+STH270	Adv Experiment Theater.	THR2XXX	
+STH271	Adv One-Act Play Prod.	THR2XXX	
+STH272	Improvisation Ii.	THR2XXX	
+STH273	Voice For The Actor.	THR2231	
+STH281	Theatre Capstone.	THR2XXX	
+SWC131	Science-Western Culture	PHI1XXX	
+SWK131	Intro To Social Work	SW1010	
+SWK150	Counsel & Interview Skills	SW1XXX	
+SWK160	Interpersonal Dynamics	SW1XXX	
+SWK201	Group Dynamics	SW2XXX	
+SWK202	Family Systems	SW2XXX	
+TADV060	Basic Skills For Skilled Trade	Does not transfer	
+TADV100	Basic Print Reading.	ET1XXX	
+TADV110	Mechatronics Test Prep.	ET1XXX	
+TADV120	Intro Fabrication.	ET1XXX	
+TADV121	Intro Hydraulics.	ET1XXX	
+TADV122	Intro Material Handlng.	ET1XXX	
+TADV123	Intro Indstl Elect.	ET1XXX	
+TADV124	Intro Indstl Ctrls.	ET1XXX	
+TADV125	Intro Integ Manufact.	ET1XXX	
+TADV181	Topics In Skilled Trades.	ET1XXX	
+TADV182	Special Topics Skilled Trades.	ET1XXX	
+TADV283	Advanced Topic Skilled Trades.	ET2XXX	
+TADV90	Print Reading Fund	Does not transfer	
+TAE060	Basic Skills For Trade	Does not transfer	
+TAE090	Basic Print Reading	Does not transfer	
+TAE100	Trade Assessment Career	ET1XXX	
+TAE110	Industrial Applications	ET1XXX	
+TAE115	Metric Systems Conversati	ET1XXX	
+TAE120	Industrial Apps Algebraic	ET1XXX	
+TAE130	Industrial Apps Geometric	ET1XXX	
+TAE140	Industrial Apps Trigonom	ET1XXX	
+TAE150	Indust App Strength Mater	Does not transfer	
+TAE155	Indust App Strength Mater	Does not transfer	
+TAE160	Gearing	Does not transfer	
+TAE210	Basic Shape/Size Interp	ET1XXX	
+TAE215	Main Trade Print Reading	Does not transfer	
+TAE220	Adv Graphic Interp	ET1XXX	
+TAE223	Main Print Reading Struct	Does not transfer	
+TAE226	Main Prnt Rdg: Plnt Layou	Does not transfer	
+TAE230	Assembly Detailing	ET1XXX	
+TAE240	Comp Angl Project	ET1XXX	
+TAE250	Tool Jig & Fixture Design	ET1XXX	
+TAE255	Gage Cam Layout Fixture	Does not transfer	
+TAE260	Press Working Fundamental	ET1XXX	
+TAE265	Cutting And Forming Dies.	ET1XXX	
+TAE271	Descriptive Geometry	ET1XXX	
+TAE272	Desc Geom Pl, Sol	ET1XXX	
+TAE274	Bas Sheet Metl/Layout/Fab	Does not transfer	
+TAE275	Sheet Metal Layout	Does not transfer	
+TAE276	Sheet Metal Layout	Does not transfer	
+TAE277	Sheet Metal	Does not transfer	
+TAE280	Panel Pipping	Does not transfer	
+TAE290	Automotive Body	Does not transfer	
+TAE310	Dc/Ac Electricity	EET2000	
+TAE315	Ac Theory/Equipment	ET1XXX	
+TAE320	Dc/Ac Motors	ET1XXX	
+TAE325	Ladder Diagrams/Motor	ET1XXX	
+TAE330	Electronics Theory	ET1XXX	
+TAE335	Digital Theory	ET1XXX	
+TAE340	Low Voltge & Comm Wirng.	EET1XXX	
+TAE345	National Electric Code	ET1XXX	
+TAE350	Industrial Electronic Controls	EET1XXX	
+TAE355	Programmable Logic Contro	ET1XXX	
+TAE360	Robotics Automation	ET1XXX	
+TAE365	Dc Motors & Controls	ET1XXX	
+TAE370	Industrial & Commercial Wiring	ET1XXX	
+TAE375	Residential Witing	Does not transfer	
+TAE385	Industrial Truck Controls	Does not transfer	
+TAE390	High Volt Power	ET1XXX	
+TAE395	Microprocessors	Does not transfer	
+TAE405	Fund Plumbing Pipefitting	Does not transfer	
+TAE415	Drains Waste And Vents	Does not transfer	
+TAE425	Heating Systems	Does not transfer	
+TAE430	Plumbing Code	Does not transfer	
+TAE450	Fluid Power Systems	ET1XXX	
+TAE460	Adv Fluid Power Systems	ET1XXX	
+TAE470	Flu Pwr Dsgn Trbsh	ET1XXX	
+TAE480	Applied Electrohydraulics	Does not transfer	
+TAE490	Pneumatic Power Control	ET1XXX	
+TAE510	Materials Joining Fund	ET1XXX	
+TAE515	Adv Materials Joining	ET1XXX	
+TAE520	Materials Join/Fabricatio	ET1XXX	
+TAE525	Mj&F:asme Pipe/Press Weld	ET1XXX	
+TAE530	Mj&F:asme Pipe/Press Cert	ET1XXX	
+TAE535	Mj&F:gas Tungsten Arc Wel	ET1XXX	
+TAE540	Mj&F:tool/Die Welding	ET1XXX	
+TAE545	Materials Joining/Fabrica	ET1XXX	
+TAE610	Mechanical Power Transmis	ET1XXX	
+TAE620	Pred Main Shaft Alignmnt	Does not transfer	
+TAE630	Pred Maint Vibration Anal	Does not transfer	
+TAE640	Adv Rigging	ET1XXX	
+TAE710	Industrial Computer Explo	ET1XXX	
+TAE715	Comp Appl Skilled Trades	Does not transfer	
+TAE720	Industrial Safety Aware	ET1XXX	
+TAE730	Applied Industrial App	ET1XXX	
+TAE740	Industrial Materials	ET1XXX	
+TAE745	Polymer Ceramics Composit	Does not transfer	
+TAE750	Applied Technology	ET1XXX	
+TAE810	Shop Tools Techniques	ET1XXX	
+TAE820	Machine Tool Application	ET1XXX	
+TAE830	Adv Manufacturing Process	ET1XXX	
+TAE840	Numerical Control Fund	ET1XXX	
+TAE845	Adv Cnc Techniques	ET1XXX	
+TAE880	Foundry Practice Fund	Does not transfer	
+TAE882	Fundamentals Core Making	Does not transfer	
+TAE884	Fundamentals Pattern Make	Does not transfer	
+TAE905	Intro Ind/Pneumatic Contr	Does not transfer	
+TAE920	Instrument Print Reading	Does not transfer	
+TAEL102	Dc & Ac Electricity	EET2000	
+TAEL103	Dc & Ac Electricity.	EET2000	
+TAEL105	Ac Theory & Equipment.	EET2000	
+TAEL106	Electronics Theory.	EET2000	
+TAEL115	Digital Theory.	EET2100	
+TAEL145	Dc & Ac Motors.	EET1XXX	
+TAEL150	Dc Motors & Controls.	EET1XXX	
+TAEL200	Ladder Diag & Motor Cntrl.	ET1XXX	
+TAEL205	Industrial Electronic Cntrls.	EET2XXX	
+TAEL235	Siemens Plc/Hmi Pr	Does not transfer	
+TAEL245	Programmable Logic Control.	ET1XXX	
+TAEL260	Robotics & Automation	ET2XXX	
+TAEL265	National Electrical Code.	EET2XXX	
+TAEL270	Industrial/Commercial Wiring.	EET2XXX	
+TAEL273	Fire Systems For Electrcns	EET2XXX	
+TAEL275	Residential Wiring.	EET2XXX	
+TAEL276	Commercial Wiring	EET2XXX	
+TAEL277	Industrial Wiring	EET2XXX	
+TAEL278	Nec Review & License Test Prep	Does not transfer	
+TAEL279	Elect Codes & Practices	EET2XXX	
+TAEL280	Low Volt & Comm Wiring.	EET2XXX	
+TAEL285	Industrial Truck Controls.	EET2XXX	
+TAEL290	High Voltage Power Distrib.	EET2XXX	
+TAEL291	Power & Trans	Does not transfer	
+TAEL295	Microprocessors.	EET2720	
+TAFD112	Construction Blue Print Readin	Does not transfer	
+TAFD115	Computer Apps: Skilled Trades.	ET1XXX	
+TAFD117	Industrial Comp Apps	ET1XXX	
+TAFD120	Industry Safety Award.	ET1XXX	
+TAFD125	Industrial Safety Awareness.	ET1XXX	
+TAFD126	Prcess Ind Hlth/Env/Sfty.	ET1XXX	
+TAFD130	Appl Ind Appls-Phys Sci.	ET1XXX	
+TAFD150	Applied Technology.	ET1XXX	
+TAFD295	Indust Maint Externship	Does not transfer	
+TAFP150	Fluid Power Systems.	ET1XXX	
+TAFP160	Pneumatic Power/Control.	ET1XXX	
+TAFP260	Adv Fluid Power Systems.	ET2XXX	
+TAFP270	Fluid Power-Cir Dsgn/Trblsht.	ET2XXX	
+TAFP280	Applied Electrohydraulics.	ET1XXX	
+TAGD110	Basic Shape/Size Interpret	Does not transfer	
+TAGD120	Adv Graphic Interpretation	Does not transfer	
+TAGD130	Assembly Detailing.	ET1XXX	
+TAGD140	Compound Angles/Adv Projectn.	ET1XXX	
+TAGD150	Tool, Jig, And Fixture Design.	ET1XXX	
+TAGD155	Gage/Cam Layout/Fixture Des.	ET1XXX	
+TAGD160	Press Working Fundamentals.	ET1XXX	
+TAGD165	Cutting And Forming Dies.	ET1XXX	
+TAGD171	Desc Geometry: Lines/Planes.	ET1XXX	
+TAGD172	Desc Geometry: Planes/Solids.	ET1XXX	
+TAGD280	Panel Tipping.	ET2XXX	
+TAIM100	Industrial Materials.	ET1XXX	
+TAMA100	Industrial Materials	Does not transfer	
+TAMA110	Indust App Basic Math Princ.	ET1XXX	
+TAMA115	Metric Sys/Conversion.	ET1XXX	
+TAMA120	Indust App Algebra Princ.	ET1XXX	
+TAMA130	Indust App Geometric Princ	Does not transfer	
+TAMA200	Indust App Trig Princ.	ET2XXX	
+TAMJ110	Matrls Joining & F	ET1XXX	
+TAMJ112	Creative Metals I	Does not transfer	
+TAMJ115	Adv Mtrls Join & F	ET1XXX	
+TAMJ116	Creative Metals Ii	Does not transfer	
+TAMJ120	Matrl Join & Fab	ET1XXX	
+TAMJ125	Asme Pipe &	ET1XXX	
+TAMJ145	Mj&F: Adv Gas Torc	ET1XXX	
+TAMJ230	Mj&F: Asme Pipe & Pres Cert	Does not transfer	
+TAMJ235	Mj&F: Gtaw & Gmaw Cert	Does not transfer	
+TAMJ240	Mj&F: Tool & Die Welding	ET2XXX	
+TAMN100	Shop Tools & Techniques	Does not transfer	
+TAMN120	Machine Tool Applications.	ET1XXX	
+TAMN130	Adv Manufacturing Processes.	ET1XXX	
+TAMN220	Advanced Cnc Techniques.	ET2XXX	
+TAMT110	Mechanical Power Transmission	Does not transfer	
+TAMT115	Maint Trades Print Reading.	ET1XXX	
+TAMT123	Maint Print Read: Sruct/Convey	Does not transfer	
+TAMT126	Maint Print Read: Print Layout	Does not transfer	
+TAMT200	Predict Maint: Shaft Alignment	Does not transfer	
+TAMT210	Predict Maint: Vibration Analy	Does not transfer	
+TAMT220	Advanced Rigging.	ET2XXX	
+TAMT260	Gearing.	ET2XXX	
+TAPI105	Intro Indust Instr/Pneumatic.	ET1XXX	
+TAPI120	Instrumentation Print Reading.	ET1XXX	
+TAPI201	Instrumentn: Ind Practices.	ET2XXX	
+TAPP100	Fund Of Plumbing/Pipefitting.	ET1XXX	
+TAPP110	Drains, Waste, And Vents.	ET1XXX	
+TAPP120	Heating Systems.	ET1XXX	
+TAPP250	Plumbing Code.	ET2XXX	
+TAPT100	Intro Process Tech Practice.	MIT1XXX	
+TAPT110	Process Tech-Equipment.	ET1XXX	
+TAPT120	Intro Process Instrumentation.	MCT1XXX	
+TAPT125	Process Tech-Inst Ii.	ET1XXX	
+TAPT130	Process Tech-Systems.	ET1XXX	
+TAPT140	Process Tech-Quality.	ET1XXX	
+TARM200	Intro Robotic Maint	Does not transfer	
+TASM100	Basic Sheet Metal Layout & Fab	Does not transfer	
+TASM110	Sheet Metal Blank Development.	ET1XXX	
+TASM120	Sheet Metal Layout Radial/Tri.	ET1XXX	
+TASM130	Sheet Metal Layout Appl Trian.	ET1XXX	
+TCM131	Intro-Telecommunications	COM1500	
+TCM132	Film Hist/Criticism	COM2020	
+TCM151	Digital Audio Edit (1/2 4310)	COM4XXX	
+TCM157	Digital Video Ed (1/2 1600).	COM1XXX	
+TCM189	Whfr-Fm Training.	COM1XXX	
+TCM235	Topics In Film Study	COM2XXX	
+TCM241	Writing-Radio,Tv,Film.	COM2210	
+TCM243	Performance-Radio,Tv,Film.	COM2XXX	
+TCM251	Audio Production I (2/2 4310)	COM4XXX	
+TCM252	Audio Production Ii	COM4310	
+TCM257	Film/Video Prod I (2/2 1600).	COM1XXX	
+TCM258	Film/Video Product Ii.	COM2XXX	
+TCM261	Broadcast Journalism.	COM2230	
+TCM263	Intro To Public Relations	COM3170	
+TCM270	Mass Communication Activ	COM2XXX	
+TCM281	Telecommunication Capston	Does not transfer	
+TCM291	Radio Practicum	Does not transfer	
+TCM292	Radio Internship	COM6190	
+TCM293	Television Practicum	COM5420	
+TCM294	Television Internship.	COM6190	
+TCM295	Telecommunications Dir Stud.	COM2XXX	
+TCM31	Intro To Mass Comm	COM1500	
+TECH101	Intro To Industrial Tech	MIT1XXX	
+TECH110	Exploration Machine Tool Tech	MIT1XXX	
+TECH115	Exploration Of Cad/Drafting	MIT1XXX	
+TECH120	Explor Energy Tech Hvac	MIT1XXX	
+TECH125	Explr Arch Cnst	MIT1XXX	
+TECH140	Explr Auto Tech	MIT1XXX	
+TECH145	Explr Pneumatics	MIT1XXX	
+TECH150	Explor Welding	MIT1XXX	
+TECH155	Explr Mech Transmiss	MIT1XXX	
+THEA131	Theatre Appreciation	THR1010	
+THEA132	Acting I	THR1211	
+THEA133	Technical Theatre.	THR1XXX	
+THEA134	Tech Thea Spec: Rot (1/2 14*)	THR3587	
+THEA135	Introduction To Stage Makeup	THR1451	
+THEA138	Stage Costuming (2/2 1411)	THR5321	
+THEA140	One-Act Play Prod	THR1XXX	
+THEA142	Theatrical Product.	THR2580	
+THEA144	Improvisation For Actors	THR1XXX	
+THEA145	Stage Combat.	THR1XXX	
+THEA149	Children's Theatre.	THR2580	
+THEA150	Stagecraft	THR1411	
+THEA1901	Theatre Experience I	THR1XXX	
+THEA1902	Theatre Experience Ii	THR1XXX	
+THEA232	Acting Ii	THR2XXX	
+THEA233	Adv Technical Theatre.	THR3570	
+THEA234	Adv Tech Thea: Rot Skills.	THR2XXX	
+THEA235	Topics In Theatre.	THR2XXX	
+THEA238	Theatre History.	THR5841	
+THEA242	Advanced Theatrical Production	THR2XXX	
+THEA255	Lighting (2/2 1461).	THR2XXX	
+THEA256	Directing	THR5711	
+THEA257	Pantomine & Phys Tech	THR2XXX	
+THEA259	Experiment. Theatre	THR2XXX	
+THEA260	Acting Iii	THR2XXX	
+THEA270	Adv Exp Theatre Prod.	THR2XXX	
+THEA271	Adv One-Act Play Prod.	THR2XXX	
+THEA272	Improvisation Ii.	THR2XXX	
+THEA273	Voice For The Actor.	THR2XXX	
+THEA281	Theatre Capstone.	THR2XXX	
+THEA2901	Directed Study	THR2XXX	
+VTL150	Spec Vis Effct (1/2 5390)	COM1XXX	
+VTL235	Sci-Fi, Fantasy, Horror	COM5020	
+VTL262	Intro Motion Capt (2/2 5390)	COM2XXX	
+VTL263	Intermed Motion Capture	COM3XXX	
+VTL264	Adv Motion Capture App	COM4XXX	
+VTL265	Intro Motion Capture App	COM2XXX	
+VTL266	Grn Scrn Vis Effct (2/2 5390)	COM2XXX	
+VTL267	Stereoscopic Cinema	THR2XXX	
+VTL268	Film Acting I	THR2XXX	
+WMS131	Int-Women's Studies	GSW2XXX	
+WR090	Supplement-World Religion	Does not transfer	
+WR130	Study Of Religion	PHI1XXX	
+WR131	Comparative Religion	PHI1XXX	
+WR132	Western Religions	PHI1XXX	
+WR232	Western Religions	PHI2XXX	
+WR233	Eastern Religions	ANT3560	
+WR234	Intro To Judaism	PHI1XXX	
+WR235	Christianity 1St 1000 Years	PHI1XXX	
+WR236	Afr Am Relig Exper & Expr	PHI2XXX	
+WR237	Buddhism	PHI2XXX	
+WR238	Hinduism	PHI2XXX	
+WR239	Intro To Daoism	PHI1XXX	
+WR240	Myths & Symbols	CLA2XXX	
+WR241	Islam	PHI2XXX	
+WR242	Native American Rel Trad	PHI2XXX	
+WR280	Topics Religious Studies	PHI2XXX	
+WR295	Directed Study Rel Studies	PHI2XXX	
+WR296	Directed Study Rel Studies	PHI2XXX	
+WR297	Directed Study Rel Studies	PHI2XXX	
+WR35	Comparative Religion	PHI1XXX	
+ZOO31	General Zoology 2/2 150	BIO1XXX	
+ZOO51	Comparative Anatomy	BIO1XXX	
+← Return to search Download complete course list (csv)
