@@ -31,7 +31,15 @@ export default function FindClasses() {
               type="search"
               placeholder="ENG131 or anthropology…"
               value={query}
-              onChange={(e) => setQuery(e.target.value)}
+              onChange={(e) => {
+                setQuery(e.target.value);
+                if (e.target.value !== '' && document.querySelector('.results-dropdown')) {
+                  const dropdown = document.querySelector('.results-dropdown') as HTMLDetailsElement;
+                  if (dropdown.open) {
+                    dropdown.open = false;
+                  }
+                }
+              }}
             />
           </div>
           <div className="field">
@@ -73,7 +81,7 @@ export default function FindClasses() {
           <p className="small">Clear the search or filters.</p>
         </div>
       ) : (
-        <details className="results-dropdown">
+        <details className="results-dropdown" open={query === ''}>
           <summary>
             <span aria-hidden="true" className="caret">▸</span> Show {Math.min(results.length, 200).toLocaleString()} matching
             course{results.length === 1 ? '' : 's'}
