@@ -29,13 +29,21 @@ const addCourse = (code: string) => {
   fireEvent.click(within(cardFor(code)).getByRole('button', { name: '+ Add' }));
 };
 const goTo = (label: string) => fireEvent.click(screen.getByRole('button', { name: label }));
-/** Find the table row for a category via its full-name cell (avoids matching <option> text). */
-const catRow = (code: string) => {
+/** Find the table row for a category via its full-name cell (avoids matching <option> text).
+ *  NSI is split into two rows — pass sub='lab' or 'no-lab' to pick one. */
+const catRow = (code: string, sub?: 'lab' | 'no-lab') => {
   const table = screen.getByRole('table');
   const row = within(table)
     .getAllByRole('row')
-    .find((tr) => tr.querySelector('.cat-name')?.textContent?.includes(`(${code})`));
-  if (!row) throw new Error(`no row for category ${code}`);
+    .find((tr) => {
+      const t = tr.querySelector('.cat-name')?.textContent ?? '';
+      if (code === 'NSI') {
+        const needle = sub === 'lab' ? '(lab)' : sub === 'no-lab' ? '(no lab)' : 'Natural Scientific Inquiry';
+        return t.includes('Natural Scientific Inquiry') && t.includes(needle);
+      }
+      return t.includes(`(${code})`);
+    });
+  if (!row) throw new Error(`no row for category ${code}${sub ? ' ' + sub : ''}`);
   return row;
 };
 
@@ -57,9 +65,7 @@ describe('Creditbridge app smoke test', () => {
 
     fireEvent.change(search(), { target: { value: 'ENG131' } });
     const details = screen.getByText(/matching course/i).closest('details') as HTMLDetailsElement;
-    expect(details.open).toBe(false);
-    fireEvent.click(screen.getByText(/matching course/i));
-    expect(details.open).toBe(true);
+    expect(details.open).toBe(true); // dropdown auto-opens as the user types
 
     const card = cardFor('ENG131');
     expect(within(card).getByText('BC')).toBeTruthy();
@@ -67,6 +73,36 @@ describe('Creditbridge app smoke test', () => {
     expect(within(card).getByText(/Possible Gen Ed: BC/)).toBeTruthy();
     expect(within(card).queryByText(/Effective term not listed/i)).toBeNull();
     expect(within(card).queryByText(/HFCC credit hours are not listed/i)).toBeNull();
+  });
+
+  it('auto-opens the results dropdown while typing, and the user can collapse it', () => {
+    renderApp();
+    const details = screen.getByText(/matching course/i).closest('details') as HTMLDetailsElement;
+    expect(details.open).toBe(false); // empty query: collapsed
+    fireEvent.change(search(), { target: { value: 'eng' } });
+    expect(details.open).toBe(true); // typing opens it
+    fireEvent.click(screen.getByText(/matching course/i));
+    expect(details.open).toBe(false); // clicking the summary collapses it
+    fireEvent.change(search(), { target: { value: 'eng131' } });
+    expect(details.open).toBe(true); // typing again reopens it
+  });
+
+  it('color-codes result cards: green for Gen Ed, gray for transfer-only, red for does-not-transfer', () => {
+    renderApp();
+    fireEvent.change(search(), { target: { value: 'ENG131' } });
+    const engCard = cardFor('ENG131');
+    expect(engCard.className).toContain('course-card-gen-ed');
+    expect(within(engCard).getByText('✓ Gen Ed')).toBeTruthy();
+
+    fireEvent.change(search(), { target: { value: 'ACT101' } });
+    const actCard = cardFor('ACT101');
+    expect(actCard.className).toContain('course-card-transfer');
+    expect(within(actCard).getByText('≈ Transfer only')).toBeTruthy();
+
+    fireEvent.change(search(), { target: { value: 'AERO110' } });
+    const aeroCard = cardFor('AERO110');
+    expect(aeroCard.className).toContain('course-card-none');
+    expect(within(aeroCard).getAllByText(/Does not transfer/i).length).toBeGreaterThan(0);
   });
 
   it('My Courses table is preloaded with all 10 required categories, course cells empty, with hover info on categories', () => {
@@ -84,7 +120,7 @@ describe('Creditbridge app smoke test', () => {
       'WSU Equivalent',
     ]);
     const bodyRows = within(table).getAllByRole('row').slice(1); // skip header
-    expect(bodyRows.length).toBe(10); // CIV CI GL NSI SI USP BC IC OC QE
+    expect(bodyRows.length).toBe(11); // CIV CI GL NSI(no lab) NSI(lab) SI USP BC IC OC QE
     for (const row of bodyRows) {
       expect(within(row).getAllByText('—').length).toBe(2); // HFCC Course + WSU Equivalent empty
     }
@@ -106,12 +142,16 @@ describe('Creditbridge app smoke test', () => {
     expect(qeName.textContent).toBe('Quantitative Experience (QE)');
     expect(qeName.getAttribute('title')).toContain('34-credit');
     expect(qeName.getAttribute('title')).toContain('Competency Requirements.txt');
-    // NSI credits cell shows just "7"; the lab detail is in the hover title
-    const nsiRow = catRow('NSI');
-    const nsiCredits = nsiRow.querySelector('[data-label="Credits"]')!;
-    expect(nsiCredits.textContent!.trim()).toBe('7');
-    expect(nsiCredits.querySelector('.credits-num')!.getAttribute('title')).toContain('with lab');
-    expect(nsiRow.querySelector('.cat-name')!.getAttribute('title')).toContain('seven courses');
+    // NSI is split into two rows: no-lab (3 cr) and lab (4 cr · lab)
+    const nsiNoLab = catRow('NSI', 'no-lab');
+    expect(within(nsiNoLab).getByText('Natural Scientific Inquiry (no lab)')).toBeTruthy();
+    expect(nsiNoLab.querySelector('[data-label="Credits"]')!.textContent!.trim()).toBe('3');
+    expect(nsiNoLab.querySelector('.cat-name')!.getAttribute('title')).toContain('without a lab');
+    const nsiLab = catRow('NSI', 'lab');
+    expect(within(nsiLab).getByText('Natural Scientific Inquiry (lab)')).toBeTruthy();
+    expect(nsiLab.querySelector('[data-label="Credits"]')!.textContent!.trim()).toBe('4');
+    expect(nsiLab.querySelector('.credits-num')!.getAttribute('title')).toContain('lab');
+    expect(nsiLab.querySelector('.cat-name')!.getAttribute('title')).toContain('WSU and HFCC websites');
     // QE row credits cell shows just "3"
     expect(catRow('QE').querySelector('[data-label="Credits"]')!.textContent!.trim()).toBe('3');
   });
@@ -178,6 +218,56 @@ describe('Creditbridge app smoke test', () => {
     expect(within(catRow('GL')).getAllByText('—').length).toBe(2);
   });
 
+  it('courses with no Gen Ed match or whose category is already filled appear under Electives & Broad Transfer', () => {
+    renderApp();
+    addCourse('ACT101'); // broad ET1XXX only -> no Gen Ed match
+    addCourse('MATH131'); // QE (Math For Mod World -> MAT1000)
+    addCourse('MATH140'); // QE (Intro To Statistics -> STA1020)
+    goTo('My Courses');
+
+    // Both QE courses stay in the QE row while QE is not covered yet.
+    const qeRow = catRow('QE');
+    expect(within(qeRow).getByText('MATH131')).toBeTruthy();
+    expect(within(qeRow).getByText('MATH140')).toBeTruthy();
+
+    // ACT101 has no Gen Ed match -> straight to electives, not any category row.
+    const electiveCard = screen.getByText(/Electives & Broad Transfer/i).closest('.card') as HTMLElement;
+    expect(within(electiveCard).getByText('ACT101')).toBeTruthy();
+    expect(within(electiveCard).getByText('Broad transfer')).toBeTruthy();
+
+    // Mark MATH131 completed with a C-or-better grade -> QE covered.
+    fireEvent.click(screen.getByLabelText('Edit MATH131'));
+    const editCell = screen.getByText(/Editing/).closest('td')!;
+    fireEvent.change(within(editCell).getByLabelText('Status'), { target: { value: 'completed' } });
+    fireEvent.change(within(editCell).getByLabelText('Grade'), { target: { value: 'B' } });
+    fireEvent.click(within(editCell).getByRole('button', { name: 'Save' }));
+
+    // MATH131 is the completed course that covered QE -> it stays in the QE row.
+    const qeRowAfter = catRow('QE');
+    expect(within(qeRowAfter).getByText('MATH131')).toBeTruthy();
+    expect(within(qeRowAfter).getByText('Completed')).toBeTruthy();
+
+    // MATH140 is still planned and QE is now covered -> redundant, moves to electives.
+    const electiveCardAfter = screen.getByText(/Electives & Broad Transfer/i).closest('.card') as HTMLElement;
+    expect(within(electiveCardAfter).getByText('MATH140')).toBeTruthy();
+    expect(within(electiveCardAfter).getByText('Elective')).toBeTruthy();
+    expect(within(qeRowAfter).queryByText('MATH140')).toBeNull();
+  });
+
+  it('splits NSI into no-lab and lab rows: a lab course lands in the lab row, a non-lab course in the no-lab row', () => {
+    renderApp();
+    addCourse('PSY131'); // → PSY1020 → NSI (no lab)
+    addCourse('BIO131'); // → BIO1050 → NSI (lab, conditional)
+    goTo('My Courses');
+
+    const noLab = catRow('NSI', 'no-lab');
+    const lab = catRow('NSI', 'lab');
+    expect(within(noLab).getByText('PSY131')).toBeTruthy();
+    expect(within(noLab).queryByText('BIO131')).toBeNull();
+    expect(within(lab).getByText('BIO131')).toBeTruthy();
+    expect(within(lab).queryByText('PSY131')).toBeNull();
+  });
+
   it('Gen Ed Progress boxes are collapsed by default, open on click, and show TXT-file credit requirements', () => {
     renderApp();
     addCourse('MATH131');
@@ -207,6 +297,25 @@ describe('Creditbridge app smoke test', () => {
     const qeBox = qeTitle.closest('details') as HTMLDetailsElement;
     expect(qeBox.open).toBe(true);
     expect(qeBox.querySelector('.badge-covered')).toBeTruthy(); // MATH131 completed with B → QE covered
+  });
+
+  it('Gen Ed Progress NSI tab lists all HFCC NSI courses; NSI lab section warns to confirm on WSU/HFCC and lists lab courses', () => {
+    renderApp();
+    goTo('Gen Ed Progress');
+
+    // Open the NSI inquiry tab — it lists every HFCC course that may fulfill NSI.
+    const nsiTitle = screen.getByText(/Natural Scientific Inquiry \(NSI\)/);
+    fireEvent.click(nsiTitle);
+    const nsiBox = nsiTitle.closest('details') as HTMLDetailsElement;
+    expect(nsiBox.open).toBe(true);
+    expect(within(nsiBox).getByText(/All HFCC courses that may fulfill this area/i)).toBeTruthy();
+    expect(within(nsiBox).getByText('PSY131')).toBeTruthy(); // no-lab NSI course
+    expect(within(nsiBox).getAllByText('lab').length).toBeGreaterThan(0); // lab courses are marked
+
+    // NSI lab section: confirm banner + lab courses listed.
+    const labSection = screen.getByText(/NSI lab requirement/).closest('details') as HTMLElement;
+    expect(within(labSection).getByText(/Confirm on the WSU and HFCC websites/i)).toBeTruthy();
+    expect(within(labSection).getByText('BIO131')).toBeTruthy(); // BIO131 → BIO1050 is a lab NSI course
   });
 
   it('search matches code prefixes first ("hum" → HUM101) and names ("humanities")', () => {

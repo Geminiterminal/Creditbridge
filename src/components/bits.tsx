@@ -55,17 +55,29 @@ function EquivalencyRows({ match }: { match: CourseMatch }) {
 export function CourseCard({ match }: { match: CourseMatch }) {
   const { entryForCourse, addEntry, removeEntry } = usePlan();
   const entry = entryForCourse(match.course.code);
+  const hasGenEd = match.allAreas.length > 0;
+  // Green = has a Gen Ed match; gray = transfers but no Gen Ed match; red = does not transfer.
+  const cardClass = hasGenEd
+    ? 'card course-card course-card-gen-ed'
+    : match.transfers
+      ? 'card course-card course-card-transfer'
+      : 'card course-card course-card-none';
   return (
-    <article className="card course-card" aria-label={`${match.course.code} ${match.course.name}`}>
+    <article className={cardClass} aria-label={`${match.course.code} ${match.course.name}`}>
       <div className="course-head">
         <div>
           <div className="course-code">{match.course.code}</div>
           <div className="course-name">{match.course.name}</div>
         </div>
         <div className="row">
-          <AreaChips areas={match.allAreas} />
-          {!match.transfers && <span className="badge badge-none">✕ Does not transfer</span>}
-          {match.transfers && !match.hasExact && <span className="badge badge-broad">≈ Broad credit only</span>}
+          {hasGenEd && <AreaChips areas={match.allAreas} />}
+          {hasGenEd ? (
+            <span className="badge badge-gen-ed">✓ Gen Ed</span>
+          ) : match.transfers ? (
+            <span className="badge badge-transfer-only">≈ Transfer only</span>
+          ) : (
+            <span className="badge badge-none">✕ Does not transfer</span>
+          )}
           {entry ? (
             <>
               <PlanStatusBadge status={entry.status} />
