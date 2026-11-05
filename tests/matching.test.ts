@@ -123,6 +123,14 @@ describe('searchCourses filters', () => {
     expect(results[0].course.code.startsWith('ART12')).toBe(true);
   });
 
+  it('ignores dashes/spaces/punctuation in the query: "hum-101" and "hum 101" find HUM101', () => {
+    for (const query of ['hum-101', 'hum 101', 'HUM.101', 'hum_101']) {
+      const results = searchCourses(courses, indexes, { ...all, query });
+      expect(results.some((m) => m.course.code === 'HUM101'), `query "${query}" should find HUM101`).toBe(true);
+      expect(results[0].course.code, `query "${query}" should rank HUM101 first`).toBe('HUM101');
+    }
+  });
+
   it('filters by Gen Ed area using exact matches only', () => {
     const bc = searchCourses(courses, indexes, { ...all, area: 'BC' });
     expect(bc.some((m) => m.course.code === 'ENG131')).toBe(true);

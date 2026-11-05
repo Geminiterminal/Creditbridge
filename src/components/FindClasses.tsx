@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { catalog, indexes, requirements } from '../lib/data';
 import { searchCourses, type AreaFilter, type CourseFilters, type EquivalencyFilter, type TransferFilter } from '../lib/matching';
 import { CourseCard } from './bits';
@@ -18,6 +18,14 @@ export default function FindClasses() {
   const filters: CourseFilters = { query, area, transfer, equivalency };
   const results = useMemo(() => searchCourses(catalog.courses, indexes, filters), [query, area, transfer, equivalency]);
 
+  const dropdownRef = useRef<HTMLDetailsElement>(null);
+  // Auto-open the results dropdown while the user is typing a query, so matching
+  // courses appear as they type. It stays open until they collapse it or clear the search.
+  useEffect(() => {
+    const el = dropdownRef.current;
+    if (el) el.open = query.trim().length > 0;
+  }, [query, results.length > 0]);
+
   return (
     <section aria-labelledby="find-heading">
       <h2 id="find-heading">Find Classes</h2>
@@ -31,14 +39,7 @@ export default function FindClasses() {
               type="search"
               placeholder="ENG131 or anthropology…"
               value={query}
-              onChange={(e) => {
-                const newQuery = e.target.value;
-                setQuery(newQuery);
-                const dropdown = document.querySelector('.results-dropdown') as HTMLDetailsElement | null;
-                if (dropdown) {
-                  dropdown.open = false;
-                }
-              }}
+              onChange={(e) => setQuery(e.target.value)}
             />
           </div>
           <div className="field">
@@ -80,13 +81,19 @@ export default function FindClasses() {
           <p className="small">Clear the search or filters.</p>
         </div>
       ) : (
-        <details className="results-dropdown">
-          <summary>
-            <span aria-hidden="true" className="caret">▸</span> Show {Math.min(results.length, 200).toLocaleString()} matching
-            course{results.length === 1 ? '' : 's'}
-            {results.length > 200 ? ` (first 200 of ${results.length.toLocaleString()})` : ''}
-          </summary>
-          <div className="results-body">
+        <>
+          <p className="small muted tight legend">
+            <span className="legend-swatch legend-green" aria-hidden="true" /> Gen Ed match
+            <span className="legend-swatch legend-gray" aria-hidden="true" /> transfers, no Gen Ed
+            <span className="legend-swatch legend-red" aria-hidden="true" /> does not transfer
+          </p>
+          <details className="results-dropdown" ref={dropdownRef}>
+            <summary>
+              <span aria-hidden="true" className="caret">▸</span> Show {Math.min(results.length, 200).toLocaleString()} matching
+              course{results.length === 1 ? '' : 's'}
+              {results.length > 200 ? ` (first 200 of ${results.length.toLocaleString()})` : ''}
+            </summary>
+            <div className="results-body">
             {results.slice(0, 200).map((m) => (
               <CourseCard key={m.course.code} match={m} />
             ))}
@@ -95,6 +102,7 @@ export default function FindClasses() {
             )}
           </div>
         </details>
+        </>
       )}
     </section>
   );

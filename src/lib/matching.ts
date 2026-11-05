@@ -170,19 +170,38 @@ export interface CourseFilters {
 }
 
 /**
- * Rank a query against a course: 0 = code starts with the query (e.g. "hum" → HUM101),
- * 1 = every word appears in the code, 2 = every word appears in code or name
- * (e.g. "humanities" → "Intro To Humanities"), -1 = no match.
+ * Lowercase and strip everything that isn't a letter or digit, so "hum-101",
+ * "hum 101", "HUM.101" and "HUM101" all compare equal to the code "HUM101".
+ * Dashes, spaces, dots and other punctuation in a query no longer break matching.
+ */
+function normalizeSearch(s: string): string {
+  return s.toLowerCase().replace(/[^a-z0-9]/g, '');
+}
+
+/**
+ * Rank a query against a course: 0 = code starts with the query (e.g. "hum" → HUM101,
+ * "hum-101" → HUM101), 1 = every word appears in the code, 2 = every word appears in
+ * code or name (e.g. "humanities" → "Intro To Humanities"), -1 = no match.
  */
 export function searchRank(code: string, name: string, query: string): number {
-  const q = query.trim().toLowerCase();
+  const q = query.trim();
   if (!q) return 0;
-  const words = q.split(/\s+/).filter(Boolean);
-  const c = code.toLowerCase();
-  if (c.startsWith(q)) return 0;
-  if (words.every((w) => c.includes(w))) return 1;
-  const n = name.toLowerCase();
-  if (words.every((w) => n.includes(w) || c.includes(w))) return 2;
+  const qn = normalizeSearch(q);
+  if (!qn) return -1; // only punctuation/symbols — no meaningful match
+  const cn = normalizeSearch(code);
+  const nn = normalizeSearch(name);
+  // 0 = normalized query is a prefix of the normalized code (e.g. "hum-101" → HUM101)
+  if (cn.startsWith(qn)) return 0;
+  // Split on whitespace so multi-word queries still work; normalize each word.
+  const words = q
+    .split(/\s+/)
+    .filter(Boolean)
+    .map(normalizeSearch)
+    .filter(Boolean);
+  // 1 = every word appears in the normalized code
+  if (words.length > 0 && words.every((w) => cn.includes(w))) return 1;
+  // 2 = every word appears in the normalized code or name
+  if (words.length > 0 && words.every((w) => nn.includes(w) || cn.includes(w))) return 2;
   return -1;
 }
 
@@ -213,7 +232,33 @@ export function searchCourses(
   return ranked.map((r) => r.match);
 }
 
-/** HFCC catalog courses that could cover a given Gen Ed area (exact matches only). */
+/** True when a matched AreaMatch corresponds to a WSU course with a lab
+ *  (either an unconditional lecture/lab course or one with a lab condition). */
+export function isLabMatch(m: AreaMatch): boolean {
+  return !!(m.labUnconditional || m.labConditional);
+}
+
+/**
+ * All HFCC catalog courses that could cover a given Gen Ed area (exact matches only),
+ * unlimited and in catalog order. Used to list every option for an area.
+ */
+export function coursesForArea(
+  courses: HfccCourse[],
+  indexes: RequirementIndexes,
+  area: GenEdAreaCode,
+): CourseMatch[] {
+  const out: CourseMatch[] = [];
+  for (const course of courses) {
+    const match = matchCourse(course, indexes);
+    if (!match.allAreas.includes(area)) continue;
+    if (!match.hasExact) continue; // broad credit alone is not a Gen Ed match
+    out.push(match);
+  }
+  return out;
+}
+
+/** HFCC catalog courses that could cover a given Gen Ed area (exact matches only),
+ *  excluding planned codes and capped at `limit`. */
 export function suggestCoursesForArea(
   courses: HfccCourse[],
   indexes: RequirementIndexes,
@@ -221,14 +266,7 @@ export function suggestCoursesForArea(
   excludeCodes: Set<string>,
   limit = 8,
 ): CourseMatch[] {
-  const suggestions: CourseMatch[] = [];
-  for (const course of courses) {
-    if (excludeCodes.has(course.code)) continue;
-    const match = matchCourse(course, indexes);
-    if (!match.allAreas.includes(area)) continue;
-    if (!match.hasExact) continue; // broad credit alone is not a Gen Ed match
-    suggestions.push(match);
-    if (suggestions.length >= limit) break;
-  }
-  return suggestions;
+  return coursesForArea(courses, indexes, area)
+    .filter((m) => !excludeCodes.has(m.course.code))
+    .slice(0, limit);
 }

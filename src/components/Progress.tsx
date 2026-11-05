@@ -1,17 +1,41 @@
 import { useMemo } from 'react';
 import { catalog, indexes, requirements } from '../lib/data';
-import { suggestCoursesForArea } from '../lib/matching';
+import { coursesForArea, isLabMatch, type CourseMatch } from '../lib/matching';
 import { areaCreditInfo, computeProgress, type AreaProgress } from '../lib/progress';
 import { usePlan } from '../lib/store';
-import type { CompetencyCode } from '../lib/types';
-import { CourseCard, StatusBadge } from './bits';
+import type { CompetencyCode, GenEdAreaCode } from '../lib/types';
+import { StatusBadge } from './bits';
+
+function AreaCourseRow({ match, area, inPlan }: { match: CourseMatch; area: GenEdAreaCode; inPlan: boolean }) {
+  const wsuCodes = [...match.inquiryMatches, ...match.competencyMatches]
+    .filter((m) => m.area === area)
+    .map((m) => m.wsuCode);
+  const nsi = area === 'NSI' ? match.inquiryMatches.find((x) => x.area === 'NSI') : undefined;
+  const lab = nsi ? isLabMatch(nsi) : false;
+  return (
+    <div className="area-course-row">
+      <span className="area-course-code">{match.course.code}</span>
+      <span className="muted small"> {match.course.name}</span>
+      {nsi &&
+        (lab ? (
+          <span className="badge badge-lab" title={nsi.labNotes || 'NSI lab course'}>
+            lab
+          </span>
+        ) : (
+          <span className="badge badge-nolab">no lab</span>
+        ))}
+      {inPlan && <span className="badge badge-plan">in plan</span>}
+      <span className="small muted"> → {wsuCodes.join(', ')}</span>
+      {lab && nsi?.labNotes && <span className="small muted area-course-note"> ({nsi.labNotes})</span>}
+    </div>
+  );
+}
 
 function AreaCard({ area, plannedCodes }: { area: AreaProgress; plannedCodes: Set<string> }) {
-  const uncovered = area.status === 'open' || area.status === 'needs-review';
   const credit = areaCreditInfo(requirements, area.area);
-  const suggestions = useMemo(
-    () => (uncovered ? suggestCoursesForArea(catalog.courses, indexes, area.area, plannedCodes, 6) : []),
-    [uncovered, area.area, plannedCodes],
+  const allCourses = useMemo(
+    () => coursesForArea(catalog.courses, indexes, area.area),
+    [area.area],
   );
 
   return (
@@ -70,20 +94,16 @@ function AreaCard({ area, plannedCodes }: { area: AreaProgress; plannedCodes: Se
           </p>
         ))}
 
-        {uncovered && (
-          <div>
-            <h3>Possible next courses</h3>
-            {suggestions.length === 0 ? (
-              <p className="small muted">No other HFCC catalog courses map exactly to this area in the supplied files.</p>
-            ) : (
-              suggestions.map((m) => (
-                <div key={m.course.code} className="suggestion">
-                  <CourseCard match={m} />
-                </div>
-              ))
-            )}
-          </div>
-        )}
+        <div>
+          <h3>All HFCC courses that may fulfill this area ({allCourses.length})</h3>
+          {allCourses.length === 0 ? (
+            <p className="small muted">No HFCC catalog courses map exactly to this area in the supplied files.</p>
+          ) : (
+            allCourses.map((m) => (
+              <AreaCourseRow key={m.course.code} match={m} area={area.area} inPlan={plannedCodes.has(m.course.code)} />
+            ))
+          )}
+        </div>
       </div>
     </details>
   );
@@ -96,6 +116,15 @@ export default function Progress() {
 
   const inquiryAreas = result.areas.filter((a) => a.kind === 'inquiry');
   const competencyAreas = result.areas.filter((a) => a.kind === 'competency');
+
+  // HFCC courses that map to an NSI course the WSU list marks as having a lab.
+  const nsiLabCourses = useMemo(
+    () =>
+      coursesForArea(catalog.courses, indexes, 'NSI').filter((m) =>
+        m.inquiryMatches.some((x) => x.area === 'NSI' && isLabMatch(x)),
+      ),
+    [],
+  );
 
   return (
     <section aria-labelledby="progress-heading">
@@ -134,16 +163,29 @@ export default function Progress() {
       <details className="card card-compact area-details">
         <summary className="area-head">
           <span className="area-title">
-            <span aria-hidden="true" className="caret">▸</span> NSI lab condition
+            <span aria-hidden="true" className="caret">▸</span> NSI lab requirement
           </span>
           <StatusBadge
             status={result.nsiLab.status === 'satisfied' ? 'covered' : result.nsiLab.status === 'needs-review' ? 'needs-review' : 'open'}
           />
         </summary>
         <div className="area-body">
+          <div className="banner banner-warn">
+            <strong>Confirm on the WSU and HFCC websites.</strong> Lab conditions (concurrent courses, credit
+            hours, lecture/lab combinations) are complex and can change — verify the lab requirement for your
+            specific course on both the WSU and HFCC sites before relying on it.
+          </div>
           <p className="small muted tight">
-            WSU requires a second NSI course with a lab. Lab status comes only from the supplied NSI list — never assumed.
+            WSU requires a second NSI course with a lab. The HFCC courses below map to an NSI course the WSU list
+            marks as having a lab. Lab status comes only from the supplied NSI list — never assumed.
           </p>
+          {nsiLabCourses.length === 0 ? (
+            <p className="small muted">No HFCC catalog courses map to an NSI lab course in the supplied files.</p>
+          ) : (
+            nsiLabCourses.map((m) => (
+              <AreaCourseRow key={m.course.code} match={m} area="NSI" inPlan={plannedCodes.has(m.course.code)} />
+            ))
+          )}
           {result.nsiLab.notes.map((n, i) => (
             <p key={i} className="caveat">
               ⚠ {n}
