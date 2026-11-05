@@ -245,10 +245,10 @@ textarea { resize: vertical; min-height: 56px; }
 
 /* Find Classes result cards: color-coded by Gen Ed / transfer status */
 .course-card { position: relative; }
-.course-card-gen-ed { border-left: 4px solid var(--green); background: #f3faf6; }
+.course-card-gen-ed { border-left: 5px solid var(--green); background: #e6f6ee; box-shadow: 0 0 0 1px #bfe0d2 inset; }
 .course-card-transfer { border-left: 4px solid var(--ink-soft); background: #f4f5f6; }
 .course-card-none { border-left: 4px solid var(--red); background: #fdf3f1; }
-.badge-gen-ed { background: var(--green-soft); color: var(--green-dark); border-color: #bfe0d2; }
+.badge-gen-ed { background: var(--green); color: #fff; border-color: var(--green-dark); font-weight: 700; }
 .badge-transfer-only { background: #eef1f0; color: var(--ink-soft); border-color: var(--line); }
 .legend { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; margin: 8px 2px 0; }
 .legend-swatch {
