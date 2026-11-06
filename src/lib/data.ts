@@ -12,3 +12,12 @@ export const requirements = requirementsJson as RequirementsData;
 export const indexes = buildRequirementIndexes(requirements);
 
 export const courseByCode = new Map(catalog.courses.map((c) => [c.code, c]));
+
+/**
+ * Course names come verbatim from the HFCC crosswalk, which leaves stray
+ * double spaces and trailing periods ("Mech & Elect Design."). Tidy them for
+ * display only — the bundled data itself stays verbatim.
+ */
+export function displayName(name: string): string {
+  return name.replace(/\s+/g, ' ').replace(/[\s.]+$/, '').trim();
+}

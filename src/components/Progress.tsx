@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { catalog, indexes, requirements } from '../lib/data';
+import { catalog, displayName, indexes, requirements } from '../lib/data';
 import { coursesForArea, isLabMatch, type CourseMatch } from '../lib/matching';
 import { areaCreditInfo, computeProgress, type AreaProgress } from '../lib/progress';
 import { usePlan } from '../lib/store';
@@ -15,7 +15,7 @@ function AreaCourseRow({ match, area, inPlan }: { match: CourseMatch; area: GenE
   return (
     <div className="area-course-row">
       <span className="area-course-code">{match.course.code}</span>
-      <span className="muted small"> {match.course.name}</span>
+      <span className="muted small"> {displayName(match.course.name)}</span>
       {nsi &&
         (lab ? (
           <span className="badge badge-lab" title={nsi.labNotes || 'NSI lab course'}>
@@ -43,9 +43,9 @@ function AreaCard({ area, plannedCodes }: { area: AreaProgress; plannedCodes: Se
       <summary className="area-head">
         <span className="area-title" title={credit.title}>
           <span aria-hidden="true" className="caret">▸</span> {area.label}
-          <span className="small muted"> · {credit.label}</span>
+          <span className="area-meta">{credit.label}</span>
           {area.kind === 'competency' && requirements.rules.competencyGradeRule.includes(area.area as CompetencyCode) && (
-            <span className="small muted"> · C or better</span>
+            <span className="area-meta">C or better</span>
           )}
         </span>
         <StatusBadge status={area.status} />
@@ -95,7 +95,7 @@ function AreaCard({ area, plannedCodes }: { area: AreaProgress; plannedCodes: Se
         ))}
 
         <div>
-          <h3>All HFCC courses that may fulfill this area ({allCourses.length})</h3>
+          <h3 className="no-orphan">All HFCC courses that may fulfill this area ({allCourses.length})</h3>
           {allCourses.length === 0 ? (
             <p className="small muted">No HFCC catalog courses map exactly to this area in the supplied files.</p>
           ) : (
@@ -116,6 +116,7 @@ export default function Progress() {
 
   const inquiryAreas = result.areas.filter((a) => a.kind === 'inquiry');
   const competencyAreas = result.areas.filter((a) => a.kind === 'competency');
+  const totalAreas = result.areas.length;
 
   // HFCC courses that map to an NSI course the WSU list marks as having a lab.
   const nsiLabCourses = useMemo(
@@ -128,7 +129,9 @@ export default function Progress() {
 
   return (
     <section aria-labelledby="progress-heading">
-      <h2 id="progress-heading">Gen Ed Progress</h2>
+      <div className="page-head">
+        <h2 id="progress-heading">Gen Ed Progress</h2>
+      </div>
 
       {result.warnings.length > 0 && (
         <div className="banner banner-warn" role="alert">
@@ -141,21 +144,32 @@ export default function Progress() {
         </div>
       )}
 
-      {entries.length === 0 && (
+      {entries.length === 0 ? (
         <div className="card empty">
-          <span className="big" aria-hidden="true">🧭</span>
           <p>
             <strong>Your plan is empty.</strong>
           </p>
           <p className="small">Add courses in My Courses to see progress here.</p>
         </div>
+      ) : (
+        <div className="progress-summary">
+          <div>
+            <div className="progress-big">
+              {result.areasCovered}/{totalAreas}
+            </div>
+            <div className="progress-caption">categories covered</div>
+          </div>
+          <div className="progress-divider" aria-hidden="true" />
+          <div>
+            <div className="progress-big progress-big-alt">
+              {result.inquiryCourses.count} of {result.inquiryCourses.required}
+            </div>
+            <div className="progress-caption">Inquiry courses</div>
+          </div>
+        </div>
       )}
 
-      <h3>Inquiry groups</h3>
-      <p className="small muted tight">
-        Courses completed: <strong>{result.inquiryCourses.count} of {result.inquiryCourses.required}</strong> — each of the six
-        groups needs a ≥3-credit course, and NSI needs a second course with a lab (seven courses total).
-      </p>
+      <div className="section-label">Inquiry groups</div>
       {inquiryAreas.map((a) => (
         <AreaCard key={a.area} area={a} plannedCodes={plannedCodes} />
       ))}
@@ -194,7 +208,7 @@ export default function Progress() {
         </div>
       </details>
 
-      <h3>Competencies (4)</h3>
+      <div className="section-label">Competencies</div>
       {competencyAreas.map((a) => (
         <AreaCard key={a.area} area={a} plannedCodes={plannedCodes} />
       ))}

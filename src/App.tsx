@@ -101,7 +101,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <img src="/favicon.svg" alt="" className="app-logo" width="34" height="34" />
+        <img src="/favicon.svg" alt="" className="app-logo" width="30" height="30" />
         <div>
           <h1 className="app-title">Creditbridge</h1>
           <p className="app-subtitle">Henry Ford College → Wayne State University</p>
