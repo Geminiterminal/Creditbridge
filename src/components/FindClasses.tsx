@@ -28,7 +28,9 @@ export default function FindClasses() {
 
   return (
     <section aria-labelledby="find-heading">
-      <h2 id="find-heading">Find Classes</h2>
+      <div className="page-head">
+        <h2 id="find-heading">Find Classes</h2>
+      </div>
 
       <div className="card card-compact">
         <div className="controls">
@@ -63,10 +65,10 @@ export default function FindClasses() {
           <div className="field">
             <label htmlFor="f-equiv">Equivalency</label>
             <select id="f-equiv" value={equivalency} onChange={(e) => setEquivalency(e.target.value as EquivalencyFilter)}>
-              <option value="all">Exact + broad + none</option>
+              <option value="all">Any</option>
               <option value="exact">Exact only</option>
-              <option value="broad">Broad (XXX) only</option>
-              <option value="none">Does not transfer only</option>
+              <option value="broad">Broad only</option>
+              <option value="none">No transfer</option>
             </select>
           </div>
         </div>
@@ -74,31 +76,40 @@ export default function FindClasses() {
 
       {results.length === 0 ? (
         <div className="card empty" role="status">
-          <span className="big" aria-hidden="true">🔍</span>
           <p>
             <strong>No matches.</strong>
           </p>
-          <p className="small">Clear the search or filters.</p>
+          <p className="small">Try a different search or clear the filters.</p>
         </div>
       ) : (
         <>
-          <p className="small muted tight legend">
-            <span className="legend-swatch legend-green" aria-hidden="true" /> Gen Ed match
-            <span className="legend-swatch legend-gray" aria-hidden="true" /> transfers, no Gen Ed
-            <span className="legend-swatch legend-red" aria-hidden="true" /> does not transfer
-          </p>
+          <div className="small muted legend">
+            <span>
+              <span className="legend-swatch legend-green" aria-hidden="true" /> Gen Ed match
+            </span>
+            <span>
+              <span className="legend-swatch legend-gray" aria-hidden="true" /> transfers, no Gen Ed
+            </span>
+            <span>
+              <span className="legend-swatch legend-red" aria-hidden="true" /> does not transfer
+            </span>
+          </div>
           <details className="results-dropdown" ref={dropdownRef}>
             <summary>
-              <span aria-hidden="true" className="caret">▸</span> Show {Math.min(results.length, 200).toLocaleString()} matching
-              course{results.length === 1 ? '' : 's'}
-              {results.length > 200 ? ` (first 200 of ${results.length.toLocaleString()})` : ''}
+              <span aria-hidden="true" className="caret">▸</span>
+              <span>
+                Show {Math.min(results.length, 200).toLocaleString()} matching course{results.length === 1 ? '' : 's'}
+              </span>
+              {results.length > 200 && (
+                <span className="summary-count">first 200 of {results.length.toLocaleString()}</span>
+              )}
             </summary>
             <div className="results-body">
             {results.slice(0, 200).map((m) => (
               <CourseCard key={m.course.code} match={m} />
             ))}
             {results.length > 200 && (
-              <p className="muted small">First 200 shown — refine search or filters to narrow down.</p>
+              <p className="muted small results-more">Narrow the search or filters to see the rest.</p>
             )}
           </div>
         </details>

@@ -1,5 +1,5 @@
 import { matchCourse, type CourseMatch } from '../lib/matching';
-import { courseByCode, indexes } from '../lib/data';
+import { courseByCode, displayName, indexes } from '../lib/data';
 import { usePlan } from '../lib/store';
 import { STATUS_LABELS, type PlanStatus } from '../lib/plan';
 import type { GenEdAreaCode } from '../lib/types';
@@ -27,7 +27,7 @@ export function PlanStatusBadge({ status }: { status: PlanStatus }) {
 export function AreaChips({ areas }: { areas: GenEdAreaCode[] }) {
   if (areas.length === 0) return null;
   return (
-    <span>
+    <span className="area-chips">
       {areas.map((a) => (
         <span key={a} className="chip chip-area" title={`Possible WSU Gen Ed area: ${a}`}>
           {a}
@@ -65,23 +65,25 @@ export function CourseCard({ match }: { match: CourseMatch }) {
   return (
     <article className={cardClass} aria-label={`${match.course.code} ${match.course.name}`}>
       <div className="course-head">
-        <div>
+        <div className="course-identity">
           <div className="course-code">{match.course.code}</div>
-          <div className="course-name">{match.course.name}</div>
-        </div>
-        <div className="row">
-          {hasGenEd && <AreaChips areas={match.allAreas} />}
+          <div className="course-name">{displayName(match.course.name)}</div>
           {hasGenEd ? (
-            <span className="badge badge-gen-ed">✓ Gen Ed</span>
+            <div className="course-tags">
+              <span className="badge badge-gen-ed">✓ Gen Ed</span>
+              <AreaChips areas={match.allAreas} />
+            </div>
           ) : match.transfers ? (
-            <span className="badge badge-transfer-only">≈ Transfer only</span>
-          ) : (
-            <span className="badge badge-none">✕ Does not transfer</span>
-          )}
+            <div className="course-tags">
+              <span className="badge badge-transfer-only">≈ Transfer only</span>
+            </div>
+          ) : null}
+        </div>
+        <div className="row course-actions">
           {entry ? (
             <>
               <PlanStatusBadge status={entry.status} />
-              <button type="button" className="btn btn-small btn-danger" onClick={() => removeEntry(entry.id)}>
+              <button type="button" className="btn btn-small btn-quiet" onClick={() => removeEntry(entry.id)}>
                 Remove
               </button>
             </>
@@ -94,7 +96,7 @@ export function CourseCard({ match }: { match: CourseMatch }) {
       </div>
       <EquivalencyRows match={match} />
       {match.allAreas.length > 0 && (
-        <p className="small muted tight">Possible Gen Ed: {match.allAreas.join(', ')}</p>
+        <p className="small muted course-areas">Possible Gen Ed: {match.allAreas.join(', ')}</p>
       )}
       {match.caveats.map((c, i) => (
         <p key={i} className="caveat">

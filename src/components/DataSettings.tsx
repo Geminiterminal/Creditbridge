@@ -44,62 +44,30 @@ export default function DataSettings() {
 
   return (
     <section aria-labelledby="data-heading">
-      <h2 id="data-heading">Data &amp; Settings</h2>
+      <div className="page-head">
+        <h2 id="data-heading">Data &amp; Settings</h2>
+      </div>
 
-      <div className="card card-compact">
-        <h3 style={{ marginTop: 0 }}>About</h3>
+      <div className="card">
+        <h3 className="card-title">About</h3>
         <p className="small">
-          Creditbridge shows which HFCC courses may transfer to WSU and may fit WSU Gen Ed requirements. Results are{' '}
+          Which HFCC courses may transfer to WSU and fit WSU Gen Ed requirements. Results are{' '}
           <strong>possible matches from the supplied files — not an official WSU degree evaluation</strong>. Confirm with a
           WSU advisor.
         </p>
-        <h3>Sources (bundled with the app)</h3>
-        <ul className="plain">
-          <li>
-            <code>Equivalent Courses from Henry Ford College.txt</code> — {catalog.courses.length.toLocaleString()} HFCC courses,{' '}
-            {totalEquivalencies.toLocaleString()} equivalency rows (exact / broad <code>XXX</code> / “Does not transfer”), with
-            effective terms where listed. Verbatim copies: <code>data/source/</code>.
-          </li>
-          <li>
-            <code>Inquiry Course Requirements.txt</code> — Inquiry groups {requirements.inquiry.map((g) => g.code).join(', ')}.
-          </li>
-          <li>
-            <code>Competency Requirements.txt</code> — Competencies {requirements.competencies.map((c) => c.code).join(', ')};{' '}
-            {requirements.rules.competencyGradeRule.join(', ')} need C or better.
-          </li>
-        </ul>
-        <h3>Caveats</h3>
-        <ul className="plain">
-          {catalog.caveats.map((c, i) => (
-            <li key={i}>{c}</li>
-          ))}
-          <li>
-            Broad codes like <code>BIO1XXX</code> are broad transfer credit — never a confirmed Gen Ed match. “Does not
-            transfer” is shown separately from “no specific Gen Ed match identified”.
-          </li>
-        </ul>
       </div>
 
-      <div className="card card-compact">
-        <h3 style={{ marginTop: 0 }}>Offline use</h3>
-        <p className="small">
-          The app and all data are cached on your device. <strong>Open the hosted site once while online</strong> — after that
-          it works fully offline. Your plan stays in this browser only; nothing is uploaded.
-        </p>
-      </div>
-
-      <div className="card card-compact">
-        <h3 style={{ marginTop: 0 }}>Backup</h3>
-        <p className="small">
-          Export your plan ({entries.length} {entries.length === 1 ? 'entry' : 'entries'}) to JSON, or import a backup. Import
-          replaces the current plan.
+      <div className="card">
+        <h3 className="card-title">Backup</h3>
+        <p className="small muted">
+          {entries.length} {entries.length === 1 ? 'entry' : 'entries'} in your plan. Import replaces the current plan.
         </p>
         <div className="row">
           <button type="button" className="btn btn-primary btn-small" onClick={handleExport} disabled={entries.length === 0}>
-            ⬇ Export plan (JSON)
+            ⬇ Export plan
           </button>
           <button type="button" className="btn btn-small" onClick={() => fileRef.current?.click()}>
-            ⬆ Import plan (JSON)
+            ⬆ Import plan
           </button>
           <input
             ref={fileRef}
@@ -124,9 +92,44 @@ export default function DataSettings() {
         )}
       </div>
 
-      <div className="card card-compact">
-        <h3 style={{ marginTop: 0 }}>Privacy</h3>
-        <p className="small">No accounts, no servers, no tracking. Your plan never leaves this browser unless you export it.</p>
+      <div className="card">
+        <h3 className="card-title">Sources</h3>
+        <dl className="source-list">
+          <div>
+            <dt>Crosswalk</dt>
+            <dd>
+              {catalog.courses.length.toLocaleString()} HFCC courses · {totalEquivalencies.toLocaleString()} equivalency rows — exact,
+              broad (<code>XXX</code>), or “Does not transfer”
+            </dd>
+          </div>
+          <div>
+            <dt>Inquiry groups</dt>
+            <dd>{requirements.inquiry.map((g) => g.code).join(' · ')}</dd>
+          </div>
+          <div>
+            <dt>Competencies</dt>
+            <dd>
+              {requirements.competencies.map((c) => c.code).join(' · ')} —{' '}
+              {requirements.rules.competencyGradeRule.join(', ')} need C or better
+            </dd>
+          </div>
+        </dl>
+      </div>
+
+      <div className="card">
+        <h3 className="card-title">Good to know</h3>
+        <ul className="plain">
+          {catalog.caveats.map((c, i) => (
+            <li key={i}>{c}</li>
+          ))}
+          <li>
+            Broad codes like <code>BIO1XXX</code> are broad transfer credit, never a confirmed Gen Ed match.
+          </li>
+          <li>
+            <strong>Open the hosted site once while online</strong> — after that it works fully offline. Your plan stays
+            in this browser: no accounts, no servers, no tracking.
+          </li>
+        </ul>
       </div>
     </section>
   );

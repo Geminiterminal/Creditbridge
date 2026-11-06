@@ -1,5 +1,5 @@
 import { Fragment, useMemo, useState } from 'react';
-import { catalog, indexes, requirements } from '../lib/data';
+import { catalog, displayName, indexes, requirements } from '../lib/data';
 import { searchRank } from '../lib/matching';
 import { GRADES, STATUS_LABELS, type PlanStatus } from '../lib/plan';
 import { areaCreditInfo, areaLabel, computeProgress } from '../lib/progress';
@@ -45,6 +45,24 @@ function entryNsiLab(entry: PlanEntry): { lab: boolean; noLab: boolean } {
     lab: nsi.some((x) => x.labUnconditional || x.labConditional),
     noLab: nsi.some((x) => !x.labUnconditional && !x.labConditional),
   };
+}
+
+/** Whether a plan entry belongs in a given table row. */
+function entryInRow(e: PlanEntry, row: RowDef, coveredAreas: Set<GenEdAreaCode>): boolean {
+  const m = matchFor(e.courseCode);
+  if (!m?.allAreas.includes(row.cat)) return false;
+  if (e.appliedArea && e.appliedArea !== row.cat) return false;
+  if (row.sub === 'lab' && !entryNsiLab(e).lab) return false;
+  if (row.sub === 'no-lab' && !entryNsiLab(e).noLab) return false;
+  if (coveredAreas.has(row.cat) && e.status !== 'completed') return false;
+  return true;
+}
+
+/** The first table row (in display order) an entry belongs in — where its
+ *  multi-category chooser is shown, so the chooser never appears twice. */
+function primaryRowKey(e: PlanEntry, coveredAreas: Set<GenEdAreaCode>): string | null {
+  const row = ROW_DEFS.find((r) => entryInRow(e, r, coveredAreas));
+  return row ? row.cat + (row.sub ?? '') : null;
 }
 
 /** Credit requirement shown for a table row. NSI is split into a 3-cr non-lab row and a
@@ -101,6 +119,7 @@ function EntryForm({
   const [error, setError] = useState('');
 
   const possibleAreas = useMemo(() => matchFor(courseCode)?.allAreas ?? [], [courseCode]);
+  const courseName = matchFor(courseCode)?.course.name;
 
   const submit = () => {
     if (!catalog.courses.some((c) => c.code === courseCode)) {
@@ -120,8 +139,9 @@ function EntryForm({
 
   return (
     <div>
-      <p className="small muted tight">
+      <p className="form-title">
         Editing <strong>{courseCode}</strong>
+        {courseName && <span className="course-name-text"> · {displayName(courseName)}</span>}
       </p>
       <div className="form-grid">
         <div className="field">
@@ -135,37 +155,36 @@ function EntryForm({
           </select>
         </div>
         <div className="field">
+          <label htmlFor="credits">HFCC credits</label>
+          <input id="credits" type="number" min="0" step="0.5" placeholder="3" value={credits} onChange={(e) => setCredits(e.target.value)} />
+        </div>
+        <div className="field">
           <label htmlFor="term">Term</label>
           <input id="term" type="text" placeholder="Fall 2026" value={term} onChange={(e) => setTerm(e.target.value)} />
         </div>
         <div className="field">
           <label htmlFor="grade">Grade</label>
           <select id="grade" value={grade} onChange={(e) => setGrade(e.target.value)}>
-            <option value="">—</option>
+            <option value="">Not graded</option>
             {GRADES.map((g) => (
               <option key={g} value={g}>
                 {g}
               </option>
             ))}
           </select>
-          {status === 'completed' && <span className="small muted">BC, IC, QE need C or better.</span>}
-        </div>
-        <div className="field">
-          <label htmlFor="credits">HFCC credits</label>
-          <input id="credits" type="number" min="0" step="0.5" placeholder="3" value={credits} onChange={(e) => setCredits(e.target.value)} />
         </div>
         {possibleAreas.length > 1 && (
           <div className="field span2">
-            <label htmlFor="applied-area">Apply toward (this course may fit {possibleAreas.length} categories)</label>
+            <label htmlFor="applied-area">Apply toward one category ({possibleAreas.length} possible)</label>
             <select
               id="applied-area"
               value={appliedArea ?? ''}
               onChange={(e) => setAppliedArea((e.target.value || undefined) as GenEdAreaCode | undefined)}
             >
-              <option value="">— choose one —</option>
+              <option value="">Not chosen yet</option>
               {possibleAreas.map((a) => (
                 <option key={a} value={a}>
-                  {a} — {areaLabel(a)}
+                  {a} — {areaLabel(a).replace(/\s*\(.*\)$/, '')}
                 </option>
               ))}
             </select>
@@ -173,20 +192,21 @@ function EntryForm({
         )}
         <div className="field span2">
           <label htmlFor="notes">Notes</label>
-          <textarea id="notes" placeholder="Anything to remember?" value={notes} onChange={(e) => setNotes(e.target.value)} />
+          <textarea id="notes" placeholder="Optional" value={notes} onChange={(e) => setNotes(e.target.value)} />
         </div>
       </div>
+      {status === 'completed' && <p className="form-hint">BC, IC and QE need a grade of C or better.</p>}
       {error && (
         <p className="banner banner-error" role="alert">
           {error}
         </p>
       )}
-      <div className="row" style={{ marginTop: 8 }}>
+      <div className="row form-actions">
         <button type="button" className="btn btn-primary btn-small" onClick={submit}>
           Save
         </button>
         {onCancel && (
-          <button type="button" className="btn btn-small" onClick={onCancel}>
+          <button type="button" className="btn btn-small btn-quiet" onClick={onCancel}>
             Cancel
           </button>
         )}
@@ -222,22 +242,17 @@ function AddCoursePicker({ onPick, onCancel }: { onPick: (code: string) => void;
         />
       </div>
       {suggestions.length > 0 && (
-        <div style={{ marginTop: 6 }} role="listbox" aria-label="Matching courses">
+        <div className="picker-list" role="listbox" aria-label="Matching courses">
           {suggestions.map((c) => (
-            <button
-              key={c.code}
-              type="button"
-              className="btn btn-small"
-              style={{ display: 'block', width: '100%', textAlign: 'left', margin: 3 }}
-              onClick={() => onPick(c.code)}
-            >
-              <strong>{c.code}</strong> · {c.name}
+            <button key={c.code} type="button" className="picker-item" onClick={() => onPick(c.code)}>
+              <span className="course-code-text">{c.code}</span>
+              <span className="course-name-text">{displayName(c.name)}</span>
             </button>
           ))}
         </div>
       )}
-      <div className="row" style={{ marginTop: 8 }}>
-        <button type="button" className="btn btn-small" onClick={onCancel}>
+      <div className="row form-actions">
+        <button type="button" className="btn btn-small btn-quiet" onClick={onCancel}>
           Cancel
         </button>
       </div>
@@ -259,9 +274,9 @@ function EquivalentCell({ match }: { match: CourseMatch }) {
                 {req?.minCredits != null ? ` · ${req.minCredits} cr` : ''}
               </span>
             )}
-            {eq.kind === 'broad' && <span className="badge badge-broad">broad {eq.wsuCode}</span>}
-            {eq.kind === 'none' && <span className="badge badge-none">✕ Does not transfer</span>}
-            {eq.effectiveTerm && <span className="small muted"> {eq.effectiveTerm}</span>}
+            {eq.kind === 'broad' && <span className="badge badge-broad">≈ {eq.wsuCode}</span>}
+            {eq.kind === 'none' && <span className="badge badge-none">✕ no transfer</span>}
+            {eq.effectiveTerm && <span className="small muted">{eq.effectiveTerm}</span>}
           </li>
         );
       })}
@@ -308,12 +323,12 @@ function ElectiveRow({
         <div>
           <button
             type="button"
-            className="linklike"
+            className="course-label"
             aria-label={`Edit ${entry.courseCode}`}
             onClick={() => onEdit(isEditing ? null : entry.id)}
           >
-            <strong>{entry.courseCode}</strong>
-            {match ? <span className="muted small"> {match.course.name}</span> : null}
+            <span className="course-code-text">{entry.courseCode}</span>
+            {match ? <span className="course-name-text">{displayName(match.course.name)}</span> : null}
           </button>
           <PlanStatusBadge status={entry.status} />
           <span className={`badge ${badgeClass}`} title={reasonDetail}>
@@ -323,7 +338,7 @@ function ElectiveRow({
         <div>{match ? <EquivalentCell match={match} /> : <span className="muted small">—</span>}</div>
       </div>
       {isEditing && (
-        <div className="card card-compact">
+        <div className="card card-compact edit-inline">
           <EntryForm
             courseCode={entry.courseCode}
             initial={entry}
@@ -333,7 +348,7 @@ function ElectiveRow({
             }}
             onCancel={() => onEdit(null)}
           />
-          <div className="row" style={{ marginTop: 8 }}>
+          <div className="row form-actions">
             <button
               type="button"
               className="btn btn-small btn-danger"
@@ -342,7 +357,7 @@ function ElectiveRow({
                 onEdit(null);
               }}
             >
-              Remove from plan
+              Remove course
             </button>
           </div>
         </div>
@@ -378,24 +393,15 @@ function ElectivesSection({
       />
     ));
   return (
-    <div className="card elective-card">
+    <div className={`card elective-card${electives.length === 0 ? ' elective-card-empty' : ''}`}>
       <div className="area-head">
         <h3 className="elective-title">Electives &amp; Broad Transfer</h3>
         <span className="small muted">
-          {electives.length} course{electives.length === 1 ? '' : 's'}
+          {electives.length > 0 ? `${electives.length} course${electives.length === 1 ? '' : 's'}` : 'transfer credit'}
         </span>
       </div>
-      <p className="small muted tight">
-        These courses do not count toward a specific WSU Gen Ed requirement — either they have no
-        WSU Gen Ed category match (broad transfer credit or “Does not transfer”), or the category
-        they map to is already filled. They may still count as transfer or elective credit.
-      </p>
       {electives.length === 0 ? (
-        <div className="empty">
-          <span className="big">∅</span>
-          No electives yet. Courses with no Gen Ed match, or that map to an already-filled category,
-          will appear here.
-        </div>
+        <p className="empty-hint">None yet — courses that don’t fill a Gen Ed slot appear here.</p>
       ) : (
         <>
           {noMatch.length > 0 && (
@@ -483,57 +489,62 @@ export default function MyCourses() {
   // into a no-lab row and a lab row; a course lands in the row matching its WSU
   // equivalent's lab status. Course cells stay empty ("—") until courses are added.
   const rows = ROW_DEFS.map((row) => {
-    const inRow = entries.filter((e) => {
-      const m = matchFor(e.courseCode);
-      if (!m?.allAreas.includes(row.cat)) return false;
-      if (e.appliedArea && e.appliedArea !== row.cat) return false;
-      if (row.sub === 'lab' && !entryNsiLab(e).lab) return false;
-      if (row.sub === 'no-lab' && !entryNsiLab(e).noLab) return false;
-      if (coveredAreas.has(row.cat) && e.status !== 'completed') return false;
-      return true;
-    });
-    return { row, inRow };
+    const key = row.cat + (row.sub ?? '');
+    const inRow = entries.filter((e) => entryInRow(e, row, coveredAreas));
+    return { row, key, inRow };
   });
 
-  const renderMultiNote = (entry: PlanEntry, cat: GenEdAreaCode) => {
+  const filledRowCount = rows.filter((r) => r.inRow.length > 0).length;
+
+  /** One-tap chooser shown under a multi-category course — it counts toward one slot. */
+  const renderMultiNote = (entry: PlanEntry) => {
     const match = matchFor(entry.courseCode);
     if (!match || match.allAreas.length <= 1) return null;
+    const others = match.allAreas.filter((a) => a !== entry.appliedArea);
     if (entry.appliedArea) {
       return (
-        <span className="small muted"> ✓ applied to {cat}</span>
+        <span className="multi-note" title={`Counts once — it could also have filled ${others.join(' or ')}.`}>
+          <span className="multi-applied">✓ applied to {entry.appliedArea}</span>
+          <button
+            type="button"
+            className="mini-link"
+            onClick={() => updateEntry(entry.id, { appliedArea: undefined })}
+          >
+            change
+          </button>
+        </span>
       );
     }
     return (
-      <span className="multi-wrap">
+      <span className="multi-note">
+        <span className="multi-label">Counts toward</span>
         <span
-          className="badge badge-multi"
-          title="This course may fit multiple categories. Choose which single category it counts toward — it is not counted toward more than one automatically."
-        >
-          ⚠ choose category
-        </span>
-        <select
-          className="mini-select"
+          className="multi-choices"
+          role="group"
           aria-label={`Apply ${entry.courseCode} toward a category`}
-          value=""
-          onChange={(e) => updateEntry(entry.id, { appliedArea: e.target.value as GenEdAreaCode })}
+          title="This course fits more than one category but counts toward only one — pick which."
         >
-          <option value="">apply to…</option>
           {match.allAreas.map((a) => (
-            <option key={a} value={a}>
+            <button
+              key={a}
+              type="button"
+              className="choice-chip"
+              aria-label={`Apply ${entry.courseCode} toward ${a}`}
+              title={`Apply ${entry.courseCode} to ${areaLabel(a)}`}
+              onClick={() => updateEntry(entry.id, { appliedArea: a })}
+            >
               {a}
-            </option>
+            </button>
           ))}
-        </select>
+        </span>
       </span>
     );
   };
 
   return (
     <section aria-labelledby="courses-heading">
-      <div className="row" style={{ margin: '0 0 8px' }}>
-        <h2 id="courses-heading" style={{ margin: 0 }}>
-          My Courses
-        </h2>
+      <div className="page-head">
+        <h2 id="courses-heading">My Courses</h2>
         <span className="spacer" />
         <button
           type="button"
@@ -570,63 +581,69 @@ export default function MyCourses() {
       )}
 
       <div className="card table-card">
+        <div className="table-card-head">
+          <h3>Required Gen Ed</h3>
+          <span className="small muted">
+            {filledRowCount} of {rows.length} rows filled
+          </span>
+        </div>
         <div className="table-wrap">
           <table className="plan-table">
-              <thead>
-                <tr>
-                  <th scope="col">WSU Gen Ed Category</th>
-                  <th scope="col">Credits</th>
-                  <th scope="col">HFCC Course</th>
-                  <th scope="col">WSU Equivalent</th>
-                </tr>
-              </thead>
+            <thead>
+              <tr>
+                <th scope="col">WSU Gen Ed Category</th>
+                <th scope="col" className="col-credits">Credits</th>
+                <th scope="col">HFCC Course</th>
+                <th scope="col">WSU Equivalent</th>
+              </tr>
+            </thead>
             <tbody>
-              {rows.map(({ row, inRow }) => {
+              {rows.map(({ row, key, inRow }) => {
                 const credit = rowCreditInfo(row);
                 const isEditingRow = inRow.some((e) => e.id === editingId);
                 return (
-                  <Fragment key={row.cat + (row.sub ?? '')}>
+                  <Fragment key={key}>
                     <tr className={isEditingRow ? 'row-editing' : ''}>
                       <td data-label="WSU Gen Ed Category">
                         <span className="cat-name" title={credit.title}>
                           {row.label}
                         </span>
-                        {inRow.map((e) => (
-                          <span key={e.id}>{renderMultiNote(e, row.cat)}</span>
-                        ))}
                       </td>
-                      <td data-label="Credits" className="credits-cell">
+                      <td data-label="Credits" className="credits-cell col-credits">
                         <span className="credits-num" title={credit.label}>
                           {credit.credits}
                         </span>
                       </td>
-                      <td data-label="HFCC Course">
+                      <td data-label="HFCC Course" className={inRow.length === 0 ? 'is-empty' : ''}>
                         {inRow.length === 0 ? (
-                          <span className="muted">—</span>
+                          <span className="muted cell-empty">—</span>
                         ) : (
                           inRow.map((e) => {
                             const match = matchFor(e.courseCode);
                             return (
                               <div key={e.id} className="cell-course">
-                                <button
-                                  type="button"
-                                  className="linklike"
-                                  aria-label={`Edit ${e.courseCode}`}
-                                  title="Click to edit"
-                                  onClick={() => setEditingId(editingId === e.id ? null : e.id)}
-                                >
-                                  <strong>{e.courseCode}</strong>
-                                  {match ? <span className="muted small"> {match.course.name}</span> : null}
-                                </button>{' '}
-                                <PlanStatusBadge status={e.status} />
+                                <div className="course-line">
+                                  <button
+                                    type="button"
+                                    className="course-label"
+                                    aria-label={`Edit ${e.courseCode}`}
+                                    title="Click to edit"
+                                    onClick={() => setEditingId(editingId === e.id ? null : e.id)}
+                                  >
+                                    <span className="course-code-text">{e.courseCode}</span>
+                                    {match ? <span className="course-name-text">{displayName(match.course.name)}</span> : null}
+                                  </button>
+                                  <PlanStatusBadge status={e.status} />
+                                </div>
+                                {primaryRowKey(e, coveredAreas) === key ? renderMultiNote(e) : null}
                               </div>
                             );
                           })
                         )}
                       </td>
-                      <td data-label="WSU Equivalent">
+                      <td data-label="WSU Equivalent" className={inRow.length === 0 ? 'is-empty' : ''}>
                         {inRow.length === 0 ? (
-                          <span className="muted">—</span>
+                          <span className="muted cell-empty">—</span>
                         ) : (
                           inRow.map((e) => {
                             const match = matchFor(e.courseCode);
@@ -647,7 +664,7 @@ export default function MyCourses() {
                             }}
                             onCancel={() => setEditingId(null)}
                           />
-                          <div className="row" style={{ marginTop: 8 }}>
+                          <div className="row form-actions">
                             <button
                               type="button"
                               className="btn btn-small btn-danger"
@@ -656,7 +673,7 @@ export default function MyCourses() {
                                 setEditingId(null);
                               }}
                             >
-                              Remove from plan
+                              Remove course
                             </button>
                           </div>
                         </td>

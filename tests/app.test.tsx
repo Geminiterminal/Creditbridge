@@ -177,7 +177,7 @@ describe('Creditbridge app smoke test', () => {
     expect(within(qeRowAfter).getByText('Completed')).toBeTruthy();
   });
 
-  it('multi-category course shows a red "choose category" notification until the user picks one', () => {
+  it('multi-category course shows a one-tap category chooser until the user picks one', () => {
     renderApp();
     addCourse('ANTH131'); // → ANT1100 → possible SI and USP
     goTo('My Courses');
@@ -187,32 +187,32 @@ describe('Creditbridge app smoke test', () => {
     expect(within(siRow).getByText('ANTH131')).toBeTruthy();
     expect(within(uspRow).getByText('ANTH131')).toBeTruthy();
 
-    // red notification next to the category in each matching row
-    expect(within(siRow).getByText(/choose category/i)).toBeTruthy();
-    expect(within(uspRow).getByText(/choose category/i)).toBeTruthy();
-    expect(document.querySelectorAll('.badge-multi').length).toBe(2);
+    // a one-tap chooser appears once (under the first matching row), not once per row
+    expect(within(siRow).getByLabelText('Apply ANTH131 toward a category')).toBeTruthy();
+    expect(within(uspRow).queryByLabelText('Apply ANTH131 toward a category')).toBeNull();
+    expect(document.querySelectorAll('.choice-chip').length).toBe(2); // SI or USP
 
-    // choose SI via the inline select in the SI row
-    fireEvent.change(within(siRow).getByLabelText('Apply ANTH131 toward a category'), { target: { value: 'SI' } });
+    // choose SI via the chip in the SI row
+    fireEvent.click(within(siRow).getByRole('button', { name: 'Apply ANTH131 toward SI' }));
     const siRowAfter = catRow('SI');
     const uspRowAfter = catRow('USP');
     expect(within(siRowAfter).getByText(/✓ applied to SI/)).toBeTruthy();
     // once applied to CI/SI, the course no longer appears in the other row (HUM101-in-GL bug)
     expect(within(uspRowAfter).queryByText('ANTH131')).toBeNull();
     expect(within(uspRowAfter).getAllByText('—').length).toBe(2); // both course cells empty again
-    expect(document.querySelectorAll('.badge-multi').length).toBe(0);
+    expect(document.querySelectorAll('.choice-chip').length).toBe(0);
   });
 
   it('regression: HUM101 (→ MUH1340, listed in both CI and GL) leaves the GL row once applied to CI', () => {
     renderApp();
     addCourse('HUM101');
     goTo('My Courses');
-    // MUH1340 is in both CI and GL per the Inquiry file, so both rows show it with the red notice
+    // MUH1340 is in both CI and GL per the Inquiry file, so both rows show it with the chooser
     expect(within(catRow('CI')).getByText('HUM101')).toBeTruthy();
     expect(within(catRow('GL')).getByText('HUM101')).toBeTruthy();
-    expect(document.querySelectorAll('.badge-multi').length).toBe(2);
+    expect(document.querySelectorAll('.choice-chip').length).toBe(2);
 
-    fireEvent.change(within(catRow('CI')).getByLabelText('Apply HUM101 toward a category'), { target: { value: 'CI' } });
+    fireEvent.click(within(catRow('CI')).getByRole('button', { name: 'Apply HUM101 toward CI' }));
     expect(within(catRow('CI')).getByText(/✓ applied to CI/)).toBeTruthy();
     expect(within(catRow('GL')).queryByText('HUM101')).toBeNull(); // not shown for GL anymore
     expect(within(catRow('GL')).getAllByText('—').length).toBe(2);
